@@ -908,7 +908,7 @@
                                                 <div class="gdlr-core-tab-item-title  gdlr-core-active" data-tab-id="1">Executive Team</div>
                                                 <div class="gdlr-core-tab-item-title " data-tab-id="2">Features</div>
                                                 <div class="gdlr-core-tab-item-title " data-tab-id="3">Accreditations </div>
-                                                <div class="gdlr-core-tab-item-title " data-tab-id="4">420 + Placements</div>
+                                                <div class="gdlr-core-tab-item-title " data-tab-id="4">400+ Placements</div>
                                             </div>
                                             <div class="gdlr-core-tab-item-content-wrap clearfix">
                                                 <div class="gdlr-core-tab-item-content  gdlr-core-active" data-tab-id="1" >
