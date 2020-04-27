@@ -407,9 +407,7 @@
                     <br>
                     <div class="gdlr-core-pbf-wrapper  hp1-col-services"  data-skin="Blue Title" id="gdlr-core-wrapper-1">
                         
-                       <Center> <h2>About Us </h2></Center> 
-                       <hr>
-                       <p>Most Trusted Institute -  VSM is the  most trusted brand among its students from surrounding areas, academicians from prominent institutions of India have become the part of VSM community<p>
+                      
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                             <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
@@ -512,7 +510,7 @@
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_18">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_4">Apply for Admission</h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_0">Fall 2019 applications are now open</span></div>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_4">About VSM</h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_0">Fall 2020 applications are now open</span></div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" id="div_1dd7_19">
@@ -902,7 +900,7 @@
                                                 <div class="gdlr-core-tab-item-content  gdlr-core-active" data-tab-id="1" >
                                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
                                                         <div class="gdlr-core-title-item-title-wrap ">
-                                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_24">Why Choose VSM<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_24">Executive Team<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                                     </div>
                                                     <p><b>Shri Merla Narayana Murthy</b> :  President & Correspondent</p>
                                                     <p><b>Shri M.S.R. Prasad</b>:   B.Tech.(CSE),Vice-President More than 22 years of experience in Administration</p>
@@ -915,7 +913,7 @@
                                                 <div class="gdlr-core-tab-item-content " data-tab-id="2" >
                                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
                                                         <div class="gdlr-core-title-item-title-wrap ">
-                                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_25">Self Development<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_25">Features<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                                     </div>
                                                     <p>TrNCC, NSS Units for both Boys and Girls</p>
                                                     <p>APSSDC, PMKVY Affiliated Campus</p>
@@ -932,14 +930,14 @@
                                                 <div class="gdlr-core-tab-item-content " data-tab-id="3" >
                                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
                                                         <div class="gdlr-core-title-item-title-wrap ">
-                                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_26">Spirituality<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_26">Accreditations<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                                     </div>
                                                     <p>VSM College of Engineering is approved by All India Council For Technical Education, New Delhi., and Permanently Affiliated To JNTU-Kakinada, Andhra Pradesh.An ISO 9001 : 2015 Certified Institution</p>
                                                 </div>
                                                 <div class="gdlr-core-tab-item-content " data-tab-id="4" >
                                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
                                                         <div class="gdlr-core-title-item-title-wrap ">
-                                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_27">Alumni<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_27">Placements<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                                     </div>
                                                     <p>TCS-2</p>
 <p>HGS-80 , GENPACT-4</p>
@@ -1267,7 +1265,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
                                                         <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_28">Undergraduate</h3>
                                                     </div>
-                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_5">Kingster University was established by John Smith in 1920 for the public benefit and it is recognized globally.</span>
+                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_5">VSM IS A GOOD COLLEGE</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -1282,7 +1280,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
                                                         <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_29">Graduated & Professional</h3>
                                                     </div>
-                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_6">Kingster University was established by John Smith in 1920 for the public benefit and it is recognized globally.</span>
+                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_6">VSM IS A GOOD COLLEGE</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -1299,7 +1297,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
                                                         <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_30">Scholarships & Financial AID</h3>
                                                     </div>
-                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_7">Kingster University was established by John Smith in 1920 for the public benefit and it is recognized globally.</span>
+                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_7">VSM IS A VERY GOOD COLLGE</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -1637,7 +1635,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                         <br />Pincode - 533255</p>
                                     <p><span id="span_1dd7_11">Phone : 9030607687,7729972288,7729972289,7729972290</span>
                                         <br /> <span class="gdlr-core-space-shortcode" id="span_1dd7_12"></span>
-                                        <br /> <a id="a_1dd7_8" href="mailto:admin@kingsteruni.edu">admin@kingsteruni.edu</a></p>
+                                        <br /> <a id="a_1dd7_8" href="mailto:admin@kingsteruni.edu">admin@kvsm.in</a></p>
                                     <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-left-align">
                                         <div class="gdlr-core-divider-line gdlr-core-skin-divider" id="div_1dd7_111"></div>
                                     </div>
