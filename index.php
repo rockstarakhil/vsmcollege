@@ -22,7 +22,7 @@
             <div class="kingster-mobile-header-container kingster-container clearfix">
                 <div class="kingster-logo  kingster-item-pdlr">
                     <div class="kingster-logo-inner">
-                        <a class="" href="index.html"><img src="http://vsmcollege.herokuapp.com/assest/img/logo1.png" alt="" /></a>
+                        <a class="" href="index.php"><img src="ic/logo.png" alt="" /></a>
                     </div>
                 </div>
                 <div class="kingster-mobile-menu-right">
@@ -43,18 +43,18 @@
                     <div class="kingster-mobile-menu"><a class="kingster-mm-menu-button kingster-mobile-menu-button kingster-mobile-button-hamburger" href="#kingster-mobile-menu"><span></span></a>
                         <div class="kingster-mm-menu-wrap kingster-navigation-font" id="kingster-mobile-menu" data-slide="right">
                             <ul id="menu-main-navigation" class="m-menu">
-                                <li class="menu-item menu-item-home current-menu-item menu-item-has-children"><a href="index.html">Home</a>
-                                    <ul class="sub-menu">
+                                <li class="menu-item menu-item-home current-menu-item menu-item-has-children"><a href="index.php">Home</a>
+                                   <!-- <ul class="sub-menu">
                                         <li class="menu-item menu-item-home"><a href="index.html">Homepage 1</a></li>
                                         <li class="menu-item"><a href="homepage-2.html">Homepage 2</a></li>
-                                    </ul>
+                                    </ul> -->
                                 </li>
                                 <li class="menu-item menu-item-has-children"><a href="#">Pages</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a href="about-us.html">About KU</a></li>
-                                        <li class="menu-item menu-item-has-children"><a href="blog-full-right-sidebar-with-frame.html">Blog</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item menu-item-has-children"><a href="blog-full-right-sidebar-with-frame.html">Blog Full</a>
+                                       <!-- <li class="menu-item"><a href="about-us.html">About KU</a></li> -->
+                                     <!--   <li class="menu-item menu-item-has-children"><a href="blog-full-right-sidebar-with-frame.html">Blog</a>-->
+                                            <ul class="sub-menu"> 
+                                          <!--      <li class="menu-item menu-item-has-children"><a href="blog-full-right-sidebar-with-frame.html">Blog Full</a> -->
                                                     <ul class="sub-menu">
                                                         <li class="menu-item"><a href="blog-full-right-sidebar-with-frame.html">Blog Full Right Sidebar With Frame</a></li>
                                                         <li class="menu-item"><a href="blog-full-left-sidebar-with-frame.html">Blog Full Left Sidebar With Frame</a></li>
@@ -64,7 +64,7 @@
                                                         <li class="menu-item"><a href="blog-full-both-sidebar.html">Blog Full Both Sidebar</a></li>
                                                     </ul>
                                                 </li>
-                                                <li class="menu-item menu-item-has-children"><a href="blog-grid-3-columns-no-space.html">Blog Grid</a>
+                                           <!--     <li class="menu-item menu-item-has-children"><a href="blog-grid-3-columns-no-space.html">Blog Grid</a> -->
                                                     <ul class="sub-menu">
                                                         <li class="menu-item"><a href="blog-grid-2-columns.html">Blog Grid 2 Columns</a></li>
                                                         <li class="menu-item"><a href="blog-grid-3-columns.html">Blog Grid 3 Columns</a></li>
@@ -75,19 +75,19 @@
                                                     </ul>
                                                 </li>
 
-                                                <li class="menu-item"><a href="standard-post-type.html">Single Post</a></li>
+                                            <!--    <li class="menu-item"><a href="standard-post-type.html">Single Post</a></li> -->
                                             </ul>
                                         </li>
-                                        <li class="menu-item menu-item-has-children"><a href="#">Contact</a>
+                                     <!--   <li class="menu-item menu-item-has-children"><a href="#">Contact</a> -->
                                             <ul class="sub-menu">
-                                                <li class="menu-item"><a href="contact.html">Contact</a></li>
+                                             <!--   <li class="menu-item"><a href="contact.html">Contact</a></li>
                                                 <li class="menu-item"><a href="contact-2.html">Contact 2</a></li>
-                                                <li class="menu-item"><a href="contact-3.html">Contact 3</a></li>
+                                                <li class="menu-item"><a href="contact-3.html">Contact 3</a></li> -->
                                             </ul>
                                         </li>
-                                        <li class="menu-item menu-item-has-children"><a href="portfolio-3-columns.html">Portfolio</a>
+                                   <!--     <li class="menu-item menu-item-has-children"><a href="portfolio-3-columns.html">Portfolio</a> -->
                                             <ul class="sub-menu">
-                                                <li class="menu-item menu-item-has-children"><a>Portfolio Grid</a>
+                                            <!--    <li class="menu-item menu-item-has-children"><a>Portfolio Grid</a> -->
                                                     <ul class="sub-menu">
                                                         <li class="menu-item"><a href="portfolio-2-columns.html">Portfolio 2 Columns</a></li>
                                                         <li class="menu-item"><a href="portfolio-3-columns.html">Portfolio 3 Columns</a></li>
@@ -102,7 +102,7 @@
                                                         <li class="menu-item"><a href="portfolio-5-columns-no-space.html">Portfolio 5 Columns No Space</a></li>
                                                     </ul>
                                                 </li>
-                                                <li class="menu-item menu-item-has-children"><a>Portfolio Masonry</a>
+                                           <!--     <li class="menu-item menu-item-has-children"><a>Portfolio Masonry</a> -->
                                                     <ul class="sub-menu">
                                                         <li class="menu-item"><a href="portfolio-masonry-4-columns.html">Masonry 4 Columns</a></li>
                                                         <li class="menu-item"><a href="portfolio-masonry-3-columns.html">Masonry 3 Columns</a></li>
@@ -113,67 +113,67 @@
                                                     </ul>
                                                 </li>
 
-                                                <li class="menu-item menu-item-has-children"><a class="sf-with-ul-pre" href="singleportfolio.html">Single Portfolio</a></li>
+                                             <!--   <li class="menu-item menu-item-has-children"><a class="sf-with-ul-pre" href="singleportfolio.html">Single Portfolio</a></li> -->
                                             </ul>
                                         </li>
-                                        <li class="menu-item"><a href="gallery.html">Gallery</a></li>
+                                     <!--   <li class="menu-item"><a href="gallery.html">Gallery</a></li>
                                         <li class="menu-item"><a href="price-table.html">Price Table</a></li>
                                         <li class="menu-item"><a href="maintenance.html">Maintenance</a></li>
                                         <li class="menu-item"><a href="coming-soon.html">Coming Soon</a></li>
-                                        <li class="menu-item"><a href="404.html">404 Page</a></li>
+                                        <li class="menu-item"><a href="404.html">404 Page</a></li> -->
                                     </ul>
                                 </li>
-                                <li class="menu-item menu-item-has-children"><a href="bachelor-of-science-in-business-administration.html">Academics</a>
+                                <li class="menu-item menu-item-has-children"><a href="#">Academics</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item menu-item-has-children"><a>Undergraduate</a>
+                                      <!--  <li class="menu-item menu-item-has-children"><a>Undergraduate</a> -->
                                             <ul class="sub-menu">
-                                                <li class="menu-item"><a href="bachelor-of-science-in-business-administration.html">Business Administration</a></li>
+                                              <!--  <li class="menu-item"><a href="bachelor-of-science-in-business-administration.html">Business Administration</a></li> 
                                                 <li class="menu-item"><a href="school-of-law.html">School Of Law</a></li>
                                                 <li class="menu-item"><a href="engineering.html">Engineering</a></li>
                                                 <li class="menu-item"><a href="medicine.html">Medicine</a></li>
-                                                <li class="menu-item"><a href="art-science.html">Art &#038; Science</a></li>
+                                                <li class="menu-item"><a href="art-science.html">Art &#038; Science</a></li> -->
                                             </ul>
                                         </li>
-                                        <li class="menu-item menu-item-has-children"><a href="#">Graduate Program</a>
+                                      <!--  <li class="menu-item menu-item-has-children"><a href="#">Graduate Program</a> -->
                                             <ul class="sub-menu">
-                                                <li class="menu-item"><a href="hospitality-management.html">Hospitality Management</a></li>
+                                             <!--   <li class="menu-item"><a href="hospitality-management.html">Hospitality Management</a></li>
                                                 <li class="menu-item"><a href="physics.html">Physics</a></li>
                                                 <li class="menu-item"><a href="#">Chemistry</a></li>
                                                 <li class="menu-item"><a href="#">Music</a></li>
-                                                <li class="menu-item"><a href="#">Computer Science</a></li>
+                                                <li class="menu-item"><a href="#">Computer Science</a></li> -->
                                             </ul>
                                         </li>
-                                        <li class="menu-item menu-item-has-children"><a href="#">Resources</a>
+                                    <!--    <li class="menu-item menu-item-has-children"><a href="#">Resources</a> -->
                                             <ul class="sub-menu">
-                                                <li class="menu-item"><a href="bachelor-of-science-in-business-administration.html">Department Page</a></li>
+                                           <!--     <li class="menu-item"><a href="bachelor-of-science-in-business-administration.html">Department Page</a></li>
                                                 <li class="menu-item"><a href="finance.html">Major Page</a></li>
                                                 <li class="menu-item"><a href="finance-faculty.html">Faculty Page</a></li>
                                                 <li class="menu-item"><a href="john-hagensy-phd.html">Single Instructor</a></li>
-                                                <li class="menu-item"><a href="introduction-to-financial-accounting.html">Single Course</a></li>
+                                                <li class="menu-item"><a href="introduction-to-financial-accounting.html">Single Course</a></li> -->
                                             </ul>
                                         </li>
-                                        <li class="menu-item"><a href="#">Logo</a></li>
+                                       <!-- <li class="menu-item"><a href="#">Logo</a></li> -->
                                     </ul>
                                 </li>
-                                <li class="menu-item menu-item-has-children"><a href="apply-to-kingster.html">Admissions</a>
+                                <li class="menu-item menu-item-has-children"><a href="#">Admissions</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a href="apply-to-kingster.html">Apply To Kingster</a></li>
+                                    <!--    <li class="menu-item"><a href="apply-to-kingster.html">Apply To Kingster</a></li>
                                         <li class="menu-item"><a href="campus-tour.html">Campus Tour</a></li>
                                         <li class="menu-item"><a href="scholarships.html">Scholarships</a></li>
                                         <li class="menu-item"><a href="athletics.html">Athletics</a></li>
                                         <li class="menu-item"><a href="give-to-kingster.html">Give To Kingster</a></li>
                                         <li class="menu-item"><a href="alumni.html">Alumni</a></li>
-                                        <li class="menu-item"><a href="event-calendar.html">Event Calendar</a></li>
+                                        <li class="menu-item"><a href="event-calendar.html">Event Calendar</a></li> -->
                                     </ul>
                                 </li>
                                 <li class="menu-item menu-item-has-children"><a href="#">Courses</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a href="course-list-1.html">Course List 1</a></li>
-                                        <li class="menu-item"><a href="course-list-2.html">Course List 2</a></li>
+                                      <!--  <li class="menu-item"><a href="course-list-1.html">Course List 1</a></li>
+                                        <li class="menu-item"><a href="course-list-2.html">Course List 2</a></li> -->
                                     </ul>
                                 </li>
-                                <li class="menu-item"><a href="athletics.html">Athletics</a></li>
-                                <li class="menu-item"><a href="university-life.html">University Life</a></li>
+                                <li class="menu-item"><a href="#">Athletics</a></li>
+                                <li class="menu-item"><a href="#">University Life</a></li>
                             </ul>
                         </div>
                     </div>
@@ -181,55 +181,55 @@
             </div>
         </div>
     </div>
- <!--   <div class="kingster-body-outer-wrapper ">
+    <div class="kingster-body-outer-wrapper ">
         <div class="kingster-body-wrapper clearfix  kingster-with-frame">
             <div class="kingster-top-bar">
                 <div class="kingster-top-bar-background"></div>
                 <div class="kingster-top-bar-container kingster-container ">
                     <div class="kingster-top-bar-container-inner clearfix">
-                        <div class="kingster-top-bar-left kingster-item-pdlr"><i class="fa fa-envelope-open-o" id="i_fd84_0"></i> contact@KUTheme.edu <i class="fa fa-phone" id="i_fd84_1"></i> +1-3435-2356-222</div>
+                        <div class="kingster-top-bar-left kingster-item-pdlr"><i class="fa fa-envelope-open-o" id="i_fd84_0"></i> contactVSM@test.com <i class="fa fa-phone" id="i_fd84_1"></i>9030607687</div>
                         <div class="kingster-top-bar-right kingster-item-pdlr">
                             <ul id="kingster-top-bar-menu" class="sf-menu kingster-top-bar-menu kingster-top-bar-right-menu">
-                                <li class="menu-item kingster-normal-menu"><a href="#">Alumni</a></li>
-                                <li class="menu-item kingster-normal-menu"><a href="#">Calendar</a></li>
-                                <li class="menu-item kingster-normal-menu"><a href="#">Portal</a></li>
+                            <li class="menu-item kingster-normal-menu">Alumni</a></li>
+                                <li class="menu-item kingster-normal-menu">Calendar</a></li>
+                                <li class="menu-item kingster-normal-menu">Portal</a></li> 
                             </ul>
-                            <div class="kingster-top-bar-right-social"></div><a class="kingster-top-bar-right-button" href="#" target="_blank">Support KU</a></div>
+                            <div class="kingster-top-bar-right-social"></div>Welcome To VSM</a></div>
                     </div>
                 </div>
-            </div> -->
+            </div>
             <header class="kingster-header-wrap kingster-header-style-plain  kingster-style-menu-right kingster-sticky-navigation kingster-style-fixed" data-navigation-offset="75px">
                 <div class="kingster-header-background"></div>
                 <div class="kingster-header-container  kingster-container">
                     <div class="kingster-header-container-inner clearfix">
                         <div class="kingster-logo  kingster-item-pdlr">
                             <div class="kingster-logo-inner">
-                                <a class="" href="index.html"><img src="http://vsmcollege.herokuapp.com/assest/img/logo1.png" alt="" /></a>
+                                <a class="" href="index.php"><img src="ic/logo.png" alt="" /></a>
                             </div>
                         </div>
                         <div class="kingster-navigation kingster-item-pdlr clearfix ">
                             <div class="kingster-main-menu" id="kingster-main-menu">
                                 <ul id="menu-main-navigation-1" class="sf-menu">
-                                    <li class="menu-item menu-item-home current-menu-item menu-item-has-children kingster-normal-menu"><a href="index.html" class="sf-with-ul-pre">Home</a>
-                                        <ul class="sub-menu">
-                                      <!--      <li class="menu-item menu-item-home" data-size="60"><a href="index.html">Homepage 1</a></li>
-                                            <li class="menu-item" data-size="60"><a href="homepage-2.html">Homepage 2</a></li> -->
-                                        </ul>
+                                    <li class="menu-item menu-item-home current-menu-item menu-item-has-children kingster-normal-menu"><a href="index.php" class="sf-with-ul-pre">Home</a>
+                                      <!--  <ul class="sub-menu">
+                                         <li class="menu-item menu-item-home" data-size="60"><a href="index.html">Homepage 1</a></li>
+                                            <li class="menu-item" data-size="60"><a href="homepage-2.html">Homepage 2</a></li>
+                                        </ul> -->
                                     </li>
                                     <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Pages</a>
                                         <ul class="sub-menu">
-                                          <!--  <li class="menu-item" data-size="60"><a href="about-us.html">About KU</a></li> -->
-                                          <!--  <li class="menu-item menu-item-has-children" data-size="60"><a href="blog-full-right-sidebar-with-frame.html" class="sf-with-ul-pre">Blog</a> -->
-                                                <ul class="sub-menu"> 
+                                           <!-- <li class="menu-item" data-size="60"><a href="about-us.html">About KU</a></li>
+                                            <li class="menu-item menu-item-has-children" data-size="60"><a href="blog-full-right-sidebar-with-frame.html" class="sf-with-ul-pre">Blog</a> -->
+                                                <ul class="sub-menu">
                                                     <li class="menu-item menu-item-has-children"><a href="blog-full-right-sidebar-with-frame.html" class="sf-with-ul-pre">Blog Full</a>
-                                                        <ul class="sub-menu">
+                                                      <!--  <ul class="sub-menu">
                                                             <li class="menu-item"><a href="blog-full-right-sidebar-with-frame.html">Blog Full Right Sidebar With Frame</a></li>
                                                             <li class="menu-item"><a href="blog-full-left-sidebar-with-frame.html">Blog Full Left Sidebar With Frame</a></li>
                                                             <li class="menu-item"><a href="blog-full-both-sidebar-with-frame.html">Blog Full Both Sidebar With Frame</a></li>
                                                             <li class="menu-item"><a href="blog-full-right-sidebar.html">Blog Full Right Sidebar</a></li>
                                                             <li class="menu-item"><a href="blog-full-left-sidebar.html">Blog Full Left Sidebar</a></li>
                                                             <li class="menu-item"><a href="blog-full-both-sidebar.html">Blog Full Both Sidebar</a></li>
-                                                        </ul>
+                                                        </ul> -->
                                                     </li>
                                                     <li class="menu-item menu-item-has-children"><a href="blog-grid-3-columns-no-space.html" class="sf-with-ul-pre">Blog Grid</a>
                                                         <ul class="sub-menu">
@@ -245,16 +245,16 @@
                                                     <li class="menu-item"><a href="standard-post-type.html">Single Post</a></li>
                                                 </ul>
                                             </li>
-                                          <!--  <li class="menu-item menu-item-has-children" data-size="60"><a href="#" class="sf-with-ul-pre">Contact</a> -->
+                                        <!--    <li class="menu-item menu-item-has-children" data-size="60"><a href="#" class="sf-with-ul-pre">Contact</a>
                                                 <ul class="sub-menu">
-                                                 <!--   <li class="menu-item"><a href="contact.html">Contact</a></li>
+                                                    <li class="menu-item"><a href="contact.html">Contact</a></li>
                                                     <li class="menu-item"><a href="contact-2.html">Contact 2</a></li>
-                                                    <li class="menu-item"><a href="contact-3.html">Contact 3</a></li> -->
+                                                    <li class="menu-item"><a href="contact-3.html">Contact 3</a></li>
                                                 </ul>
-                                            </li>
-                                          <!--  <li class="menu-item menu-item-has-children" data-size="60"><a href="portfolio-3-columns.html" class="sf-with-ul-pre">Portfolio</a> -->
+                                            </li> -->
+                                       <!--    <li class="menu-item menu-item-has-children" data-size="60"><a href="portfolio-3-columns.html" class="sf-with-ul-pre">Portfolio</a> -->
                                                 <ul class="sub-menu">
-                                                    <li class="menu-item menu-item-has-children"><a class="sf-with-ul-pre">Portfolio Grid</a>
+                                                 <!--   <li class="menu-item menu-item-has-children"><a class="sf-with-ul-pre">Portfolio Grid</a>
                                                         <ul class="sub-menu">
                                                             <li class="menu-item"><a href="portfolio-2-columns.html">Portfolio 2 Columns</a></li>
                                                             <li class="menu-item"><a href="portfolio-3-columns.html">Portfolio 3 Columns</a></li>
@@ -267,9 +267,9 @@
                                                             <li class="menu-item"><a href="portfolio-3-columns-no-space.html">Portfolio 3 Columns No Space</a></li>
                                                             <li class="menu-item"><a href="portfolio-4-columns-no-space.html">Portfolio 4 Columns No Space</a></li>
                                                             <li class="menu-item"><a href="portfolio-5-columns-no-space.html">Portfolio 5 Columns No Space</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="menu-item menu-item-has-children"><a class="sf-with-ul-pre">Portfolio Masonry</a>
+                                                        </ul> -->
+                                                    </li> 
+                                                  <!--  <li class="menu-item menu-item-has-children"><a class="sf-with-ul-pre">Portfolio Masonry</a>
                                                         <ul class="sub-menu">
                                                             <li class="menu-item"><a href="portfolio-masonry-4-columns.html">Masonry 4 Columns</a></li>
                                                             <li class="menu-item"><a href="portfolio-masonry-3-columns.html">Masonry 3 Columns</a></li>
@@ -278,22 +278,22 @@
                                                             <li class="menu-item"><a href="portfolio-masonry-3-columns-no-space.html">Masonry 3 Columns No Space</a></li>
                                                             <li class="menu-item"><a href="portfolio-masonry-2-columns-no-space.html">Masonry 2 Columns No Space</a></li>
                                                         </ul>
-                                                    </li>
+                                                    </li> -->
 
-                                                 <li class="menu-item menu-item-has-children"><a class="sf-with-ul-pre" href="singleportfolio.html">Single Portfolio</a></li>
+                                                 <!--<li class="menu-item menu-item-has-children"><a class="sf-with-ul-pre" href="singleportfolio.html">Single Portfolio</a></li> -->
                                                 </ul>
                                             </li>
-                                       <!--     <li class="menu-item" data-size="60"><a href="gallery.html">Gallery</a></li> 
+                                          <!--  <li class="menu-item" data-size="60"><a href="gallery.html">Gallery</a></li>
                                             <li class="menu-item" data-size="60"><a href="price-table.html">Price Table</a></li>
                                             <li class="menu-item" data-size="60"><a href="maintenance.html">Maintenance</a></li>
                                             <li class="menu-item" data-size="60"><a href="coming-soon.html">Coming Soon</a></li>
                                             <li class="menu-item" data-size="60"><a href="404.html">404 Page</a></li> -->
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-has-children kingster-mega-menu"><a href="bachelor-of-science-in-business-administration.html" class="sf-with-ul-pre">Academics</a>
+                                    <li class="menu-item menu-item-has-children kingster-mega-menu"><a href="#" class="sf-with-ul-pre">Academics</a>
                                         <div class="sf-mega sf-mega-full megaimg">
                                             <ul class="sub-menu">
-                                              <!--  <li class="menu-item menu-item-has-children" data-size="15"><a class="sf-with-ul-pre">Undergraduate</a> -->
+                                           <!--     <li class="menu-item menu-item-has-children" data-size="15"><a class="sf-with-ul-pre">Undergraduate</a>
                                                     <ul class="sub-menu">
                                                         <li class="menu-item"><a href="bachelor-of-science-in-business-administration.html">Business Administration</a></li>
                                                         <li class="menu-item"><a href="school-of-law.html">School Of Law</a></li>
@@ -301,8 +301,8 @@
                                                         <li class="menu-item"><a href="medicine.html">Medicine</a></li>
                                                         <li class="menu-item"><a href="art-science.html">Art &#038; Science</a></li>
                                                     </ul>
-                                                </li>
-                                               <!-- <li class="menu-item menu-item-has-children" data-size="15"><a href="#" class="sf-with-ul-pre">Graduate Program</a> -->
+                                                </li> -->
+                                             <!--   <li class="menu-item menu-item-has-children" data-size="15"><a href="#" class="sf-with-ul-pre">Graduate Program</a>
                                                     <ul class="sub-menu">
                                                         <li class="menu-item"><a href="hospitality-management.html">Hospitality Management</a></li>
                                                         <li class="menu-item"><a href="physics.html">Physics</a></li>
@@ -310,10 +310,10 @@
                                                         <li class="menu-item"><a href="#">Music</a></li>
                                                         <li class="menu-item"><a href="#">Computer Science</a></li>
                                                     </ul>
-                                                </li>
-                                              <!--  <li class="menu-item menu-item-has-children" data-size="15"><a href="#" class="sf-with-ul-pre">Resources</a> -->
+                                                </li> -->
+                                             <!--   <li class="menu-item menu-item-has-children" data-size="15"><a href="#" class="sf-with-ul-pre">Resources</a> -->
                                                     <ul class="sub-menu">
-                                                        <li class="menu-item"><a href="bachelor-of-science-in-business-administration.html">Department Page</a></li>
+                                                        <li class="menu-item"><a href="#">Department Page</a></li>
                                                         <li class="menu-item"><a href="finance.html">Major Page</a></li>
                                                         <li class="menu-item"><a href="finance-faculty.html">Faculty Page</a></li>
                                                         <li class="menu-item"><a href="john-hagensy-phd.html">Single Instructor</a></li>
@@ -321,15 +321,15 @@
                                                     </ul>
                                                 </li>
                                               <!--  <li class="menu-item" data-size="15">
-                                                    <div class="kingster-mega-menu-section-content"><img src="upload/mega-menu-logo.png" id="img_fd84_0" alt="" /> <span id="span_fd84_0">Academic offerings include 95 majors, 86 minors, and more than 100 in-major specializations</span></div>
-                                                </li> -->
+                                               <!--     <div class="kingster-mega-menu-section-content"><img src="upload/mega-menu-logo.png" id="img_fd84_0" alt="" /> <span id="span_fd84_0">Academic offerings include 95 majors, 86 minors, and more than 100 in-major specializations</span></div> -->
+                                                </li>
                                             </ul>
                                         </div>
                                     </li>
-                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="apply-to-kingster.html" class="sf-with-ul-pre">Admissions</a>
+                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Admissions</a>
                                         <ul class="sub-menu">
-                                      <!--      <li class="menu-item" data-size="60"><a href="apply-to-kingster.html">Apply To Kingster</a></li> -->
-                                         <!--   <li class="menu-item" data-size="60"><a href="campus-tour.html">Campus Tour</a></li>
+                                       <!--     <li class="menu-item" data-size="60"><a href="apply-to-kingster.html">Apply To Kingster</a></li>
+                                            <li class="menu-item" data-size="60"><a href="campus-tour.html">Campus Tour</a></li>
                                             <li class="menu-item" data-size="60"><a href="scholarships.html">Scholarships</a></li>
                                             <li class="menu-item" data-size="60"><a href="athletics.html">Athletics</a></li>
                                             <li class="menu-item" data-size="60"><a href="give-to-kingster.html">Give To Kingster</a></li>
@@ -339,9 +339,9 @@
                                     </li>
                                     <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Courses</a>
                                         <ul class="sub-menu">
-                                          <!--  <li class="menu-item" data-size="60"><a href="course-list-1.html">Course List 1</a></li>
+                                         <!--   <li class="menu-item" data-size="60"><a href="course-list-1.html">Course List 1</a></li>
                                             <li class="menu-item" data-size="60"><a href="course-list-2.html">Course List 2</a></li> -->
-                                        </ul> 
+                                        </ul>
                                     </li>
                                     <li class="menu-item kingster-normal-menu"><a href="athletics.html">Athletics</a></li>
                                     <li class="menu-item kingster-normal-menu"><a href="university-life.html">University Life</a></li>
@@ -349,16 +349,16 @@
                                 <div class="kingster-navigation-slide-bar" id="kingster-navigation-slide-bar"></div>
                             </div>
                             <div class="kingster-main-menu-right-wrap clearfix ">
-                             <!--   <div class="kingster-main-menu-search" id="kingster-top-search"><i class="icon_search"></i></div> -->
+                                <div class="kingster-main-menu-search" id="kingster-top-search"><i class="icon_search"></i></div>
                                 <div class="kingster-top-search-wrap">
                                     <div class="kingster-top-search-close"></div>
                                     <div class="kingster-top-search-row">
                                         <div class="kingster-top-search-cell">
                                             <form role="search" method="get" class="search-form" action="#">
                                                 <input type="text" class="search-field kingster-title-font" placeholder="Search..." value="" name="s">
-                                              <!--  <div class="kingster-top-search-submit"><i class="fa fa-search"></i></div>
+                                                <div class="kingster-top-search-submit"><i class="fa fa-search"></i></div>
                                                 <input type="submit" class="search-submit" value="Search">
-                                                <div class="kingster-top-search-close"><i class="icon_close"></i></div> -->
+                                                <div class="kingster-top-search-close"><i class="icon_close"></i></div>
                                             </form>
                                         </div>
                                     </div>
@@ -380,33 +380,20 @@
                                         <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
                                             <div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.8">
                                                 <ul>
-                                                    <li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="upload/image-bg-1.png" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description=""> <img src="upload/image-bg-1.png" alt="" title="slider-1-2" width="1800" height="1119" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                        <div class="tp-caption   tp-resizeme" id="slide-3-layer-1" data-x="38" data-y="center" data-voffset="-146" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 33px; line-height: 33px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Poppins;">One Of The Best Colleges Of The State</div>
+                                                    <li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="sd/image-bg-1.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description=""> <img src="sd/image-bg-1.jpg" alt="" title="slider-1-2" width="1800" height="1119" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                                                        <div class="tp-caption   tp-resizeme" id="slide-3-layer-1" data-x="38" data-y="center" data-voffset="-146" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 33px; line-height: 33px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Poppins;">Give wings to your Career.  Shaping the brightest careers with values&Commitment</div>
                                                         <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-3-layer-4" data-x="33" data-y="center" data-voffset="-44" data-width="['830']" data-height="['118']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":330,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;background-color:rgba(24,36,59,0.9);border-radius:3px 3px 3px 3px;"></div>
                                                         <div class="tp-caption   tp-resizeme" id="slide-3-layer-2" data-x="55" data-y="center" data-voffset="-52" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":360,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 88px; line-height: 88px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;">VSM</div>
                                                         <div class="tp-caption   tp-resizeme" id="slide-3-layer-3" data-x="423" data-y="center" data-voffset="-51" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":360,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8; white-space: nowrap; font-size: 88px; line-height: 88px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;">Colleges</div>
                                                         <div class="tp-caption rev-btn rev-hiddenicon " id="slide-3-layer-6" data-x="34" data-y="center" data-voffset="80" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":660,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(1,61,135);bg:rgba(255,255,255,1);bw:0 0 0 5px;"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[19,19,19,19]" data-paddingright="[21,21,21,21]" data-paddingbottom="[19,19,19,19]" data-paddingleft="[21,21,21,21]" style="z-index: 9; white-space: nowrap; font-size: 17px; line-height: 16px; font-weight: 600; color: #2d2d2d; letter-spacing: 0px;font-family:Poppins;background-color:rgb(255,255,255);border-color:rgb(61,177,102);border-style:solid;border-width:0px 0px 0px 5px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Take A Tour</div>
                                                     </li>
-                                                    <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="upload/image-bg-2.png" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description=""> <img src="upload/image-bg-2.jpg" alt="" title="slider-2" width="1800" height="1119" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                        <div class="tp-caption   tp-resizeme" id="slide-1-layer-1" data-x="36" data-y="center" data-voffset="-120" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 33px; line-height: 33px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Poppins;">VSM has more than</div>
-                                                        <div class="tp-caption   tp-resizeme" id="slide-1-layer-2" data-x="33" data-y="center" data-voffset="-31" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":370,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-size: 83px; line-height: 83px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:Poppins;">50+ Hiring Partners</div>
-                                                        <div class="tp-caption rev-btn rev-hiddenicon " id="slide-1-layer-6" data-x="34" data-y="center" data-voffset="80" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":740,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(0,64,132);bg:rgba(255,255,255,1);bw:0 0 0 5px;"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[19,19,19,19]" data-paddingright="[21,21,21,21]" data-paddingbottom="[19,19,19,19]" data-paddingleft="[21,21,21,21]" style="z-index: 7; white-space: nowrap; font-size: 17px; line-height: 16px; font-weight: 600; color: #2d2d2d; letter-spacing: 0px;font-family:Poppins;background-color:rgb(255,255,255);border-color:rgb(61,177,102);border-style:solid;border-width:0px 0px 0px 5px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Take A Tour</div>
+                                                    <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="sd/image-bg-2.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description=""> <img src="sd/image-bg-2.jpg" alt="" title="slider-2" width="1800" height="1119" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                                                        <div class="tp-caption   tp-resizeme" id="slide-1-layer-1" data-x="36" data-y="center" data-voffset="-120" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 33px; line-height: 33px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Poppins;"></div>
+                                                        <div class="tp-caption   tp-resizeme" id="slide-1-layer-2" data-x="33" data-y="center" data-voffset="-31" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":370,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-size: 83px; line-height: 83px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:Poppins;">Traditional values. A modern </div>
+                                                        <div class="tp-caption rev-btn rev-hiddenicon " id="slide-1-layer-6" data-x="34" data-y="center" data-voffset="80" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":740,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(0,64,132);bg:rgba(255,255,255,1);bw:0 0 0 5px;"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[19,19,19,19]" data-paddingright="[21,21,21,21]" data-paddingbottom="[19,19,19,19]" data-paddingleft="[21,21,21,21]" style="z-index: 7; white-space: nowrap; font-size: 26px; line-height: 66px; font-weight: 600; color: #2d2d2d; letter-spacing: 0px;font-family:Poppins;background-color:rgb(255,255,255);border-color:rgb(61,177,102);border-style:solid;border-width:0px 0px 0px 5px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">individualised education</div>
                                                     </li>
 
-                                                     <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="upload/image-bg-3.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description=""> <img src="upload/image-bg-3.jpg" alt="" title="slider-2" width="1800" height="1119" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                        <div class="tp-caption   tp-resizeme" id="slide-1-layer-1" data-x="36" data-y="center" data-voffset="-120" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 33px; line-height: 33px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Poppins;">VSM 3rd Slide</div>
-                                                        <div class="tp-caption   tp-resizeme" id="slide-1-layer-2" data-x="33" data-y="center" data-voffset="-31" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":370,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-size: 83px; line-height: 83px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:Poppins;"> Testing 2 Hiring Partners</div>
-                                                        <div class="tp-caption rev-btn rev-hiddenicon " id="slide-1-layer-6" data-x="34" data-y="center" data-voffset="80" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":740,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(0,64,132);bg:rgba(255,255,255,1);bw:0 0 0 5px;"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[19,19,19,19]" data-paddingright="[21,21,21,21]" data-paddingbottom="[19,19,19,19]" data-paddingleft="[21,21,21,21]" style="z-index: 7; white-space: nowrap; font-size: 17px; line-height: 16px; font-weight: 600; color: #2d2d2d; letter-spacing: 0px;font-family:Poppins;background-color:rgb(255,255,255);border-color:rgb(61,177,102);border-style:solid;border-width:0px 0px 0px 5px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Take A Tour</div>
-                                                    </li>
-
-                                                     <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="upload/image-bg-4.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description=""> <img src="upload/image-bg-4.jpg" alt="" title="slider-2" width="1800" height="1119" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                        <div class="tp-caption   tp-resizeme" id="slide-1-layer-1" data-x="36" data-y="center" data-voffset="-120" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 33px; line-height: 33px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Poppins;">VSM has more than</div>
-                                                        <div class="tp-caption   tp-resizeme" id="slide-1-layer-2" data-x="33" data-y="center" data-voffset="-31" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":370,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-size: 83px; line-height: 83px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:Poppins;">50+ Hiring Partners</div>
-                                                        <div class="tp-caption rev-btn rev-hiddenicon " id="slide-1-layer-6" data-x="34" data-y="center" data-voffset="80" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":740,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(0,64,132);bg:rgba(255,255,255,1);bw:0 0 0 5px;"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[19,19,19,19]" data-paddingright="[21,21,21,21]" data-paddingbottom="[19,19,19,19]" data-paddingleft="[21,21,21,21]" style="z-index: 7; white-space: nowrap; font-size: 17px; line-height: 16px; font-weight: 600; color: #2d2d2d; letter-spacing: 0px;font-family:Poppins;background-color:rgb(255,255,255);border-color:rgb(61,177,102);border-style:solid;border-width:0px 0px 0px 5px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Take A Tour</div>
-                                                    </li>
-
-
-
+                                                   
                                                 </ul>
                                                 <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
                                             </div>
@@ -417,7 +404,12 @@
                             </div>
                         </div>
                     </div>
+                    <br>
                     <div class="gdlr-core-pbf-wrapper  hp1-col-services"  data-skin="Blue Title" id="gdlr-core-wrapper-1">
+                        
+                       <Center> <h2>About Us </h2></Center> 
+                       <hr>
+                       <p>Most Trusted Institute -  VSM is the  most trusted brand among its students from surrounding areas, academicians from prominent institutions of India have become the part of VSM community<p>
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                             <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
@@ -425,8 +417,11 @@
                                    <div class="gdlr-core-pbf-column gdlr-core-column-15 gdlr-core-column-first">
                                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " id="div_1dd7_1">
                                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+
                                                 <div class="gdlr-core-pbf-element">
+
                                                     <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-with-caption gdlr-core-item-pdlr" id="div_1dd7_2">
+
                                                         <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/icon-1.png" alt="" width="40" height="40" title="icon-1" /></div>
                                                         <div class="gdlr-core-column-service-content-wrapper">
                                                             <div class="gdlr-core-column-service-title-wrap">
@@ -461,7 +456,7 @@
                                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                                 <div class="gdlr-core-pbf-element">
                                                     <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-with-caption gdlr-core-item-pdlr" id="div_1dd7_8">
-                                                        <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/icon-3.png" alt="" width="44" height="39" title="icon-3" /></div>
+                                                        <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="ic/icon-3.png" alt="" width="44" height="39" title="icon-3" /></div>
                                                         <div class="gdlr-core-column-service-content-wrapper">
                                                             <div class="gdlr-core-column-service-title-wrap">
                                                                 <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_2">28 Courses</h3>
@@ -478,10 +473,10 @@
                                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                                 <div class="gdlr-core-pbf-element">
                                                     <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-with-caption gdlr-core-item-pdlr" id="div_1dd7_11">
-                                                        <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/icon-4.png" alt="" width="41" height="41" title="icon-4" /></div>
+                                                        <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="ic/icon-4.png" alt="" width="41" height="41" title="icon-4" /></div>
                                                         <div class="gdlr-core-column-service-content-wrapper">
                                                             <div class="gdlr-core-column-service-title-wrap">
-                                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_3">NNAC</h3>
+                                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_3">nnac</h3>
                                                                 <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_12">Accredited Group</div>
                                                             </div>
                                                         </div>
@@ -861,236 +856,7 @@
                                         </div>
                                     </div>
                                 </div> -->
-                                <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-column-first" data-skin="Blue Title">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-left" id="div_1dd7_64" data-sync-height="height-3" data-sync-height-center>
-                                        <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_65"></div>
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                                    <div class="gdlr-core-text-box-item-content" id="div_1dd7_66">
-                                                        <div class="gdlr-core-twitter-item gdlr-core-item-pdb" id="div_1dd7_67">
-                                                            <div class="gdlr-core-block-item-title-nav ">
-                                                                <div class="gdlr-core-flexslider-nav gdlr-core-plain-style gdlr-core-block-center"></div>
-                                                            </div>
-                                                            
-                                                            <div class="gdlr-core-twitter-content">
-                                                                <div class="gdlr-core-flexslider flexslider gdlr-core-js-2 " data-type="carousel" data-column="1" data-nav="navigation" data-nav-parent="gdlr-core-twitter-item">
-                                                                    <ul class="slides" id="ul_1dd7_0">
-                                                                        <li class="gdlr-core-item-mglr">
-                                                                            <div class="gdlr-core-twitter-item-list">
-                                                                                <img src="upload/t1.jpg" style="width:100px">
-
-
-                                                                                <style>
-                                                                                    img { 
-                                                                                    border-radius: 50%;
-                                                                                }
-                                                                                </style>
-
-
-                                                                                <span class="gdlr-core-twitter-item-list-content">Vsm is one of the best in creating new innovations
-                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
-                                                                                </span>
-                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
-                                                                                    <a target="_blank">Akhil</a>
-                                                                                </span>
-                                                                            </div>
-                                                                        </li>
-                                                                        
-                                                                         <li class="gdlr-core-item-mglr">
-                                                                            <div class="gdlr-core-twitter-item-list">
-                                                                                <img src="upload/t2.jpg" style="width:100px">
-
-
-                                                                                <style>
-                                                                                    img { 
-                                                                                    border-radius: 50%;
-                                                                                }
-                                                                                </style>
-
-
-                                                                                <span class="gdlr-core-twitter-item-list-content">Vsm is one of the best in creating new innovations
-                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
-                                                                                </span>
-                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
-                                                                                    <a target="_blank">Akhil</a>
-                                                                                </span>
-                                                                            </div>
-                                                                        </li>
-
-                                                                         <li class="gdlr-core-item-mglr">
-                                                                            <div class="gdlr-core-twitter-item-list">
-                                                                                <img src="upload/t3.jpg" style="width:100px">
-
-
-                                                                                <style>
-                                                                                    img { 
-                                                                                    border-radius: 50%;
-                                                                                }
-                                                                                </style>
-
-
-                                                                                <span class="gdlr-core-twitter-item-list-content">Vsm is one of the best in creating new innovations
-                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
-                                                                                </span>
-                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
-                                                                                    <a target="_blank">Akhil</a>
-                                                                                </span>
-                                                                            </div>
-                                                                        </li>
-                                                                         <li class="gdlr-core-item-mglr">
-                                                                            <div class="gdlr-core-twitter-item-list">
-                                                                                <img src="upload/t4.jpg" style="width:100px">
-
-
-                                                                                <style>
-                                                                                    img { 
-                                                                                    border-radius: 50%;
-                                                                                }
-                                                                                </style>
-
-
-                                                                                <span class="gdlr-core-twitter-item-list-content">Vsm is one of the best in creating new innovations
-                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
-                                                                                </span>
-                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
-                                                                                    <a target="_blank">Akhil</a>
-                                                                                </span>
-                                                                            </div>
-                                                                        </li>
-                                                                         <li class="gdlr-core-item-mglr">
-                                                                            <div class="gdlr-core-twitter-item-list">
-                                                                                <img src="upload/t5.jpg" style="width:100px">
-
-
-                                                                                <style>
-                                                                                    img { 
-                                                                                    border-radius: 50%;
-                                                                                }
-                                                                                </style>
-
-
-                                                                                <span class="gdlr-core-twitter-item-list-content">Vsm is one of the best in creating new innovations
-                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
-                                                                                </span>
-                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
-                                                                                    <a target="_blank">Akhil</a>
-                                                                                </span>
-                                                                            </div>
-                                                                        </li>
-                                                                         <li class="gdlr-core-item-mglr">
-                                                                            <div class="gdlr-core-twitter-item-list">
-                                                                                <img src="upload/t6.jpg" style="width:100px">
-
-
-                                                                                <style>
-                                                                                    img { 
-                                                                                    border-radius: 50%;
-                                                                                }
-                                                                                </style>
-
-
-                                                                                <span class="gdlr-core-twitter-item-list-content">Vsm is one of the best in creating new innovations
-                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
-                                                                                </span>
-                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
-                                                                                    <a target="_blank">Akhil</a>
-                                                                                </span>
-                                                                            </div>
-                                                                        </li>
-                                                                         <li class="gdlr-core-item-mglr">
-                                                                            <div class="gdlr-core-twitter-item-list">
-                                                                                <img src="upload/t7.jpg" style="width:100px">
-
-
-                                                                                <style>
-                                                                                    img { 
-                                                                                    border-radius: 50%;
-                                                                                }
-                                                                                </style>
-
-
-                                                                                <span class="gdlr-core-twitter-item-list-content">Vsm is one of the best in creating new innovations
-                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
-                                                                                </span>
-                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
-                                                                                    <a target="_blank">Akhil</a>
-                                                                                </span>
-                                                                            </div>
-                                                                        </li>
-                                                                         <li class="gdlr-core-item-mglr">
-                                                                            <div class="gdlr-core-twitter-item-list">
-                                                                                <img src="upload/t8.jpg" style="width:100px">
-
-
-                                                                                <style>
-                                                                                    img { 
-                                                                                    border-radius: 50%;
-                                                                                }
-                                                                                </style>
-
-
-                                                                                <span class="gdlr-core-twitter-item-list-content">Vsm is one of the best in creating new innovations
-                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
-                                                                                </span>
-                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
-                                                                                    <a target="_blank">Akhil</a>
-                                                                                </span>
-                                                                            </div>
-                                                                        </li>
-
-                                                                         <li class="gdlr-core-item-mglr">
-                                                                            <div class="gdlr-core-twitter-item-list">
-                                                                                <img src="upload/t9.jpg" style="width:100px">
-
-
-                                                                                <style>
-                                                                                    img { 
-                                                                                    border-radius: 50%;
-                                                                                }
-                                                                                </style>
-
-
-                                                                                <span class="gdlr-core-twitter-item-list-content">Vsm is one of the best in creating new innovations
-                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
-                                                                                </span>
-                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
-                                                                                    <a target="_blank">Akhil</a>
-                                                                                </span>
-                                                                            </div>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-20" data-skin="White Text">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-right" id="div_1dd7_68" data-sync-height="height-3">
-                                        <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_69"></div>
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_70">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_71"><img src="upload/apply-logo.png" alt="" width="42" height="39" title="apply-logo" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_22">OUR ALUMI TALK </h3></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <a class="gdlr-core-pbf-column-link" href="#" target="_self"></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
+                               
                      <div class="gdlr-core-pbf-wrapper " id="div_1dd7_79">
                         <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_80"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
@@ -1100,26 +866,26 @@
                                         
                                         <div class="gdlr-core-tab-item-content-image-wrap clearfix">
                                             <div class="gdlr-core-tab-item-image  gdlr-core-active" data-tab-id="1">
-                                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
-                                                    <span class="gdlr-core-tab-item-image-background" id="span_1dd7_1"  ></span>
+                                             <!--   <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"> -->
+                                                    <span class="gdlr-core-tab-item-image-background" id="span_1dd7_ex"  ></span>
                                                 <!--    <i class="fa fa-play" ></i> -->
                                                 </a>
                                             </div>
                                             <div class="gdlr-core-tab-item-image " data-tab-id="2">
-                                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
-                                                    <span class="gdlr-core-tab-item-image-background" id="span_1dd7_2"  ></span>
+                                              <!--  <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"> -->
+                                                    <span class="gdlr-core-tab-item-image-background" id="span_1dd7_fe"  ></span>
                                                <!--     <i class="fa fa-play" ></i> -->
                                                 </a>
                                             </div>
                                             <div class="gdlr-core-tab-item-image " data-tab-id="3">
-                                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
-                                                    <span class="gdlr-core-tab-item-image-background" id="span_1dd7_3"  ></span>
+                                              <!--  <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"> -->
+                                                    <span class="gdlr-core-tab-item-image-background" id="span_1dd7_ac"  ></span>
                                                 <!--    <i class="fa fa-play" ></i> -->
                                                 </a>
                                             </div>
                                             <div class="gdlr-core-tab-item-image " data-tab-id="4">
-                                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
-                                                    <span class="gdlr-core-tab-item-image-background" id="span_1dd7_4"  ></span>
+                                              <!--  <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"> -->
+                                                    <span class="gdlr-core-tab-item-image-background" id="span_1dd7_pl"  ></span>
                                                    <!-- <i class="fa fa-play" ></i> -->
                                                 </a> 
                                             </div>
@@ -1127,10 +893,10 @@
 
                                         <div class="gdlr-core-tab-item-wrap">
                                             <div class="gdlr-core-tab-item-title-wrap clearfix gdlr-core-title-font">
-                                                <div class="gdlr-core-tab-item-title  gdlr-core-active" data-tab-id="1">Benefits</div>
-                                                <div class="gdlr-core-tab-item-title " data-tab-id="2">Self Development</div>
-                                                <div class="gdlr-core-tab-item-title " data-tab-id="3">Spirituality</div>
-                                                <div class="gdlr-core-tab-item-title " data-tab-id="4">Alumni</div>
+                                                <div class="gdlr-core-tab-item-title  gdlr-core-active" data-tab-id="1">Executive Team</div>
+                                                <div class="gdlr-core-tab-item-title " data-tab-id="2">Features</div>
+                                                <div class="gdlr-core-tab-item-title " data-tab-id="3">Accreditations </div>
+                                                <div class="gdlr-core-tab-item-title " data-tab-id="4">Placements</div>
                                             </div>
                                             <div class="gdlr-core-tab-item-content-wrap clearfix">
                                                 <div class="gdlr-core-tab-item-content  gdlr-core-active" data-tab-id="1" >
@@ -1138,32 +904,59 @@
                                                         <div class="gdlr-core-title-item-title-wrap ">
                                                             <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_24">Why Choose VSM<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                                     </div>
-                                                    <p>VSM is the  most trusted brand among its students from surrounding areas, academicians from prominent institutions of India have become the part of VSM community</p>
+                                                    <p><b>Shri Merla Narayana Murthy</b> :  President & Correspondent</p>
+                                                    <p><b>Shri M.S.R. Prasad</b>:   B.Tech.(CSE),Vice-President More than 22 years of experience in Administration</p>
+                                                    <p><b>Shri M.S.N. Murthy</b> :  B.E.,M.S.(USA),Academic Director More than 15 years of experience in Software Industry PMP Certified Professional Owns a Software company in USA</p>
+                                                    <p><b>Shri M.V.V.Subba Rao</b> :  M.B.A., Secretary More than 10 years of experience in Administration</p>
+                                                    <p><b>Smt.K.Madhura Meenakshi</b> : B.E.,M.S.(USA),Director More than 12 years of experience in Software, & Multi-national organisations Principal Engineer at Oracle Corporation</p>
+
+
                                                 </div>
                                                 <div class="gdlr-core-tab-item-content " data-tab-id="2" >
                                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
                                                         <div class="gdlr-core-title-item-title-wrap ">
                                                             <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_25">Self Development<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                                     </div>
-                                                    <p>Training & Placements - Excellent Placement Record Ensuring High Flying Career with VSM</p>
+                                                    <p>TrNCC, NSS Units for both Boys and Girls</p>
+                                                    <p>APSSDC, PMKVY Affiliated Campus</p>
+                                                    <p>Exclusive R&D Labs </p>
+                                                    <p>Best Placement Award by WIPRO </p>
+                                                    <p>Digital Classrooms & Expansive Library</p>
+                                                    <p>Strong Network of Alumni </p>
+                                                    <p>Sports Ground & Gym </p>
+                                                    <p>Separate Hostel Facility for both Boys & Girls </p>
+                                                    <p>Transport Facility available </p>
+                                                    <p>Certificate Courses (Beautician Course for women</p>
+                                                    <p>DTP, Tally with GST, Electrical Wiring) - Approved by AKNU </p>
                                                 </div>
                                                 <div class="gdlr-core-tab-item-content " data-tab-id="3" >
                                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
                                                         <div class="gdlr-core-title-item-title-wrap ">
                                                             <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_26">Spirituality<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                                     </div>
-                                                    <p>Research & Innovations – 
-Focusing on promoting innovation in technology,VSM is known to provide facilities at par with India’s top technology institutes.
-</p>
+                                                    <p>VSM College of Engineering is approved by All India Council For Technical Education, New Delhi., and Permanently Affiliated To JNTU-Kakinada, Andhra Pradesh.An ISO 9001 : 2015 Certified Institution</p>
                                                 </div>
                                                 <div class="gdlr-core-tab-item-content " data-tab-id="4" >
                                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
                                                         <div class="gdlr-core-title-item-title-wrap ">
                                                             <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_27">Alumni<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                                     </div>
-                                                    <p>A Professionally Managed Institute
-Unlike most institutions VSM is managed by professionals drawn from  prestigious institutions, NRI’s and top corporates. Management draws its strength from valuable inputs given by its stakeholders – academicians, industry, global partners, students and parents.
-</p>
+                                                    <p>TCS-2</p>
+<p>HGS-80 , GENPACT-4</p>
+<p>PRIMESOFT-7</p>
+<p>ALIENS GROUP-51,  INFOSYS-25</p>
+<p>GLENWOOD SYSTEMS-20,  COSTAL AQU-11A</p>
+<p>TECH MAHINDRA-46,  DIVIS LABORATORIES-48</p>
+<p>WIPRO-15,  NICE-59</p>
+<p>KRIFY-1,  INDIAN HEALTHCARE-34</p>
+<!--<p>GENPACT-4</p>
+<p>TECH TAMMINA-0</p>
+<p>INFOSYS-25</p>
+<p>COASTAL AQUA-11</p>
+<p>DIVIS LABORATORIES-48</p>
+<p>NICE-59</p>
+<p>INDIAN HEALTHCARE-34</p>
+</p> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -1183,9 +976,9 @@ Unlike most institutions VSM is managed by professionals drawn from  prestigious
                             <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container-custom" id="div_1dd7_74">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" id="div_1dd7_75">
-                                    <!--    <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_76">
-                                            <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"><img src="upload/icon-play.png" alt="" width="82" height="82" title="icon-play" /></a>
-                                        </div> -->
+                                       <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_76">
+                                            <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=w8efl4rqAz8"><img src="upload/icon-play.png" alt="" width="82" height="82" title="icon-play" /></a>
+                                        </div> 
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
@@ -1219,19 +1012,19 @@ Unlike most institutions VSM is managed by professionals drawn from  prestigious
                                                 </a>
                                             </div>
                                             <div class="gdlr-core-tab-item-image " data-tab-id="2">
-                                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
+                                           <!--     <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"> -->
                                                     <span class="gdlr-core-tab-item-image-background" id="span_1dd7_2"  ></span>
                                                   <!--  <i class="fa fa-play" ></i> -->
                                                 </a>
                                             </div>
                                             <div class="gdlr-core-tab-item-image " data-tab-id="3">
-                                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
+                                              <!--  <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"> -->
                                                     <span class="gdlr-core-tab-item-image-background" id="span_1dd7_3"  ></span>
                                                    <!-- <i class="fa fa-play" ></i> -->
                                                 </a>
                                             </div>
                                             <div class="gdlr-core-tab-item-image " data-tab-id="4">
-                                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
+                                            <!--    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"> -->
                                                     <span class="gdlr-core-tab-item-image-background" id="span_1dd7_4"  ></span>
                                                 <!--    <i class="fa fa-play" ></i> -->
                                                 </a>
@@ -1251,16 +1044,14 @@ Unlike most institutions VSM is managed by professionals drawn from  prestigious
                                                         <div class="gdlr-core-title-item-title-wrap ">
                                                             <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_24">Courses<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                                     </div>
-                                                    <p>
-                                                        CSE
-                                                    </p>
+                                                    <p><b>B.TECH</b></p>
+                                                    <p>CSE</p>
                                                     <P>EEE</P>
                                                     <P>ECE</P>
                                                     <P>CIVIL</P>
                                                     <P>MECHANICAL</P>
-                                                    <p>bba bba bba bba bba bbabbabbabbabbabbabbabbabbabbabbabbabba
-                                                        bbabbabbabba bbabbabba bbabbabba bbabbabbabbabbabbabbabbabbabbabbabbabba
-                                                    bba bba bba bba bbav</p>
+                                                    <p><b>DEGREE</b></p>
+                                                    <p>B.Sc. MPC (T.M. & E.M.),B.Sc. Computer Science,B.Sc. CBZ (T.M. & E.M.),B.Sc. Aquaculture Technology,B.Com. General (T.M. & E.M.),B.com. Computer Applications,BBA,BCA,B.A.</p>
 
                                                 </div>
                                                 <div class="gdlr-core-tab-item-content " data-tab-id="2" >
@@ -1308,7 +1099,159 @@ Unlike most institutions VSM is managed by professionals drawn from  prestigious
                      </div>
                         </div>
                     </div>
-                    
+
+
+
+ <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-column-first" data-skin="Blue Title">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-left" id="div_1dd7_64" data-sync-height="height-3" data-sync-height-center>
+                                        <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_65"></div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
+                                                    <div class="gdlr-core-text-box-item-content" id="div_1dd7_66">
+                                                        <div class="gdlr-core-twitter-item gdlr-core-item-pdb" id="div_1dd7_67">
+                                                            <div class="gdlr-core-block-item-title-nav ">
+                                                                <div class="gdlr-core-flexslider-nav gdlr-core-plain-style gdlr-core-block-center"></div>
+                                                            </div>
+                                                            
+                                                            <div class="gdlr-core-twitter-content">
+                                                                <div class="gdlr-core-flexslider flexslider gdlr-core-js-2 " data-type="carousel" data-column="1" data-nav="navigation" data-nav-parent="gdlr-core-twitter-item">
+                                                                    <ul class="slides" id="ul_1dd7_0">
+                                                                        <li class="gdlr-core-item-mglr">
+                                                                            <div class="gdlr-core-twitter-item-list">
+                                                                                <img src="upload/t2.jpg" style="width:100px">
+                                                                                <span class="gdlr-core-twitter-item-list-content">My experience at VSM College has meant career advancement to a highly responsible and technically challenging position in a leading-edge software company.
+                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
+                                                                                </span>
+                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
+                                                                                    <a target="_blank">Anusha,ECE</a>
+                                                                                </span>
+                                                                            </div>
+                                                                        </li>
+                                                                        
+                                                                         <li class="gdlr-core-item-mglr">
+                                                                            <div class="gdlr-core-twitter-item-list">
+                                                                                <img src="upload/t1.jpg" style="width:100px">
+                                                                                <span class="gdlr-core-twitter-item-list-content">My four years at VSM have been excellent and have been full of learning opportunities that were full of fun and future rich.
+                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
+                                                                                </span>
+                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
+                                                                                    <a target="_blank">Mallibabu, CSE </a>
+                                                                                </span>
+                                                                            </div>
+                                                                        </li>
+
+                                                                         <li class="gdlr-core-item-mglr">
+                                                                            <div class="gdlr-core-twitter-item-list">
+                                                                                <img src="upload/t3.jpg" style="width:100px">
+                                                                                <span class="gdlr-core-twitter-item-list-content">VSM has always believed in helping and guiding its students and it was no different during the placement season. Regular classes held at our college to help us with our aptitude and technical skills were of great help. I was placed in Tata Consultancy Services.
+                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
+                                                                                </span>
+                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
+                                                                                    <a target="_blank">Papa Rao, ECE</a>
+                                                                                </span>
+                                                                            </div>
+                                                                        </li>
+                                                                         <li class="gdlr-core-item-mglr">
+                                                                            <div class="gdlr-core-twitter-item-list">
+                                                                                <img src="upload/t4.jpg" style="width:100px">
+                                                                            <span class="gdlr-core-twitter-item-list-content">The College is well equipped with good interface-class rooms, labs, digital library,experienced faculty, supportive administration and the successful campus placements in every academic year
+                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
+                                                                                </span>
+                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
+                                                                                    <a target="_blank">Prasad Varma, CSE</a>
+                                                                                </span>
+                                                                            </div>
+                                                                        </li>
+                                                                         <li class="gdlr-core-item-mglr">
+                                                                            <div class="gdlr-core-twitter-item-list">
+                                                                                <img src="upload/t5.jpg" style="width:100px">
+                                                                               <span class="gdlr-core-twitter-item-list-content">College life was the best journey of my life. Whenever I remember my College days,I get tears in my eyes. These four years were like four days for me which completed very fast. But, during these days many memories have been created. Environment of VSM was very nice just like a family. The faculty were like a backbone for me, friends were the reason for my smile and juniors were like younger siblings. Everyone recognized my talent with open arms always.
+                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
+                                                                                </span>
+                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
+                                                                                    <a target="_blank">Kurapati Anil Kumar, CIVIL</a>
+                                                                                </span>
+                                                                            </div>
+                                                                        </li>
+                                                                         <li class="gdlr-core-item-mglr">
+                                                                            <div class="gdlr-core-twitter-item-list">
+                                                                                <img src="upload/t6.jpg" style="width:100px">
+                                                                                <span class="gdlr-core-twitter-item-list-content">A safe, professional and friendly environment.Quality  teaching, assessment and management of learning .
+                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
+                                                                                </span>
+                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
+                                                                                    <a target="_blank">Balusu Surya chandra prasad, Mechanical</a>
+                                                                                </span>
+                                                                            </div>
+                                                                        </li>
+                                                                         <li class="gdlr-core-item-mglr">
+                                                                            <div class="gdlr-core-twitter-item-list">
+                                                                                <img src="upload/t7.jpg" style="width:100px">
+                                                                              <span class="gdlr-core-twitter-item-list-content">VSM is a combination of excellence and a learning environment. VSM gives its students the best placement platform to realize their dream of a successful corporate career.
+                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
+                                                                                </span>
+                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
+                                                                                    <a target="_blank">T SITARAMAYYA, CSE</a>
+                                                                                </span>
+                                                                            </div>
+                                                                        </li>
+                                                                         <li class="gdlr-core-item-mglr">
+                                                                            <div class="gdlr-core-twitter-item-list">
+                                                                                <img src="upload/t8.jpg" style="width:100px">
+                                                                                <span class="gdlr-core-twitter-item-list-content">My placement journey has been an eventful one with lots of ups and downs. I remember how nervous I used to get when I had to sit for any interviews and through various mock-drills and regular interactions with the T&P cell I gradually became more and more confident and eventually I was offered a job by HGS. Thank you VSM.
+                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
+                                                                                </span>
+                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
+                                                                                    <a target="_blank">Sivani, ECE</a>
+                                                                                </span>
+                                                                            </div>
+                                                                        </li>
+
+                                                                         <li class="gdlr-core-item-mglr">
+                                                                            <div class="gdlr-core-twitter-item-list">
+                                                                                <img src="upload/t9.jpg" style="width:100px">
+                                                                                <span class="gdlr-core-twitter-item-list-content">
+I am very grateful to VSM for providing me such a great platform to not only enhance my skills but help me get a dream job. I was selected by HGS and I am certainly thankful to the T & P Department for they have really worked with not just me but all the students in preparing them for the recruitment.
+
+                                                                                   <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
+                                                                                </span>
+                                                                                <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
+                                                                                    <a target="_blank">Vineetha, CSE</a>
+                                                                                </span>
+                                                                            </div>
+                                                                        </li>
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-20" data-skin="White Text">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-right" id="div_1dd7_68" data-sync-height="height-3">
+                                        <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_69"></div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_70">
+                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_71"><img src="ic/apply-logo.png" alt="" width="42" height="39" title="apply-logo" /></div>
+                                                    <div class="gdlr-core-column-service-content-wrapper">
+                                                        <div class="gdlr-core-column-service-title-wrap">
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_22">OUR ALUMI TALK </h3></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a class="gdlr-core-pbf-column-link" href="#" target="_self"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="gdlr-core-pbf-wrapper "  id="gdlr-core-wrapper-3">
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
@@ -1507,7 +1450,7 @@ Unlike most institutions VSM is managed by professionals drawn from  prestigious
                                         <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" id="div_1dd7_102">
-                                                    <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_103"><img src="upload/icon-envelope.png" alt="" width="78" height="60" title="icon-envelope" /></div>
+                                                    <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_103"><!--<img src="ic/newsletter-bg.jpg" alt="" width="78" height="150" title="icon-envelope">--></div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
@@ -1687,7 +1630,7 @@ Unlike most institutions VSM is managed by professionals drawn from  prestigious
                         <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
                             <div id="text-2" class="widget widget_text kingster-widget">
                                 <div class="textwidget">
-                                    <p><img src="http://vsmcollege.herokuapp.com/assest/img/logo1.png" alt="" />
+                                    <p><img src="ic/logo.png" alt="" />
                                         <br /> <span class="gdlr-core-space-shortcode" id="span_1dd7_10"></span>
                                         <br />Ramachandrapuram,
                                         <br />East Godavari District.

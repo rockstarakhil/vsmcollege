@@ -682,7 +682,7 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #div_1dd7_14{min-height: 450px ;}
 #div_1dd7_15{background-image: url(../upload/abbf-1.jpg) ;background-size: cover ;background-position: center ;}
 #div_1dd7_16{padding: 80px 70px 55px 55px;}
-#div_1dd7_17{background-image: url(../upload/abbf-2.jpg) ;background-size: cover ;background-position: center ;}
+#div_1dd7_17{background-image: url(../upload/abo.jpg) ;background-size: cover ;background-position: center ;}
 #div_1dd7_18{padding-bottom: 20px ;}
 #h3_1dd7_4{font-size: 29px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;}
 #span_1dd7_0{font-size: 19px ;font-weight: 500 ;font-style: normal ;color: #51be78 ;}
@@ -782,10 +782,15 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #div_1dd7_78{font-size: 19px ;font-weight: 500 ;text-transform: none ;color: #ffffff ;}
 #div_1dd7_79{padding: 90px 0px 60px 0px;}
 #div_1dd7_80{background-color: #efefef ;}
-#span_1dd7_1{background-image: url(../upload/tab-1.jpg) ;}
-#span_1dd7_2{background-image: url(../upload/tab-2_Co.jpg) ;}
-#span_1dd7_3{background-image: url(../upload/tab-3_Co.jpg) ;}
-#span_1dd7_4{background-image: url(../upload/tab-4_Co.jpg) ;}
+#span_1dd7_1{background-image: url(../courses_tab/tab-1.jpg) ;}
+#span_1dd7_2{background-image: url(../courses_tab/tab-2_Co.jpg) ;}
+#span_1dd7_3{background-image: url(../courses_tab/tab-3_Co.jpg) ;}
+#span_1dd7_4{background-image: url(../courses_tab/tab-4_Co.jpg) ;}
+
+#span_1dd7_ex{background-image: url(../First_Tab/tab-1-1.jpg) ;}
+#span_1dd7_fe{background-image: url(../First_Tab/tab-2.jpg) ;}
+#span_1dd7_ac{background-image: url(../First_Tab/tab-3.jpg) ;}
+#span_1dd7_pl{background-image: url(../First_Tab/tab-4.jpg) ;}
 #1{background-color: #ffffff ;background-image: url(../upload/tab-bg.png) ;background-position: top right ;}
 #h3_1dd7_24{font-size: 16px ;font-weight: 700 ;text-transform: none ;color: #314e85 ;}
 #2{background-color: #ffffff ;background-image: url(../upload/tab-bg.png) ;background-position: top right ;}
@@ -827,7 +832,7 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #a_1dd7_7{font-size: 14px ;letter-spacing: 1px ;color: #475c87 ;padding: 0px 0px 0px 0px;text-transform: none ;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;}
 #i_1dd7_2{color: #475c87 ;}
 #div_1dd7_100{margin: 0px 20px 0px 0px;padding: 115px 25px 15px 25px;}
-#div_1dd7_101{background-image: url(../upload/newsletter-bg.jpg) ;background-size: cover ;background-position: center ;}
+#div_1dd7_101{background-image: url(../ic/newsletter-bg.jpg) ;background-size: cover ;background-position: center ;}
 #div_1dd7_102{padding-bottom: 55px ;}
 #div_1dd7_103{border-width: 0px;margin: 0px 0px 0px 0px;}
 #div_1dd7_104{padding-bottom: 50px ;}
