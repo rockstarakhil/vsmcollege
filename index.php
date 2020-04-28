@@ -1074,10 +1074,7 @@
                                                     <P>ECE</P>
                                                     <P>CIVIL</P>
                                                     <P>MECHANICAL</P>
-                                                    <p><b>DEGREE</b></p>
-                                                    <p>B.Sc. MPC (T.M. & E.M.),B.Sc. Computer Science,B.Sc. CBZ (T.M. & E.M.),B.Sc. Aquaculture Technology,B.Com. General (T.M. & E.M.),B.com. Computer Applications,BBA,BCA,B.A.</p>
-
-                                                </div>
+                                                    </div>
 
                                                   <div class="gdlr-core-tab-item-content " data-tab-id="ug" >
                                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
