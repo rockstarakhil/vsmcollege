@@ -907,7 +907,7 @@
                                                 <div class="gdlr-core-tab-item-title  gdlr-core-active" data-tab-id="1">Executive Team</div>
                                                 <div class="gdlr-core-tab-item-title " data-tab-id="2">Features</div>
                                                 <div class="gdlr-core-tab-item-title " data-tab-id="3">Accreditations </div>
-                                                <div class="gdlr-core-tab-item-title " data-tab-id="4">400+ Placements</div>
+                                                <div class="gdlr-core-tab-item-title " data-tab-id="4">Placements</div>
                                             </div>
                                             <div class="gdlr-core-tab-item-content-wrap clearfix">
                                                 <div class="gdlr-core-tab-item-content  gdlr-core-active" data-tab-id="1" >
@@ -955,7 +955,7 @@
                                                 <div class="gdlr-core-tab-item-content " data-tab-id="4" >
                                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
                                                         <div class="gdlr-core-title-item-title-wrap ">
-                                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_27">Placements<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_27">400+ Placements in 2019-20<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                                     </div>
                                                     <p>INFOSYS-25,WIPRO-15 </p>
 <p>TECH MAHINDHRA-46 , TCS-02</p>
@@ -1056,8 +1056,8 @@
 
                              <div class="gdlr-core-tab-item-wrap">
                                             <div class="gdlr-core-tab-item-title-wrap clearfix gdlr-core-title-font">
-                                                <div class="gdlr-core-tab-item-title  gdlr-core-active" data-tab-id="1">Under Graduation(B.TECH)</div>
-                                             <div class="gdlr-core-tab-item-title " data-tab-id="ug">Under Graduation(DEGREE)</div>
+                                                <div class="gdlr-core-tab-item-title  gdlr-core-active" data-tab-id="1">B.TECH</div>
+                                             <div class="gdlr-core-tab-item-title " data-tab-id="ug">DEGREE</div>
                                                 <div class="gdlr-core-tab-item-title " data-tab-id="2">Post Graduation</div>
                                                 <div class="gdlr-core-tab-item-title " data-tab-id="3">Polytechnic</div>
                                                 <div class="gdlr-core-tab-item-title " data-tab-id="4">Inter</div>
@@ -1160,7 +1160,7 @@
                                                                     <ul class="slides" id="ul_1dd7_0">
                                                                         <li class="gdlr-core-item-mglr">
                                                                             <div class="gdlr-core-twitter-item-list">
-                                                                                <img src="upload/t2.jpg" style="width:100px">
+                                                                                <img src="upload/t2.jpg" style="width:50px">
                                                                                 <span class="gdlr-core-twitter-item-list-content">My experience at VSM College has meant career advancement to a highly responsible and technically challenging position in a leading-edge software company.
                                                                                    <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
                                                                                 </span>
@@ -1207,7 +1207,7 @@
                                                                          <li class="gdlr-core-item-mglr">
                                                                             <div class="gdlr-core-twitter-item-list">
                                                                                 <img src="upload/t5.jpg" style="width:100px">
-                                                                               <span class="gdlr-core-twitter-item-list-content">College life was the best journey of my life. Whenever I remember my College days,I get tears in my eyes. These four years were like four days for me which completed very fast. But, during these days many memories have been created. Environment of VSM was very nice just like a family. The faculty were like a backbone for me, friends were the reason for my smile and juniors were like younger siblings. Everyone recognized my talent with open arms always.
+                                                                               <span class="gdlr-core-twitter-item-list-content">College life was the best journey of my life. Whenever I remember my College days,I get tears in my eyes. These four years were like four days for me which completed very fast
                                                                                    <!-- <a target="_blank" href="https://t.co/fSyxq53H6P">https://t.co/fSyxq53H6P</a> -->
                                                                                 </span>
                                                                                 <span class="gdlr-core-twitter-item-list-date gdlr-core-skin-caption">
@@ -1360,14 +1360,14 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" id="div_1dd7_92">
-                                                        <img src="upload/hp-donation-400x212.jpg" width="700" height="372" alt="" />
+                                                        <img src="apedm/student corner.jpg" width="700" height="372" alt="" />
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_31">EVENTS AND ALL</h3>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_31">STUDENTS CORNER</h3>
                                                     </div>
                                                     <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_8">The Campaign for the VSM is the 
                                                         <strong>largest fundraising campaign in history.</strong> With a historic the campaign is expanding U of T’s global leadership capacity.
@@ -1378,7 +1378,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                                 <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                                     <a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" id="a_1dd7_6">
                                                         <i class="gdlr-core-pos-left fa fa-heart"  ></i>
-                                                        <span class="gdlr-core-content" >EXPLORE OUR EVENTS</span>
+                                                        <span class="gdlr-core-content" >STUDENTS CORNER</span>
                                                     </a>
                                                 </div>
                                             </div>
@@ -1671,7 +1671,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                         <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
                             <div id="text-2" class="widget widget_text kingster-widget">
                                 <div class="textwidget">
-                                    <p><img src="ic/logo.png" alt="" />
+                                    <p><img src="ic/logo-white.png" alt="" />
                                         <br /> <span class="gdlr-core-space-shortcode" id="span_1dd7_10"></span>
                                         <br />Ramachandrapuram,
                                         <br />East Godavari District.
