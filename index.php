@@ -417,7 +417,6 @@
                             </div>
                         </div>
                     </div>
-                    <br>
                     <div class="gdlr-core-pbf-wrapper  hp1-col-services"  data-skin="Blue Title" id="gdlr-core-wrapper-1">
                         
                       
@@ -921,8 +920,6 @@
                                                   <p>  More than 22 years of experience in Administration.</p>
                                                     <p><b>Shri M.S.N. Murthy</b> :  B.E.,M.S.(USA),Academic Director,
                                                    <p>  More than 15 years of experience in Software Industry, PMP, Certified Professional,Owns a Software company in USA.</p>
-                                                    <p><b>Shri M.V.V.Subba Rao</b> :  M.B.A., Secretary ,
-                                                <p>    More than 10 years of experience in Administration.</p>
                                                     <p><b>Smt.K.Madhura Meenakshi</b> : B.E.,M.S.(USA),
                                                  <p>   Director More than 12 years of experience in Software, & Multi-national organisations,Principal Engineer at Oracle Corporation.</p>
 
@@ -1024,11 +1021,19 @@
                                         
                                         <div class="gdlr-core-tab-item-content-image-wrap clearfix">
                                             <div class="gdlr-core-tab-item-image  gdlr-core-active" data-tab-id="1">
-                                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
+                                            <!--    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"> -->
                                                     <span class="gdlr-core-tab-item-image-background" id="span_1dd7_1"  ></span>
                                                 <!--    <i class="fa fa-play" ></i> -->
                                                 </a>
                                             </div>
+
+                                             <div class="gdlr-core-tab-item-image " data-tab-id="ug">
+                                           <!--     <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"> -->
+                                                    <span class="gdlr-core-tab-item-image-background" id="span_1dd7_ug"  ></span>
+                                                  <!--  <i class="fa fa-play" ></i> -->
+                                                </a>
+                                            </div>
+
                                             <div class="gdlr-core-tab-item-image " data-tab-id="2">
                                            <!--     <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg"> -->
                                                     <span class="gdlr-core-tab-item-image-background" id="span_1dd7_2"  ></span>
@@ -1051,7 +1056,8 @@
 
                              <div class="gdlr-core-tab-item-wrap">
                                             <div class="gdlr-core-tab-item-title-wrap clearfix gdlr-core-title-font">
-                                                <div class="gdlr-core-tab-item-title  gdlr-core-active" data-tab-id="1">Under Graduation</div>
+                                                <div class="gdlr-core-tab-item-title  gdlr-core-active" data-tab-id="1">Under Graduation(B.TECH)</div>
+                                             <div class="gdlr-core-tab-item-title " data-tab-id="ug">Under Graduation(DEGREE)</div>
                                                 <div class="gdlr-core-tab-item-title " data-tab-id="2">Post Graduation</div>
                                                 <div class="gdlr-core-tab-item-title " data-tab-id="3">Polytechnic</div>
                                                 <div class="gdlr-core-tab-item-title " data-tab-id="4">Inter</div>
@@ -1072,6 +1078,26 @@
                                                     <p>B.Sc. MPC (T.M. & E.M.),B.Sc. Computer Science,B.Sc. CBZ (T.M. & E.M.),B.Sc. Aquaculture Technology,B.Com. General (T.M. & E.M.),B.com. Computer Applications,BBA,BCA,B.A.</p>
 
                                                 </div>
+
+                                                  <div class="gdlr-core-tab-item-content " data-tab-id="ug" >
+                                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
+                                                        <div class="gdlr-core-title-item-title-wrap ">
+                                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_25">COURSES<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                    </div>
+                                                    <p><b>DEGREE</b></p> 
+                                                    <p>B.Sc. MPC (T.M. & E.M.)
+                                                        <p>B.Sc. Computer Science</p>
+                                                        <p>B.Sc. CBZ (T.M. & E.M.)</p>
+                                                        <p>B.Sc. Aquaculture Technology</p>
+                                                        <p>B.Com. General (T.M. & E.M.)</p>
+                                                        <p>B.com. Computer Applications</p>
+                                                        <p>BBA</p>
+                                                        <p>BCA</p>
+                                                        <p>B.A.</p>
+
+                                                </div>
+
+
                                                 <div class="gdlr-core-tab-item-content " data-tab-id="2" >
                                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
                                                         <div class="gdlr-core-title-item-title-wrap ">

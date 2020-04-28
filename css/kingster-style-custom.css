@@ -135,7 +135,7 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list li a:before{ margin-le
 	.gdlr-core-tab-item .gdlr-core-tab-item-content-image-wrap{ display: none; float: none; width: auto; height: 300px !important; }
 }
 @media only screen and (max-width: 767px){
-	.gdlr-core-tab-item .gdlr-core-tab-item-title{ font-size: 9px; font-weight: 600; }
+	.gdlr-core-tab-item .gdlr-core-tab-item-title{ font-size: 6px; font-weight: 600; }
 	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title-wrap{ padding-left: 15px; padding-right: 15px; }
 	body .gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title.gdlr-core-active{ background: transparent; }
 	.gdlr-core-tab-style1-horizontal .gdlr-core-tab-item-title, 
@@ -786,6 +786,7 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #span_1dd7_2{background-image: url(../courses_tab/tab-2_Co.jpg) ;}
 #span_1dd7_3{background-image: url(../courses_tab/tab-3_Co.jpg) ;}
 #span_1dd7_4{background-image: url(../courses_tab/tab-4_Co.jpg) ;}
+#span_1dd7_ug{background-image: url(../courses_tab/tab-4_Co.jpg) ;}
 
 #span_1dd7_ex{background-image: url(../First_Tab/tab-1-1.jpg) ;}
 #span_1dd7_fe{background-image: url(../First_Tab/tab-2.jpg) ;}
