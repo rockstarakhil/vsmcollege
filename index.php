@@ -11,6 +11,10 @@
     <link rel='stylesheet' href='plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/style-core.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/kingster-style-custom.css' type='text/css' media='all' />
+    <link rel="stylesheet" type="text/css" href="galleryslide/galerysrcoll.css" />
+    <link rel="stylesheet" type="text/css" href="slider2/slide2css.css">
+     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700i" rel="stylesheet">
+
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700%2C400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
     <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CABeeZee%3Aregular%2Citalic&amp;subset=latin%2Clatin-ext%2Cdevanagari&amp;ver=5.0.3' type='text/css' media='all' />
@@ -541,6 +545,38 @@
                             </div>
                         </div>
                     </div>
+                    <br><br>
+
+<!--<center><h3>Our Campus Ife</h3></center>
+
+
+<div class="slide hi-slide">
+          <div class="hi-prev "></div>
+            <div class="hi-next "></div>
+            <ul>
+                <li>
+                <img src="https://images.pexels.com/photos/1826557/pexels-photo-1826557.jpeg?cs=srgb&dl=attractive-beautiful-beauty-1826557.jpg&fm=jpg" alt="Img 1" />
+        <p>Girl One</li></p>
+                <li><img src="https://images.pexels.com/photos/405240/pexels-photo-405240.jpeg?cs=srgb&dl=attractive-beautiful-curtain-405240.jpg&fm=jpg" alt="Img 2" /><p style="color: yellow">Girl Two</p></li>
+                <li><img src="https://images.pexels.com/photos/1784982/pexels-photo-1784982.jpeg?cs=srgb&dl=attractive-beautiful-beauty-1784982.jpg&fm=jpg" alt="Img 3" /></li>
+                <li><img src="https://images.pexels.com/photos/219582/pexels-photo-219582.jpeg?cs=srgb&dl=attractive-beautiful-beauty-219582.jpg&fm=jpg" alt="Img 4" /></li>
+                <li><img src="https://images.pexels.com/photos/247124/pexels-photo-247124.jpeg?cs=srgb&dl=attractive-beautiful-beauty-247124.jpg&fm=jpg" alt="Img 5" /></li>
+                <li><img src="https://images.pexels.com/photos/1808777/pexels-photo-1808777.png?cs=srgb&dl=attractive-beautiful-beautiful-girl-1808777.jpg&fm=jpg" alt="Img 6" /></li>
+                <li><img src="https://images.pexels.com/photos/754448/pexels-photo-754448.jpeg?cs=srgb&dl=attractive-beautiful-beauty-754448.jpg&fm=jpg" alt="Img 7" /></li>
+                <li><img src="https://images.pexels.com/photos/761536/pexels-photo-761536.jpeg?cs=srgb&dl=attractive-beautiful-beauty-761536.jpg&fm=jpg" alt="Img 7" /></li>
+            </ul>
+        </div>
+        
+        
+        
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" src="js/jquery.hislide.js" ></script>
+        <script>
+            $('.slide').hiSlide();
+        </script> -->
+
+
+
                 <!--    <div class="gdlr-core-pbf-wrapper " id="div_1dd7_21">
                         <div class="gdlr-core-pbf-background-wrap">
                             <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_22" data-parallax-speed="0.2"></div>
@@ -983,35 +1019,6 @@
                     
 
 
-                    <div class="gdlr-core-pbf-wrapper " id="div_1dd7_72">
-                        <div class="gdlr-core-pbf-background-wrap">
-                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_73" data-parallax-speed="0.2"></div>
-                        </div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container-custom" id="div_1dd7_74">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" id="div_1dd7_75">
-                                       <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_76">
-                                            <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=w8efl4rqAz8"><img src="upload/icon-play.png" alt="" width="82" height="82" title="icon-play" /></a>
-                                        </div> 
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_23" style = "color: black;">Video Tour in VSM</h3></div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" id="div_1dd7_77">
-                                        <div class="gdlr-core-text-box-item-content" id="div_1dd7_78">
-                                            <p>Take a tour in VSM and you will find the best university in the state. The video will take you to every places in this university.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                     <div class="gdlr-core-pbf-wrapper " id="div_1dd7_79">
                         <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_80"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
@@ -1140,9 +1147,136 @@
                      </div>
                         </div>
                     </div>
+                    
 
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+   <style>
+        
+    body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+    margin:0;
+    padding:0;
+}
+       body{
+           background-image: 
+    background-size: cover;
+       }
+html,body {
+    margin:0;
+    padding:0;
+    
+}
+       
+       
+    .dg-container{
+    width: 100%;
+    height: 450px;
+    position: relative;
+    margin-top: 70px;
+    background-image: url(slider_images/blue_bg.jpg);
+}
+.dg-wrapper{
+    width: 481px;
+    height: 316px;
+    margin: 0 auto;
+    position: relative; 
+    transform-style: preserve-3d;
+     perspective: 1000px;
+}
+.dg-wrapper a{
+    width: 482px;
+    height: 316px;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+     
+    box-shadow: 0px 10px 20px rgba(0,0,0,0.3);
+}
+.dg-wrapper a.dg-transition{
+    transition: all 0.5s ease-in-out;
+}
+.dg-wrapper a img{
+    display: block;
+     border: 8px solid white;
+}
+.dg-wrapper a div{
+    font-style: italic;
+    text-align: center;
+    line-height: 50px;
+    text-shadow: 1px 1px 1px rgba(255,255,255,0.5);
+    color: #333;
+    font-size: 16px;
+    width: 100%;
+    bottom: -55px;
+    display: none;
+    position: absolute;
+}
+.dg-wrapper a.dg-center div{
+    display: block;
+}
+.dg-container nav{
+    width: 58px;
+    position: absolute;
+    z-index: 1000;
+    bottom: 40px;
+    left: 50%;
+    margin-left: -29px;
+}
+.dg-container nav span{
+    text-indent: -9000px;
+    float: left;
+    cursor:pointer;
+    width: 24px;
+    height: 25px;
+    opacity: 0.8;
+    background: transparent url(slider_images/arrows.png) no-repeat top left;
+}
+.dg-container nav span:hover{
+    opacity: 1;    
+}
+.dg-container nav span.dg-next{
+    background-position: top right;
+    margin-left: 10px;
+}
+        
+    </style>
+         <div class="container">
+            <br>
 
+         <center> <h3>Our Culture </h3></center>
+          
 
+                    <section id="dg-container" class="dg-container">
+                        <br>
+                <div class="dg-wrapper">
+                    <a href="#"><img src="slider_images/img1.jpg" width="500"></a>
+                    <a href="#"><img src="slider_images/img2.jpg"> </a>
+                    <a href="#"><img src="slider_images/img3.jpg" alt="image03"> </a>
+                    <a href="#"><img src="slider_images/img4.jpg" alt="image04"> </a>
+                    <a href="#"><img src="slider_images/img5.jpg" alt="image05"> </a>
+                    <a href="#"><img src="slider_images/img6.jpg" alt="image06"> </a>
+                  <!--  <a href="#"><img src="slider_images/7.jpg" alt="image07"> </a>
+                    <a href="#"><img src="slider_images/8.jpg" alt="image08"> </a>
+                    <a href="#"><img src="slider_images/9.jpg" alt="image09"></a>
+                    <a href="#"><img src="slider_images/10.jpg" alt="image10"> </a>
+                    <a href="#"><img src="slider_images/11.jpg" alt="image11"> </a>
+                    <a href="#"><img src="slider_images/12.jpg" alt="image12"> </a> -->
+                </div>
+                <nav>   
+                    <br>
+                    <span class="dg-prev">&lt;</span>
+                    <span class="dg-next">&gt;</span>
+                </nav>
+            </section>
+        </div>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.0.js"></script>
+        
+        <script type="text/javascript" src="js/jquery.gallery.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                $('#dg-container').gallery();
+            });
+        </script/>
  <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-column-first" data-skin="Blue Title">
                                     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-left" id="div_1dd7_64" data-sync-height="height-3" data-sync-height-center>
                                         <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_65"></div>
@@ -1272,6 +1406,9 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                         </div>
                                     </div>
                                 </div>
+                               
+
+
                                 <div class="gdlr-core-pbf-column gdlr-core-column-20" data-skin="White Text">
                                     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-right" id="div_1dd7_68" data-sync-height="height-3">
                                         <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_69"></div>
@@ -1520,6 +1657,41 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                             </div>
                         </div>
                     </div>
+
+
+                    
+             <!--       <div class="gdlr-core-pbf-wrapper " id="div_1dd7_72">
+                        <div class="gdlr-core-pbf-background-wrap">
+                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_73" data-parallax-speed="0.2"></div>
+                        </div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container-custom" id="div_1dd7_74">
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" id="div_1dd7_75">
+                                       <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_76">
+                                            <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=w8efl4rqAz8"><img src="upload/icon-play.png" alt="" width="82" height="82" title="icon-play" /></a>
+                                        </div> 
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
+                                        <div class="gdlr-core-title-item-title-wrap clearfix">
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_23" style = "color: black;">Video Tour in VSM</h3></div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" id="div_1dd7_77">
+                                        <div class="gdlr-core-text-box-item-content" id="div_1dd7_78">
+                                            <p>Take a tour in VSM and you will find the best university in the state. The video will take you to every places in this university.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+
+
+                    
               <!--      <div class="gdlr-core-pbf-wrapper " id="div_1dd7_105">
                         <div class="gdlr-core-pbf-background-wrap">
                             <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_106" data-parallax-speed="0"></div>
@@ -1765,7 +1937,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
     </div>
 
 
-	<script type='text/javascript' src='js/jquery/jquery.js'></script>
+    <script type='text/javascript' src='js/jquery/jquery.js'></script>
     <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
     <script type='text/javascript' src='plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
     <script type='text/javascript' src='plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
@@ -1901,137 +2073,138 @@ I am very grateful to VSM for providing me such a great platform to not only enh
         };
     </script>
     <script type='text/javascript' src='js/plugins.min.js'></script>
-	<script>
-	    /*<![CDATA[*/
-	    var htmlDiv = document.getElementById("rs-plugin-settings-inline-css");
-	    var htmlDivCss = "";
-	    if (htmlDiv) {
-	        htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-	    } else {
-	        var htmlDiv = document.createElement("div");
-	        htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
-	        document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
-	    } /*]]>*/
-	</script>
-	<script type="text/javascript">
-	    /*<![CDATA[*/
-	    if (setREVStartSize !== undefined) setREVStartSize({
-	        c: '#rev_slider_1_1',
-	        gridwidth: [1380],
-	        gridheight: [713],
-	        sliderLayout: 'auto'
-	    });
-	    var revapi1, tpj;
-	    (function() {
-	        if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded", onLoad);
-	        else onLoad();
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+    <script>
+        /*<![CDATA[*/
+        var htmlDiv = document.getElementById("rs-plugin-settings-inline-css");
+        var htmlDivCss = "";
+        if (htmlDiv) {
+            htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+        } else {
+            var htmlDiv = document.createElement("div");
+            htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+            document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+        } /*]]>*/
+    </script>
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        if (setREVStartSize !== undefined) setREVStartSize({
+            c: '#rev_slider_1_1',
+            gridwidth: [1380],
+            gridheight: [713],
+            sliderLayout: 'auto'
+        });
+        var revapi1, tpj;
+        (function() {
+            if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded", onLoad);
+            else onLoad();
 
-	        function onLoad() {
-	            if (tpj === undefined) {
-	                tpj = jQuery;
-	                if ("off" == "on") tpj.noConflict();
-	            }
-	            if (tpj("#rev_slider_1_1").revolution == undefined) {
-	                revslider_showDoubleJqueryError("#rev_slider_1_1");
-	            } else {
-	                revapi1 = tpj("#rev_slider_1_1").show().revolution({
-	                    sliderType: "standard",
-	                    jsFileLocation: "//demo.goodlayers.com/kingster/wp-content/plugins/revslider/public/assets/js/",
-	                    sliderLayout: "auto",
-	                    dottedOverlay: "none",
-	                    delay: 9000,
-	                    navigation: {
-	                        keyboardNavigation: "off",
-	                        keyboard_direction: "horizontal",
-	                        mouseScrollNavigation: "off",
-	                        mouseScrollReverse: "default",
-	                        onHoverStop: "off",
-	                        touch: {
-	                            touchenabled: "on",
-	                            touchOnDesktop: "off",
-	                            swipe_threshold: 75,
-	                            swipe_min_touches: 1,
-	                            swipe_direction: "horizontal",
-	                            drag_block_vertical: false
-	                        },
-	                        arrows: {
-	                            style: "uranus",
-	                            enable: true,
-	                            hide_onmobile: true,
-	                            hide_under: 1500,
-	                            hide_onleave: true,
-	                            hide_delay: 200,
-	                            hide_delay_mobile: 1200,
-	                            tmp: '',
-	                            left: {
-	                                h_align: "left",
-	                                v_align: "center",
-	                                h_offset: 20,
-	                                v_offset: 0
-	                            },
-	                            right: {
-	                                h_align: "right",
-	                                v_align: "center",
-	                                h_offset: 20,
-	                                v_offset: 0
-	                            }
-	                        },
-	                        bullets: {
-	                            enable: true,
-	                            hide_onmobile: false,
-	                            hide_over: 1499,
-	                            style: "uranus",
-	                            hide_onleave: true,
-	                            hide_delay: 200,
-	                            hide_delay_mobile: 1200,
-	                            direction: "horizontal",
-	                            h_align: "center",
-	                            v_align: "bottom",
-	                            h_offset: 0,
-	                            v_offset: 30,
-	                            space: 7,
-	                            tmp: '<span class="tp-bullet-inner"></span>'
-	                        }
-	                    },
-	                    visibilityLevels: [1240, 1024, 778, 480],
-	                    gridwidth: 1380,
-	                    gridheight: 713,
-	                    lazyType: "none",
-	                    shadow: 0,
-	                    spinner: "off",
-	                    stopLoop: "off",
-	                    stopAfterLoops: -1,
-	                    stopAtSlide: -1,
-	                    shuffle: "off",
-	                    autoHeight: "off",
-	                    disableProgressBar: "on",
-	                    hideThumbsOnMobile: "off",
-	                    hideSliderAtLimit: 0,
-	                    hideCaptionAtLimit: 0,
-	                    hideAllCaptionAtLilmit: 0,
-	                    debugMode: false,
-	                    fallbacks: {
-	                        simplifyAll: "off",
-	                        nextSlideOnWindowFocus: "off",
-	                        disableFocusListener: false,
-	                    }
-	                });
-	            };
-	        };
-	    }()); /*]]>*/
-	</script>
-	<script>
-	    /*<![CDATA[*/
-	    var htmlDivCss = unescape("%23rev_slider_1_1%20.uranus.tparrows%20%7B%0A%20%20width%3A50px%3B%0A%20%20height%3A50px%3B%0A%20%20background%3Argba%28255%2C255%2C255%2C0%29%3B%0A%20%7D%0A%20%23rev_slider_1_1%20.uranus.tparrows%3Abefore%20%7B%0A%20width%3A50px%3B%0A%20height%3A50px%3B%0A%20line-height%3A50px%3B%0A%20font-size%3A40px%3B%0A%20transition%3Aall%200.3s%3B%0A-webkit-transition%3Aall%200.3s%3B%0A%20%7D%0A%20%0A%20%20%23rev_slider_1_1%20.uranus.tparrows%3Ahover%3Abefore%20%7B%0A%20%20%20%20opacity%3A0.75%3B%0A%20%20%7D%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%7B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20box-shadow%3A%200%200%200%202px%20rgba%28255%2C%20255%2C%20255%2C%200%29%3B%0A%20%20-webkit-transition%3A%20box-shadow%200.3s%20ease%3B%0A%20%20transition%3A%20box-shadow%200.3s%20ease%3B%0A%20%20background%3Atransparent%3B%0A%20%20width%3A15px%3B%0A%20%20height%3A15px%3B%0A%7D%0A%23rev_slider_1_1%20.uranus%20.tp-bullet.selected%2C%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%3Ahover%20%7B%0A%20%20box-shadow%3A%200%200%200%202px%20rgba%28255%2C%20255%2C%20255%2C1%29%3B%0A%20%20border%3Anone%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background%3Atransparent%3B%0A%7D%0A%0A%23rev_slider_1_1%20.uranus%20.tp-bullet-inner%20%7B%0A%20%20-webkit-transition%3A%20background-color%200.3s%20ease%2C%20-webkit-transform%200.3s%20ease%3B%0A%20%20transition%3A%20background-color%200.3s%20ease%2C%20transform%200.3s%20ease%3B%0A%20%20top%3A%200%3B%0A%20%20left%3A%200%3B%0A%20%20width%3A%20100%25%3B%0A%20%20height%3A%20100%25%3B%0A%20%20outline%3A%20none%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background-color%3A%20rgb%28255%2C%20255%2C%20255%29%3B%0A%20%20background-color%3A%20rgba%28255%2C%20255%2C%20255%2C%200.3%29%3B%0A%20%20text-indent%3A%20-999em%3B%0A%20%20cursor%3A%20pointer%3B%0A%20%20position%3A%20absolute%3B%0A%7D%0A%0A%23rev_slider_1_1%20.uranus%20.tp-bullet.selected%20.tp-bullet-inner%2C%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%3Ahover%20.tp-bullet-inner%7B%0A%20transform%3A%20scale%280.4%29%3B%0A%20-webkit-transform%3A%20scale%280.4%29%3B%0A%20background-color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%7D%0A");
-	    var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
-	    if (htmlDiv) {
-	        htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-	    } else {
-	        var htmlDiv = document.createElement('div');
-	        htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
-	        document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
-	    } /*]]>*/
-	</script>
+            function onLoad() {
+                if (tpj === undefined) {
+                    tpj = jQuery;
+                    if ("off" == "on") tpj.noConflict();
+                }
+                if (tpj("#rev_slider_1_1").revolution == undefined) {
+                    revslider_showDoubleJqueryError("#rev_slider_1_1");
+                } else {
+                    revapi1 = tpj("#rev_slider_1_1").show().revolution({
+                        sliderType: "standard",
+                        jsFileLocation: "//demo.goodlayers.com/kingster/wp-content/plugins/revslider/public/assets/js/",
+                        sliderLayout: "auto",
+                        dottedOverlay: "none",
+                        delay: 9000,
+                        navigation: {
+                            keyboardNavigation: "off",
+                            keyboard_direction: "horizontal",
+                            mouseScrollNavigation: "off",
+                            mouseScrollReverse: "default",
+                            onHoverStop: "off",
+                            touch: {
+                                touchenabled: "on",
+                                touchOnDesktop: "off",
+                                swipe_threshold: 75,
+                                swipe_min_touches: 1,
+                                swipe_direction: "horizontal",
+                                drag_block_vertical: false
+                            },
+                            arrows: {
+                                style: "uranus",
+                                enable: true,
+                                hide_onmobile: true,
+                                hide_under: 1500,
+                                hide_onleave: true,
+                                hide_delay: 200,
+                                hide_delay_mobile: 1200,
+                                tmp: '',
+                                left: {
+                                    h_align: "left",
+                                    v_align: "center",
+                                    h_offset: 20,
+                                    v_offset: 0
+                                },
+                                right: {
+                                    h_align: "right",
+                                    v_align: "center",
+                                    h_offset: 20,
+                                    v_offset: 0
+                                }
+                            },
+                            bullets: {
+                                enable: true,
+                                hide_onmobile: false,
+                                hide_over: 1499,
+                                style: "uranus",
+                                hide_onleave: true,
+                                hide_delay: 200,
+                                hide_delay_mobile: 1200,
+                                direction: "horizontal",
+                                h_align: "center",
+                                v_align: "bottom",
+                                h_offset: 0,
+                                v_offset: 30,
+                                space: 7,
+                                tmp: '<span class="tp-bullet-inner"></span>'
+                            }
+                        },
+                        visibilityLevels: [1240, 1024, 778, 480],
+                        gridwidth: 1380,
+                        gridheight: 713,
+                        lazyType: "none",
+                        shadow: 0,
+                        spinner: "off",
+                        stopLoop: "off",
+                        stopAfterLoops: -1,
+                        stopAtSlide: -1,
+                        shuffle: "off",
+                        autoHeight: "off",
+                        disableProgressBar: "on",
+                        hideThumbsOnMobile: "off",
+                        hideSliderAtLimit: 0,
+                        hideCaptionAtLimit: 0,
+                        hideAllCaptionAtLilmit: 0,
+                        debugMode: false,
+                        fallbacks: {
+                            simplifyAll: "off",
+                            nextSlideOnWindowFocus: "off",
+                            disableFocusListener: false,
+                        }
+                    });
+                };
+            };
+        }()); /*]]>*/
+    </script>
+    <script>
+        /*<![CDATA[*/
+        var htmlDivCss = unescape("%23rev_slider_1_1%20.uranus.tparrows%20%7B%0A%20%20width%3A50px%3B%0A%20%20height%3A50px%3B%0A%20%20background%3Argba%28255%2C255%2C255%2C0%29%3B%0A%20%7D%0A%20%23rev_slider_1_1%20.uranus.tparrows%3Abefore%20%7B%0A%20width%3A50px%3B%0A%20height%3A50px%3B%0A%20line-height%3A50px%3B%0A%20font-size%3A40px%3B%0A%20transition%3Aall%200.3s%3B%0A-webkit-transition%3Aall%200.3s%3B%0A%20%7D%0A%20%0A%20%20%23rev_slider_1_1%20.uranus.tparrows%3Ahover%3Abefore%20%7B%0A%20%20%20%20opacity%3A0.75%3B%0A%20%20%7D%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%7B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20box-shadow%3A%200%200%200%202px%20rgba%28255%2C%20255%2C%20255%2C%200%29%3B%0A%20%20-webkit-transition%3A%20box-shadow%200.3s%20ease%3B%0A%20%20transition%3A%20box-shadow%200.3s%20ease%3B%0A%20%20background%3Atransparent%3B%0A%20%20width%3A15px%3B%0A%20%20height%3A15px%3B%0A%7D%0A%23rev_slider_1_1%20.uranus%20.tp-bullet.selected%2C%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%3Ahover%20%7B%0A%20%20box-shadow%3A%200%200%200%202px%20rgba%28255%2C%20255%2C%20255%2C1%29%3B%0A%20%20border%3Anone%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background%3Atransparent%3B%0A%7D%0A%0A%23rev_slider_1_1%20.uranus%20.tp-bullet-inner%20%7B%0A%20%20-webkit-transition%3A%20background-color%200.3s%20ease%2C%20-webkit-transform%200.3s%20ease%3B%0A%20%20transition%3A%20background-color%200.3s%20ease%2C%20transform%200.3s%20ease%3B%0A%20%20top%3A%200%3B%0A%20%20left%3A%200%3B%0A%20%20width%3A%20100%25%3B%0A%20%20height%3A%20100%25%3B%0A%20%20outline%3A%20none%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background-color%3A%20rgb%28255%2C%20255%2C%20255%29%3B%0A%20%20background-color%3A%20rgba%28255%2C%20255%2C%20255%2C%200.3%29%3B%0A%20%20text-indent%3A%20-999em%3B%0A%20%20cursor%3A%20pointer%3B%0A%20%20position%3A%20absolute%3B%0A%7D%0A%0A%23rev_slider_1_1%20.uranus%20.tp-bullet.selected%20.tp-bullet-inner%2C%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%3Ahover%20.tp-bullet-inner%7B%0A%20transform%3A%20scale%280.4%29%3B%0A%20-webkit-transform%3A%20scale%280.4%29%3B%0A%20background-color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%7D%0A");
+        var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+        if (htmlDiv) {
+            htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+        } else {
+            var htmlDiv = document.createElement('div');
+            htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+            document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+        } /*]]>*/
+    </script>
     <script src="jquery.counterup.min.js"></script>
     <script src="js/wow.min.js"></script>
 </body>
