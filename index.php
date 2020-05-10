@@ -1249,12 +1249,12 @@ html,body {
                     <section id="dg-container" class="dg-container">
                         <br>
                 <div class="dg-wrapper">
-                    <a href="#"><img src="courses_tab/tab-1.jpg" width="500"></a> 
-                    <a href="#"><img src="courses_tab/tab-2_Co.jpg"> </a>
-                    <a href="#"><img src="courses_tab/tab-3_Co.jpg" alt="image03"> </a>
-                    <a href="#"><img src="courses_tab/tab-4_Co.jpg" alt="image04"> </a>
-                    <a href="#"><img src="courses_tab/tab-2_Co.jpg" alt="image05"> </a>
-                    <a href="#"><img src="courses_tab/tab-3_Co.jpg" alt="image06"> </a>
+                    <a href="#"><img src="https://preview.redd.it/xqbpfjp6ew721.jpg?width=960&crop=smart&auto=webp&s=9305cd9b6589e21ac579cc680887d7f1a3a3f0d9" width="500"></a> 
+                    <a href="#"><img src="screengeek.net/wp-content/uploads/2019/08/thor-love-and-thunder-1.jpg"> </a>
+                    <a href="#"><img src="devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_03_2020_20_11_00_232131.png?width=920&format=webp" alt="image03"> </a>
+                    <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYOwD3Hbe14TfQHGNGPp3nepkNzRqeY41MktBHUySyT098qrPZ&usqp=CAU" alt="image04"> </a>
+                    <a href="#"><img src="https://free4kwallpapers.com/uploads/wallpaper/the-incredible-hulk-wallpaper1-1024x768-wallpaper.jpg" alt="image05"> </a>
+                    <a href="#"><img src="syfy.com/sites/syfy/files/styles/1200x680_hero/public/syfywire_blog_post/2018/09/Hawkeye.jpg" alt="image06"> </a>
                   <!--  <a href="#"><img src="slider_images/7.jpg" alt="image07"> </a>
                     <a href="#"><img src="slider_images/8.jpg" alt="image08"> </a>
                     <a href="#"><img src="slider_images/9.jpg" alt="image09"></a>
