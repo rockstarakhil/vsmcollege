@@ -1249,12 +1249,12 @@ html,body {
                     <section id="dg-container" class="dg-container">
                         <br>
                 <div class="dg-wrapper">
-                    <a href="#"><img src="courses_tab/tab-1.jpg" width="500"></a> 
-                    <a href="#"><img src="courses_tab/tab-2_Co.jpg"> </a>
-                    <a href="#"><img src="courses_tab/tab-3_Co.jpg" alt="image03"> </a>
-                    <a href="#"><img src="courses_tab/tab-4_Co.jpg" alt="image04"> </a>
-                    <a href="#"><img src="courses_tab/tab-2_Co.jpg" alt="image05"> </a>
-                    <a href="#"><img src="courses_tab/tab-3_Co.jpg" alt="image06"> </a>
+                    <a href="#"><img src="ic/img1.png" width="500"></a> 
+                    <a href="#"><img src="ic/img2.png"> </a>
+                    <a href="#"><img src="ic/img3.png" alt="image03"> </a>
+                    <a href="#"><img src="ic/img4.png" alt="image04"> </a>
+                    <a href="#"><img src="ic/img5.png" alt="image05"> </a>
+                    <a href="#"><img src="ic/img6.png" alt="image06"> </a>
                   <!--  <a href="#"><img src="slider_images/7.jpg" alt="image07"> </a>
                     <a href="#"><img src="slider_images/8.jpg" alt="image08"> </a>
                     <a href="#"><img src="slider_images/9.jpg" alt="image09"></a>
