@@ -1249,7 +1249,7 @@ html,body {
                     <section id="dg-container" class="dg-container">
                         <br>
                 <div class="dg-wrapper">
-                    <a href="#"><img src="courses_tab/baim.jpg" width="500"></a> 
+                    <a href="#"><img src="courses_tab/vtest.jpg" width="500"></a> 
                     <a href="#"><img src="courses_tab/matt.jpg"> </a>
                     <a href="#"><img src="courses_tab/mic.jpg" alt="image03"> </a>
                     <a href="#"><img src="courses_tab/pri.jpg" alt="image04"> </a>
