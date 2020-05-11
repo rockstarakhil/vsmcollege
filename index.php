@@ -1250,11 +1250,11 @@ html,body {
                         <br>
                 <div class="dg-wrapper">
                     <a href="#"><img src="courses_tab/vtest.jpg" width="500"></a> 
-                    <a href="#"><img src="courses_tab/matt.jpg"> </a>
-                    <a href="#"><img src="courses_tab/mic.jpg" alt="image03"> </a>
-                    <a href="#"><img src="courses_tab/pri.jpg" alt="image04"> </a>
-                    <a href="#"><img src="courses_tab/pric.jpg" alt="image05"> </a>
-                    <a href="#"><img src="courses_tab/matt.jpg" alt="image06"> </a>
+                    <a href="#"><img src="courses_tab/2.jpg"> </a>
+                    <a href="#"><img src="courses_tab/3.jpg" alt="image03"> </a>
+                    <a href="#"><img src="courses_tab/4.jpg" alt="image04"> </a>
+                    <a href="#"><img src="courses_tab/5.jpg" alt="image05"> </a>
+                    <a href="#"><img src="courses_tab/6.jpg" alt="image06"> </a>
                   <!--  <a href="#"><img src="slider_images/7.jpg" alt="image07"> </a>
                     <a href="#"><img src="slider_images/8.jpg" alt="image08"> </a>
                     <a href="#"><img src="slider_images/9.jpg" alt="image09"></a>
