@@ -220,7 +220,7 @@
                                             <li class="menu-item" data-size="60"><a href="homepage-2.html">Homepage 2</a></li>
                                         </ul> -->
                                     </li>
-                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Pages</a>
+                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">About</a>
                                         <ul class="sub-menu">
                                            <!-- <li class="menu-item" data-size="60"><a href="about-us.html">About KU</a></li>
                                             <li class="menu-item menu-item-has-children" data-size="60"><a href="blog-full-right-sidebar-with-frame.html" class="sf-with-ul-pre">Blog</a> -->
@@ -341,14 +341,14 @@
                                             <li class="menu-item" data-size="60"><a href="event-calendar.html">Event Calendar</a></li> -->
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Courses</a>
+                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Student Corner</a>
                                         <ul class="sub-menu">
                                          <!--   <li class="menu-item" data-size="60"><a href="course-list-1.html">Course List 1</a></li>
                                             <li class="menu-item" data-size="60"><a href="course-list-2.html">Course List 2</a></li> -->
                                         </ul>
                                     </li>
-                                    <li class="menu-item kingster-normal-menu"><a href="athletics.html">Athletics</a></li>
-                                    <li class="menu-item kingster-normal-menu"><a href="university-life.html">University Life</a></li>
+                                    <li class="menu-item kingster-normal-menu"><a href="athletics.html">Facuilty Corner</a></li>
+                                    <li class="menu-item kingster-normal-menu"><a href="university-life.html">Hachathons</a></li>
                                 </ul>
                                 <div class="kingster-navigation-slide-bar" id="kingster-navigation-slide-bar"></div>
                             </div>
@@ -1017,7 +1017,88 @@
                         </div>
                     </div>
                     
+  <center><h3>Why Choose VSM</h3></center>
 
+                  <div class="gdlr-core-pbf-wrapper " style="padding: 80px 0px 40px 0px;" data-skin="Column Service">
+                        <div class="gdlr-core-pbf-background-wrap" style="background-color: #1b2945 ;"></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                                <div class="gdlr-core-pbf-column gdlr-core-column-15 gdlr-core-column-first">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
+                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 35px;"><img src="upload/col-icon-1.png" alt="" width="41" height="41" title="col-icon-1" /></div>
+                                                    <div class="gdlr-core-column-service-content-wrapper">
+                                                        <div class="gdlr-core-column-service-title-wrap">
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Industry Tie-ups</h3></div>
+                                                        <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
+                                                            <p>VSM has several partnerships with industry to boost innovation and help students in gaining skills that equip them for fulfilling careers.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-15">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
+                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 31px;"><img src="upload/col-icon-2.png" alt="" width="43" height="45" title="col-icon-2" /></div>
+                                                    <div class="gdlr-core-column-service-content-wrapper">
+                                                        <div class="gdlr-core-column-service-title-wrap">
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Social Impact</h3></div>
+                                                        <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
+                                                            <p>VSM is always in the forefront in creating an impact on the Society. Various projects are being conducted where the students and faculty can contribute towards the benefit of the needy in the nearby communities.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-15">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
+                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 33px;"><img src="upload/col-icon-3.png" alt="" width="40" height="43" title="col-icon-3" /></div>
+                                                    <div class="gdlr-core-column-service-content-wrapper">
+                                                        <div class="gdlr-core-column-service-title-wrap">
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Research Groups</h3></div>
+                                                        <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
+                                                            <p>One of the primary goals of VSM is to incubate new research in the fundamental sciences and inter-disciplinary areas through innovative schemes and research programs.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-15">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
+                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 29px;"><img src="upload/col-icon-4.png" alt="" width="47" height="47" title="col-icon-4" /></div>
+                                                    <div class="gdlr-core-column-service-content-wrapper">
+                                                        <div class="gdlr-core-column-service-title-wrap">
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Innovation & Entrepreneurship</h3></div>
+                                                        <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
+                                                            <p>VSM promotes Innovation and Entrepreneurship among students, faculty, alumni as well as people of the region by providing required facilities & support.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
 
                     <div class="gdlr-core-pbf-wrapper " id="div_1dd7_79">
                         <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_80"></div>
@@ -1172,7 +1253,7 @@ html,body {
     height: 450px;
     position: relative;
     margin-top: 70px;
-    background-image: url(courses_tab/blue_bg.jpg);
+    background-image: url(courses_tab/blu.jpg);
 }
 .dg-wrapper{
     width: 481px;
@@ -1249,12 +1330,12 @@ html,body {
                     <section id="dg-container" class="dg-container">
                         <br>
                 <div class="dg-wrapper">
-                    <a href="#"><img src="courses_tab/vtest.jpg" width="500"></a> 
-                    <a href="#"><img src="courses_tab/2.jpg"> </a>
-                    <a href="#"><img src="courses_tab/3.jpg" alt="image03"> </a>
-                    <a href="#"><img src="courses_tab/4.jpg" alt="image04"> </a>
-                    <a href="#"><img src="courses_tab/5.jpg" alt="image05"> </a>
-                    <a href="#"><img src="courses_tab/6.jpg" alt="image06"> </a>
+                    <a href="#"><img src="courses_tab/v1.jpg" width="500"></a> 
+                    <a href="#"><img src="courses_tab/v2.jpg"> </a>
+                    <a href="#"><img src="courses_tab/v3.jpg" alt="image03"> </a>
+                    <a href="#"><img src="courses_tab/v5.jpg" alt="image04"> </a>
+                    <a href="#"><img src="courses_tab/v6.jpg" alt="image05"> </a>
+                   <!-- <a href="#"><img src="courses_tab/6.jpg" alt="image06"> </a> -->
                   <!--  <a href="#"><img src="slider_images/7.jpg" alt="image07"> </a>
                     <a href="#"><img src="slider_images/8.jpg" alt="image08"> </a>
                     <a href="#"><img src="slider_images/9.jpg" alt="image09"></a>
@@ -1443,9 +1524,9 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_84">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_28">Undergraduate</h3>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_28">Students Corner</h3>
                                                     </div>
-                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_5">VSM IS A GOOD COLLEGE</span>
+                                                  <a href="#"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_5">To know More Click Here</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1458,9 +1539,9 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_87">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_29">Graduated & Professional</h3>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_29">Scholarships and All</h3>
                                                     </div>
-                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_6">VSM IS A GOOD COLLEGE</span>
+                                                   <a href="#"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_6">To Know More Click Here</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1475,9 +1556,9 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_90">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_30">Scholarships & Financial AID</h3>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_30">Facuilty Corner</h3>
                                                     </div>
-                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_7">VSM IS A VERY GOOD COLLGE</span>
+                                                    <a href="#"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_7">VSM IS A VERY GOOD COLLGE</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1504,10 +1585,10 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_31">STUDENTS CORNER</h3>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_31">HACAKTHONS</h3>
                                                     </div>
-                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_8">The Campaign for the VSM is the 
-                                                        <strong>largest fundraising campaign in history.</strong> With a historic the campaign is expanding U of T’s global leadership capacity.
+                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_8">We conduct regular Events
+                                                        <strong>To be update the students Technicial Knowldge </strong> With Regular Events
                                                     </span>
                                                 </div>
                                             </div>
@@ -1515,7 +1596,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                                 <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                                     <a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" id="a_1dd7_6">
                                                         <i class="gdlr-core-pos-left fa fa-heart"  ></i>
-                                                        <span class="gdlr-core-content" >STUDENTS CORNER</span>
+                                                        <span class="gdlr-core-content" >Know More Click Here</span>
                                                     </a>
                                                 </div>
                                             </div>
@@ -1531,7 +1612,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                                 <div class="gdlr-core-event-item gdlr-core-item-pdb" id="div_1dd7_94">
                                                     <div class="gdlr-core-block-item-title-wrap  gdlr-core-left-align gdlr-core-item-mglr" id="div_1dd7_95">
                                                         <div class="gdlr-core-block-item-title-inner clearfix">
-                                                            <h3 class="gdlr-core-block-item-title" id="h3_1dd7_32">Upcoming Events</h3>
+                                                            <h3 class="gdlr-core-block-item-title" id="h3_1dd7_32">Events</h3>
                                                             <div class="gdlr-core-block-item-title-divider" id="div_1dd7_96"></div>
                                                         </div>
                                                     </div>
@@ -2207,5 +2288,6 @@ I am very grateful to VSM for providing me such a great platform to not only enh
     </script>
     <script src="jquery.counterup.min.js"></script>
     <script src="js/wow.min.js"></script>
+    <script async>(function(w, d) { w.CollectId = "5e96dab470351f466a582ffc"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
 </body>
 </html>

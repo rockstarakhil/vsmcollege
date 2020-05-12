@@ -1,5 +1,5 @@
 .kingster-page-title-wrap{ background-image: url(../upload/page-title.jpg); }.kingster-header-wrap.kingster-header-style-plain{ box-shadow: 0px 1px 4px rgba(0,0,0,0.1); -webkit-box-shadow: 0px 1px 4px rgba(0,0,0,0.1); }.kingster-top-bar-right-button{ padding-bottom: 19px; margin-bottom: -19px; }.kingster-body h1, .kingster-body h2, .kingster-body h3, .kingster-body h4, .kingster-body h5, .kingster-body h6{ margin-top: 0px; margin-bottom: 20px; line-height: 1.2; font-weight: 700; }
-#poststuff .gdlr-core-page-builder-body h2{ padding: 0px; margin-bottom: 20px; line-height: 1.2; font-weight: 700; }
+#poststuff .gdlr-core-page-builder-body h2{ padding: 0px; margin-bottom: 10px; line-height: 1.2; font-weight: 700; }
 #poststuff .gdlr-core-page-builder-body h1{ padding: 0px; font-weight: 700; }
 
 .gdlr-core-button, .kingster-button, 
@@ -775,12 +775,12 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #div_1dd7_72{padding: 220px 0px 170px 0px;}
 #div_1dd7_73{background-image: url(../apedm/vd.jpg) ;background-size: cover ;background-position: center ;}
 #div_1dd7_74{max-width: 710px ;}
-#div_1dd7_75{padding-bottom: 40px ;}
+#div_1dd7_75{padding-bottom: 15px ;}
 #div_1dd7_76{border-width: 0px;}
 #h3_1dd7_23{font-size: 38px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;}
 #div_1dd7_77{padding-bottom: 0px ;}
 #div_1dd7_78{font-size: 19px ;font-weight: 500 ;text-transform: none ;color: #ffffff ;}
-#div_1dd7_79{padding: 90px 0px 60px 0px;}
+#div_1dd7_79{padding: 10px 0px 20px 0px;}
 #div_1dd7_80{background-color: #efefef ;}
 #span_1dd7_1{background-image: url(../courses_tab/tab-1.jpg) ;}
 #span_1dd7_2{background-image: url(../courses_tab/tab-2_Co.jpg) ;}
@@ -832,7 +832,7 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #div_1dd7_99{margin-bottom: 38px ;}
 #a_1dd7_7{font-size: 14px ;letter-spacing: 1px ;color: #475c87 ;padding: 0px 0px 0px 0px;text-transform: none ;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;}
 #i_1dd7_2{color: #475c87 ;}
-#div_1dd7_100{margin: 0px 20px 0px 0px;padding: 115px 25px 15px 25px;}
+#div_1dd7_100{margin: 0px 20px 0px 0px;padding: 80px 10px 5px 10px;}
 #div_1dd7_101{background-image: url(../ic/newsletter-bg.jpg) ;background-size: cover ;background-position: center ;}
 #div_1dd7_102{padding-bottom: 55px ;}
 #div_1dd7_103{border-width: 0px;margin: 0px 0px 0px 0px;}
