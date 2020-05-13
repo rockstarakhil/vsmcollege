@@ -1170,9 +1170,9 @@
                                                     <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 35px;"><img src="upload/col-icon-1.png" alt="" width="41" height="41" title="col-icon-1" /></div>
                                                     <div class="gdlr-core-column-service-content-wrapper">
                                                         <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Education Services</h3></div>
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Industry Tie-ups</h3></div>
                                                         <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                                            <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p>
+                                                            <p>VSM has several partnerships with industry to boost innovation and help students in gaining skills that equip them for fulfilling careers.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1188,9 +1188,9 @@
                                                     <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 31px;"><img src="upload/col-icon-2.png" alt="" width="43" height="45" title="col-icon-2" /></div>
                                                     <div class="gdlr-core-column-service-content-wrapper">
                                                         <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">International Hubs</h3></div>
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Social Impact</h3></div>
                                                         <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                                            <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p>
+                                                            <p>VSN is always in the forefront in creating an impact on the Society. Various projects are being conducted where the students and faculty can contribute towards the benefit of the needy in the nearby communities.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1206,9 +1206,9 @@
                                                     <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 33px;"><img src="upload/col-icon-3.png" alt="" width="40" height="43" title="col-icon-3" /></div>
                                                     <div class="gdlr-core-column-service-content-wrapper">
                                                         <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Bachelor’s and Master’s</h3></div>
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Research Groups</h3></div>
                                                         <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                                            <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p>
+                                                            <p>One of the primary goals of VSM is to incubate new research in the fundamental sciences and inter-disciplinary areas through innovative schemes and research programs.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1224,9 +1224,9 @@
                                                     <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 29px;"><img src="upload/col-icon-4.png" alt="" width="47" height="47" title="col-icon-4" /></div>
                                                     <div class="gdlr-core-column-service-content-wrapper">
                                                         <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Know More</h3></div>
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Innovation & Entrepreneurship</h3></div>
                                                         <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                                            <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p>
+                                                            <p>VSM promotes Innovation and Entrepreneurship among students, faculty, alumni as well as people of the region by providing required facilities & support..</p>
                                                         </div>
                                                     </div>
                                                 </div>
