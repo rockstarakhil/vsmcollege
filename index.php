@@ -53,7 +53,7 @@
                                         <li class="menu-item"><a href="homepage-2.html">Homepage 2</a></li>
                                     </ul> -->
                                 </li>
-                                <li class="menu-item menu-item-has-children"><a href="#">Pages</a>
+                                <li class="menu-item menu-item-has-children"><a href="#">About</a>
                                     <ul class="sub-menu">
                                        <!-- <li class="menu-item"><a href="about-us.html">About KU</a></li> -->
                                      <!--   <li class="menu-item menu-item-has-children"><a href="blog-full-right-sidebar-with-frame.html">Blog</a>-->
@@ -170,13 +170,13 @@
                                         <li class="menu-item"><a href="event-calendar.html">Event Calendar</a></li> -->
                                     </ul>
                                 </li>
-                                <li class="menu-item menu-item-has-children"><a href="#">Courses</a>
+                                <li class="menu-item menu-item-has-children"><a href="#">Students Corner</a>
                                     <ul class="sub-menu">
                                       <!--  <li class="menu-item"><a href="course-list-1.html">Course List 1</a></li>
                                         <li class="menu-item"><a href="course-list-2.html">Course List 2</a></li> -->
                                     </ul>
                                 </li>
-                                <li class="menu-item"><a href="#">Athletics</a></li>
+                                <li class="menu-item"><a href="#">Facuilty Corner/a></li>
                                 <li class="menu-item"><a href="#">University Life</a></li>
                             </ul>
                         </div>
@@ -220,7 +220,7 @@
                                             <li class="menu-item" data-size="60"><a href="homepage-2.html">Homepage 2</a></li>
                                         </ul> -->
                                     </li>
-                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Pages</a>
+                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">About</a>
                                         <ul class="sub-menu">
                                            <!-- <li class="menu-item" data-size="60"><a href="about-us.html">About KU</a></li>
                                             <li class="menu-item menu-item-has-children" data-size="60"><a href="blog-full-right-sidebar-with-frame.html" class="sf-with-ul-pre">Blog</a> -->
@@ -341,14 +341,14 @@
                                             <li class="menu-item" data-size="60"><a href="event-calendar.html">Event Calendar</a></li> -->
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Courses</a>
+                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Student Corner</a>
                                         <ul class="sub-menu">
                                          <!--   <li class="menu-item" data-size="60"><a href="course-list-1.html">Course List 1</a></li>
                                             <li class="menu-item" data-size="60"><a href="course-list-2.html">Course List 2</a></li> -->
                                         </ul>
                                     </li>
-                                    <li class="menu-item kingster-normal-menu"><a href="athletics.html">Athletics</a></li>
-                                    <li class="menu-item kingster-normal-menu"><a href="university-life.html">University Life</a></li>
+                                    <li class="menu-item kingster-normal-menu"><a href="athletics.html">Facuilty Corner</a></li>
+                                    <li class="menu-item kingster-normal-menu"><a href="university-life.html">Hackathons</a></li>
                                 </ul>
                                 <div class="kingster-navigation-slide-bar" id="kingster-navigation-slide-bar"></div>
                             </div>
@@ -1002,7 +1002,7 @@
                                                   <p><img src="placement/infosysy.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src = "placement/wipro.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src="placement/tata.png"> &emsp; &emsp; &emsp; &emsp;&emsp;<img src = "placement/techm.png"></p>
                                                   <p><img src="placement/primesoft.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src = "placement/castalaqua.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src="placement/genpact.png"> &emsp; &emsp; &emsp; &emsp;&emsp;<img src = "placement/glenwood.png"></p>
                                                   <p><img src="placement/hgs.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src = "placement/zenus.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src="placement/aliens.png"> &emsp; &emsp; &emsp; &emsp;&emsp;<img src = "placement/krify.png"></p>
-                                                  <p><img src="placement/Indianhealth.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src = "placement/wipro.png"> &emsp; &emsp; &emsp; &emsp;&emsp; 
+                                                  <p><img src="placement/Indianhealth.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src = "placement/wipro.png"> 
                                                   
 <!--<p>TECH MAHINDHRA-46 , TCS-02</p>
 <p>PRIMESOFT-7, COSTAL AQUA-11</p>
@@ -1224,7 +1224,7 @@
                                                     <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 29px;"><img src="upload/col-icon-4.png" alt="" width="47" height="47" title="col-icon-4" /></div>
                                                     <div class="gdlr-core-column-service-content-wrapper">
                                                         <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">University Life</h3></div>
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Hackathons</h3></div>
                                                         <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
                                                             <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p>
                                                         </div>
@@ -1319,7 +1319,7 @@ html,body {
     width: 24px;
     height: 25px;
     opacity: 0.8;
-    background: transparent url(slider_images/arrows.png) no-repeat top left;
+    background: transparent url(a/arrows.png) no-repeat top left;
 }
 .dg-container nav span:hover{
     opacity: 1;    
