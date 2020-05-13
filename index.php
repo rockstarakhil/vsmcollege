@@ -220,7 +220,7 @@
                                             <li class="menu-item" data-size="60"><a href="homepage-2.html">Homepage 2</a></li>
                                         </ul> -->
                                     </li>
-                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">About</a>
+                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Pages</a>
                                         <ul class="sub-menu">
                                            <!-- <li class="menu-item" data-size="60"><a href="about-us.html">About KU</a></li>
                                             <li class="menu-item menu-item-has-children" data-size="60"><a href="blog-full-right-sidebar-with-frame.html" class="sf-with-ul-pre">Blog</a> -->
@@ -341,14 +341,14 @@
                                             <li class="menu-item" data-size="60"><a href="event-calendar.html">Event Calendar</a></li> -->
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Student Corner</a>
+                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Courses</a>
                                         <ul class="sub-menu">
                                          <!--   <li class="menu-item" data-size="60"><a href="course-list-1.html">Course List 1</a></li>
                                             <li class="menu-item" data-size="60"><a href="course-list-2.html">Course List 2</a></li> -->
                                         </ul>
                                     </li>
-                                    <li class="menu-item kingster-normal-menu"><a href="athletics.html">Facuilty Corner</a></li>
-                                    <li class="menu-item kingster-normal-menu"><a href="university-life.html">Hachathons</a></li>
+                                    <li class="menu-item kingster-normal-menu"><a href="athletics.html">Athletics</a></li>
+                                    <li class="menu-item kingster-normal-menu"><a href="university-life.html">University Life</a></li>
                                 </ul>
                                 <div class="kingster-navigation-slide-bar" id="kingster-navigation-slide-bar"></div>
                             </div>
@@ -951,12 +951,17 @@
                                                         <div class="gdlr-core-title-item-title-wrap ">
                                                             <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_24">Executive Team<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                                     </div>
-                                                    <p><b>Shri Merla Narayana Murthy</b> :  President & Correspondent.</p>
-                                                    <p><b>Shri M.S.R. Prasad</b>:   B.Tech.(CSE),Vice-President ,
+                                                 <p><img src="team/chairman.png"></p>
+                                                  <p><b>Shri Merla Narayana Murthy</b> :  President & Correspondent.</p>
+                                            
+                                                    <p><img src="team/msrprasad.png"></p>  <b>Shri M.S.R. Prasad</b>:   B.Tech.(CSE),Vice-President ,
                                                   <p>  More than 22 years of experience in Administration.</p>
-                                                    <p><b>Shri M.S.N. Murthy</b> :  B.E.,M.S.(USA),Academic Director,
+                                                       
+                                                    <p><img src="team/msnmurthy.png"></p>
+                                                        <b>Shri M.S.N. Murthy</b> :  B.E.,M.S.(USA),Academic Director,
                                                    <p>  More than 15 years of experience in Software Industry, PMP, Certified Professional,Owns a Software company in USA.</p>
-                                                    <p><b>Smt.K.Madhura Meenakshi</b> : B.E.,M.S.(USA),
+                                                    <p><img src="team/meenakshi.png"></p>
+                                                        <b>Smt.K.Madhura Meenakshi</b> : B.E.,M.S.(USA),
                                                  <p>   Director More than 12 years of experience in Software, & Multi-national organisations,Principal Engineer at Oracle Corporation.</p>
 
 
@@ -993,8 +998,13 @@
                                                         <div class="gdlr-core-title-item-title-wrap ">
                                                             <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_27">400+ Placements in 2019-20<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                                     </div>
-                                                    <p>INFOSYS-25,WIPRO-15 </p>
-<p>TECH MAHINDHRA-46 , TCS-02</p>
+                                                    
+                                                  <p><img src="placement/infosysy.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src = "placement/wipro.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src="placement/tata.png"> &emsp; &emsp; &emsp; &emsp;&emsp;<img src = "placement/techm.png"></p>
+                                                  <p><img src="placement/primesoft.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src = "placement/castalaqua.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src="placement/genpact.png"> &emsp; &emsp; &emsp; &emsp;&emsp;<img src = "placement/glenwood.png"></p>
+                                                  <p><img src="placement/hgs.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src = "placement/zenus.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src="placement/aliens.png"> &emsp; &emsp; &emsp; &emsp;&emsp;<img src = "placement/krify.png"></p>
+                                                  <p><img src="placement/Indianhealth.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src = "placement/wipro.png"> &emsp; &emsp; &emsp; &emsp;&emsp; 
+                                                  
+<!--<p>TECH MAHINDHRA-46 , TCS-02</p>
 <p>PRIMESOFT-7, COSTAL AQUA-11</p>
 <p>GLENWOOD SYSTEMS-20,  GENPACT-04</p>
 <p>HGS-80, ZENUS-11</p>
@@ -1016,90 +1026,7 @@
                             </div>
                         </div>
                     </div>
-                    
-  <center><h3>Why Choose VSM</h3></center>
-
-                  <div class="gdlr-core-pbf-wrapper " style="padding: 80px 0px 40px 0px;" data-skin="Column Service">
-                        <div class="gdlr-core-pbf-background-wrap" style="background-color: #1b2945 ;"></div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class="gdlr-core-pbf-column gdlr-core-column-15 gdlr-core-column-first">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 35px;"><img src="upload/col-icon-1.png" alt="" width="41" height="41" title="col-icon-1" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Industry Tie-ups</h3></div>
-                                                        <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                                            <p>VSM has several partnerships with industry to boost innovation and help students in gaining skills that equip them for fulfilling careers.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-15">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 31px;"><img src="upload/col-icon-2.png" alt="" width="43" height="45" title="col-icon-2" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Social Impact</h3></div>
-                                                        <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                                            <p>VSM is always in the forefront in creating an impact on the Society. Various projects are being conducted where the students and faculty can contribute towards the benefit of the needy in the nearby communities.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-15">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 33px;"><img src="upload/col-icon-3.png" alt="" width="40" height="43" title="col-icon-3" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Research Groups</h3></div>
-                                                        <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                                            <p>One of the primary goals of VSM is to incubate new research in the fundamental sciences and inter-disciplinary areas through innovative schemes and research programs.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-15">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 29px;"><img src="upload/col-icon-4.png" alt="" width="47" height="47" title="col-icon-4" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Innovation & Entrepreneurship</h3></div>
-                                                        <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
-                                                            <p>VSM promotes Innovation and Entrepreneurship among students, faculty, alumni as well as people of the region by providing required facilities & support.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-
+   
                     <div class="gdlr-core-pbf-wrapper " id="div_1dd7_79">
                         <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_80"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
@@ -1228,6 +1155,88 @@
                      </div>
                         </div>
                     </div>
+                    <br>
+                <center><h3>Why Choose VSM</h3></center>
+
+                  <div class="gdlr-core-pbf-wrapper " style="padding: 80px 0px 40px 0px;" data-skin="Column Service">
+                        <div class="gdlr-core-pbf-background-wrap" style="background-color: #1b2945 ;"></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                                <div class="gdlr-core-pbf-column gdlr-core-column-15 gdlr-core-column-first">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
+                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 35px;"><img src="upload/col-icon-1.png" alt="" width="41" height="41" title="col-icon-1" /></div>
+                                                    <div class="gdlr-core-column-service-content-wrapper">
+                                                        <div class="gdlr-core-column-service-title-wrap">
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Education Services</h3></div>
+                                                        <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
+                                                            <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-15">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
+                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 31px;"><img src="upload/col-icon-2.png" alt="" width="43" height="45" title="col-icon-2" /></div>
+                                                    <div class="gdlr-core-column-service-content-wrapper">
+                                                        <div class="gdlr-core-column-service-title-wrap">
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">International Hubs</h3></div>
+                                                        <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
+                                                            <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-15">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
+                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 33px;"><img src="upload/col-icon-3.png" alt="" width="40" height="43" title="col-icon-3" /></div>
+                                                    <div class="gdlr-core-column-service-content-wrapper">
+                                                        <div class="gdlr-core-column-service-title-wrap">
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Bachelor’s and Master’s</h3></div>
+                                                        <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
+                                                            <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-15">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-bottom: 30px;">
+                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 29px;"><img src="upload/col-icon-4.png" alt="" width="47" height="47" title="col-icon-4" /></div>
+                                                    <div class="gdlr-core-column-service-content-wrapper">
+                                                        <div class="gdlr-core-column-service-title-wrap">
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">University Life</h3></div>
+                                                        <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
+                                                            <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     
 
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
@@ -1253,7 +1262,7 @@ html,body {
     height: 450px;
     position: relative;
     margin-top: 70px;
-    background-image: url(courses_tab/blu.jpg);
+    background-image: url(a/blue.jpg);
 }
 .dg-wrapper{
     width: 481px;
@@ -1330,12 +1339,12 @@ html,body {
                     <section id="dg-container" class="dg-container">
                         <br>
                 <div class="dg-wrapper">
-                    <a href="#"><img src="courses_tab/v1.jpg" width="500"></a> 
-                    <a href="#"><img src="courses_tab/v2.jpg"> </a>
-                    <a href="#"><img src="courses_tab/v3.jpg" alt="image03"> </a>
-                    <a href="#"><img src="courses_tab/v5.jpg" alt="image04"> </a>
-                    <a href="#"><img src="courses_tab/v6.jpg" alt="image05"> </a>
-                   <!-- <a href="#"><img src="courses_tab/6.jpg" alt="image06"> </a> -->
+                    <a href="#"><img src="a/1.jpg" width="500"></a>
+                    <a href="#"><img src="a/2.jpg"> </a>
+                    <a href="#"><img src="a/5.jpg" alt="image03"> </a>
+                    <a href="#"><img src="a/6.jpg" alt="image04"> </a>
+                    <a href="#"><img src="a/img3.jpg" alt="image05"> </a> 
+                    <!--<a href="#"><img src="a/img6.jpg" alt="image06"> </a> -->
                   <!--  <a href="#"><img src="slider_images/7.jpg" alt="image07"> </a>
                     <a href="#"><img src="slider_images/8.jpg" alt="image08"> </a>
                     <a href="#"><img src="slider_images/9.jpg" alt="image09"></a>
@@ -1524,9 +1533,9 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_84">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_28">Students Corner</h3>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_28">Undergraduate</h3>
                                                     </div>
-                                                  <a href="#"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_5">To know More Click Here</span></a>
+                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_5">VSM IS A GOOD COLLEGE</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -1539,9 +1548,9 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_87">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_29">Scholarships and All</h3>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_29">Graduated & Professional</h3>
                                                     </div>
-                                                   <a href="#"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_6">To Know More Click Here</span></a>
+                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_6">VSM IS A GOOD COLLEGE</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -1556,9 +1565,9 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_90">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_30">Facuilty Corner</h3>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_30">Scholarships & Financial AID</h3>
                                                     </div>
-                                                    <a href="#"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_7">VSM IS A VERY GOOD COLLGE</span></a>
+                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_7">VSM IS A VERY GOOD COLLGE</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -1585,10 +1594,10 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_31">HACAKTHONS</h3>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_31">STUDENTS CORNER</h3>
                                                     </div>
-                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_8">We conduct regular Events
-                                                        <strong>To be update the students Technicial Knowldge </strong> With Regular Events
+                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_8">The Campaign for the VSM is the 
+                                                        <strong>largest fundraising campaign in history.</strong> With a historic the campaign is expanding U of T’s global leadership capacity.
                                                     </span>
                                                 </div>
                                             </div>
@@ -1596,7 +1605,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                                 <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                                     <a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" id="a_1dd7_6">
                                                         <i class="gdlr-core-pos-left fa fa-heart"  ></i>
-                                                        <span class="gdlr-core-content" >Know More Click Here</span>
+                                                        <span class="gdlr-core-content" >STUDENTS CORNER</span>
                                                     </a>
                                                 </div>
                                             </div>
@@ -1612,7 +1621,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                                 <div class="gdlr-core-event-item gdlr-core-item-pdb" id="div_1dd7_94">
                                                     <div class="gdlr-core-block-item-title-wrap  gdlr-core-left-align gdlr-core-item-mglr" id="div_1dd7_95">
                                                         <div class="gdlr-core-block-item-title-inner clearfix">
-                                                            <h3 class="gdlr-core-block-item-title" id="h3_1dd7_32">Events</h3>
+                                                            <h3 class="gdlr-core-block-item-title" id="h3_1dd7_32">Upcoming Events</h3>
                                                             <div class="gdlr-core-block-item-title-divider" id="div_1dd7_96"></div>
                                                         </div>
                                                     </div>
@@ -2018,7 +2027,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
     </div>
 
 
-    <script type='text/javascript' src='js/jquery/jquery.js'></script>
+	<script type='text/javascript' src='js/jquery/jquery.js'></script>
     <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
     <script type='text/javascript' src='plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
     <script type='text/javascript' src='plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
@@ -2155,139 +2164,138 @@ I am very grateful to VSM for providing me such a great platform to not only enh
     </script>
     <script type='text/javascript' src='js/plugins.min.js'></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-    <script>
-        /*<![CDATA[*/
-        var htmlDiv = document.getElementById("rs-plugin-settings-inline-css");
-        var htmlDivCss = "";
-        if (htmlDiv) {
-            htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-        } else {
-            var htmlDiv = document.createElement("div");
-            htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
-            document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
-        } /*]]>*/
-    </script>
-    <script type="text/javascript">
-        /*<![CDATA[*/
-        if (setREVStartSize !== undefined) setREVStartSize({
-            c: '#rev_slider_1_1',
-            gridwidth: [1380],
-            gridheight: [713],
-            sliderLayout: 'auto'
-        });
-        var revapi1, tpj;
-        (function() {
-            if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded", onLoad);
-            else onLoad();
+	<script>
+	    /*<![CDATA[*/
+	    var htmlDiv = document.getElementById("rs-plugin-settings-inline-css");
+	    var htmlDivCss = "";
+	    if (htmlDiv) {
+	        htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+	    } else {
+	        var htmlDiv = document.createElement("div");
+	        htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+	        document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+	    } /*]]>*/
+	</script>
+	<script type="text/javascript">
+	    /*<![CDATA[*/
+	    if (setREVStartSize !== undefined) setREVStartSize({
+	        c: '#rev_slider_1_1',
+	        gridwidth: [1380],
+	        gridheight: [713],
+	        sliderLayout: 'auto'
+	    });
+	    var revapi1, tpj;
+	    (function() {
+	        if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded", onLoad);
+	        else onLoad();
 
-            function onLoad() {
-                if (tpj === undefined) {
-                    tpj = jQuery;
-                    if ("off" == "on") tpj.noConflict();
-                }
-                if (tpj("#rev_slider_1_1").revolution == undefined) {
-                    revslider_showDoubleJqueryError("#rev_slider_1_1");
-                } else {
-                    revapi1 = tpj("#rev_slider_1_1").show().revolution({
-                        sliderType: "standard",
-                        jsFileLocation: "//demo.goodlayers.com/kingster/wp-content/plugins/revslider/public/assets/js/",
-                        sliderLayout: "auto",
-                        dottedOverlay: "none",
-                        delay: 9000,
-                        navigation: {
-                            keyboardNavigation: "off",
-                            keyboard_direction: "horizontal",
-                            mouseScrollNavigation: "off",
-                            mouseScrollReverse: "default",
-                            onHoverStop: "off",
-                            touch: {
-                                touchenabled: "on",
-                                touchOnDesktop: "off",
-                                swipe_threshold: 75,
-                                swipe_min_touches: 1,
-                                swipe_direction: "horizontal",
-                                drag_block_vertical: false
-                            },
-                            arrows: {
-                                style: "uranus",
-                                enable: true,
-                                hide_onmobile: true,
-                                hide_under: 1500,
-                                hide_onleave: true,
-                                hide_delay: 200,
-                                hide_delay_mobile: 1200,
-                                tmp: '',
-                                left: {
-                                    h_align: "left",
-                                    v_align: "center",
-                                    h_offset: 20,
-                                    v_offset: 0
-                                },
-                                right: {
-                                    h_align: "right",
-                                    v_align: "center",
-                                    h_offset: 20,
-                                    v_offset: 0
-                                }
-                            },
-                            bullets: {
-                                enable: true,
-                                hide_onmobile: false,
-                                hide_over: 1499,
-                                style: "uranus",
-                                hide_onleave: true,
-                                hide_delay: 200,
-                                hide_delay_mobile: 1200,
-                                direction: "horizontal",
-                                h_align: "center",
-                                v_align: "bottom",
-                                h_offset: 0,
-                                v_offset: 30,
-                                space: 7,
-                                tmp: '<span class="tp-bullet-inner"></span>'
-                            }
-                        },
-                        visibilityLevels: [1240, 1024, 778, 480],
-                        gridwidth: 1380,
-                        gridheight: 713,
-                        lazyType: "none",
-                        shadow: 0,
-                        spinner: "off",
-                        stopLoop: "off",
-                        stopAfterLoops: -1,
-                        stopAtSlide: -1,
-                        shuffle: "off",
-                        autoHeight: "off",
-                        disableProgressBar: "on",
-                        hideThumbsOnMobile: "off",
-                        hideSliderAtLimit: 0,
-                        hideCaptionAtLimit: 0,
-                        hideAllCaptionAtLilmit: 0,
-                        debugMode: false,
-                        fallbacks: {
-                            simplifyAll: "off",
-                            nextSlideOnWindowFocus: "off",
-                            disableFocusListener: false,
-                        }
-                    });
-                };
-            };
-        }()); /*]]>*/
-    </script>
-    <script>
-        /*<![CDATA[*/
-        var htmlDivCss = unescape("%23rev_slider_1_1%20.uranus.tparrows%20%7B%0A%20%20width%3A50px%3B%0A%20%20height%3A50px%3B%0A%20%20background%3Argba%28255%2C255%2C255%2C0%29%3B%0A%20%7D%0A%20%23rev_slider_1_1%20.uranus.tparrows%3Abefore%20%7B%0A%20width%3A50px%3B%0A%20height%3A50px%3B%0A%20line-height%3A50px%3B%0A%20font-size%3A40px%3B%0A%20transition%3Aall%200.3s%3B%0A-webkit-transition%3Aall%200.3s%3B%0A%20%7D%0A%20%0A%20%20%23rev_slider_1_1%20.uranus.tparrows%3Ahover%3Abefore%20%7B%0A%20%20%20%20opacity%3A0.75%3B%0A%20%20%7D%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%7B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20box-shadow%3A%200%200%200%202px%20rgba%28255%2C%20255%2C%20255%2C%200%29%3B%0A%20%20-webkit-transition%3A%20box-shadow%200.3s%20ease%3B%0A%20%20transition%3A%20box-shadow%200.3s%20ease%3B%0A%20%20background%3Atransparent%3B%0A%20%20width%3A15px%3B%0A%20%20height%3A15px%3B%0A%7D%0A%23rev_slider_1_1%20.uranus%20.tp-bullet.selected%2C%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%3Ahover%20%7B%0A%20%20box-shadow%3A%200%200%200%202px%20rgba%28255%2C%20255%2C%20255%2C1%29%3B%0A%20%20border%3Anone%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background%3Atransparent%3B%0A%7D%0A%0A%23rev_slider_1_1%20.uranus%20.tp-bullet-inner%20%7B%0A%20%20-webkit-transition%3A%20background-color%200.3s%20ease%2C%20-webkit-transform%200.3s%20ease%3B%0A%20%20transition%3A%20background-color%200.3s%20ease%2C%20transform%200.3s%20ease%3B%0A%20%20top%3A%200%3B%0A%20%20left%3A%200%3B%0A%20%20width%3A%20100%25%3B%0A%20%20height%3A%20100%25%3B%0A%20%20outline%3A%20none%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background-color%3A%20rgb%28255%2C%20255%2C%20255%29%3B%0A%20%20background-color%3A%20rgba%28255%2C%20255%2C%20255%2C%200.3%29%3B%0A%20%20text-indent%3A%20-999em%3B%0A%20%20cursor%3A%20pointer%3B%0A%20%20position%3A%20absolute%3B%0A%7D%0A%0A%23rev_slider_1_1%20.uranus%20.tp-bullet.selected%20.tp-bullet-inner%2C%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%3Ahover%20.tp-bullet-inner%7B%0A%20transform%3A%20scale%280.4%29%3B%0A%20-webkit-transform%3A%20scale%280.4%29%3B%0A%20background-color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%7D%0A");
-        var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
-        if (htmlDiv) {
-            htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-        } else {
-            var htmlDiv = document.createElement('div');
-            htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
-            document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
-        } /*]]>*/
-    </script>
+	        function onLoad() {
+	            if (tpj === undefined) {
+	                tpj = jQuery;
+	                if ("off" == "on") tpj.noConflict();
+	            }
+	            if (tpj("#rev_slider_1_1").revolution == undefined) {
+	                revslider_showDoubleJqueryError("#rev_slider_1_1");
+	            } else {
+	                revapi1 = tpj("#rev_slider_1_1").show().revolution({
+	                    sliderType: "standard",
+	                    jsFileLocation: "//demo.goodlayers.com/kingster/wp-content/plugins/revslider/public/assets/js/",
+	                    sliderLayout: "auto",
+	                    dottedOverlay: "none",
+	                    delay: 9000,
+	                    navigation: {
+	                        keyboardNavigation: "off",
+	                        keyboard_direction: "horizontal",
+	                        mouseScrollNavigation: "off",
+	                        mouseScrollReverse: "default",
+	                        onHoverStop: "off",
+	                        touch: {
+	                            touchenabled: "on",
+	                            touchOnDesktop: "off",
+	                            swipe_threshold: 75,
+	                            swipe_min_touches: 1,
+	                            swipe_direction: "horizontal",
+	                            drag_block_vertical: false
+	                        },
+	                        arrows: {
+	                            style: "uranus",
+	                            enable: true,
+	                            hide_onmobile: true,
+	                            hide_under: 1500,
+	                            hide_onleave: true,
+	                            hide_delay: 200,
+	                            hide_delay_mobile: 1200,
+	                            tmp: '',
+	                            left: {
+	                                h_align: "left",
+	                                v_align: "center",
+	                                h_offset: 20,
+	                                v_offset: 0
+	                            },
+	                            right: {
+	                                h_align: "right",
+	                                v_align: "center",
+	                                h_offset: 20,
+	                                v_offset: 0
+	                            }
+	                        },
+	                        bullets: {
+	                            enable: true,
+	                            hide_onmobile: false,
+	                            hide_over: 1499,
+	                            style: "uranus",
+	                            hide_onleave: true,
+	                            hide_delay: 200,
+	                            hide_delay_mobile: 1200,
+	                            direction: "horizontal",
+	                            h_align: "center",
+	                            v_align: "bottom",
+	                            h_offset: 0,
+	                            v_offset: 30,
+	                            space: 7,
+	                            tmp: '<span class="tp-bullet-inner"></span>'
+	                        }
+	                    },
+	                    visibilityLevels: [1240, 1024, 778, 480],
+	                    gridwidth: 1380,
+	                    gridheight: 713,
+	                    lazyType: "none",
+	                    shadow: 0,
+	                    spinner: "off",
+	                    stopLoop: "off",
+	                    stopAfterLoops: -1,
+	                    stopAtSlide: -1,
+	                    shuffle: "off",
+	                    autoHeight: "off",
+	                    disableProgressBar: "on",
+	                    hideThumbsOnMobile: "off",
+	                    hideSliderAtLimit: 0,
+	                    hideCaptionAtLimit: 0,
+	                    hideAllCaptionAtLilmit: 0,
+	                    debugMode: false,
+	                    fallbacks: {
+	                        simplifyAll: "off",
+	                        nextSlideOnWindowFocus: "off",
+	                        disableFocusListener: false,
+	                    }
+	                });
+	            };
+	        };
+	    }()); /*]]>*/
+	</script>
+	<script>
+	    /*<![CDATA[*/
+	    var htmlDivCss = unescape("%23rev_slider_1_1%20.uranus.tparrows%20%7B%0A%20%20width%3A50px%3B%0A%20%20height%3A50px%3B%0A%20%20background%3Argba%28255%2C255%2C255%2C0%29%3B%0A%20%7D%0A%20%23rev_slider_1_1%20.uranus.tparrows%3Abefore%20%7B%0A%20width%3A50px%3B%0A%20height%3A50px%3B%0A%20line-height%3A50px%3B%0A%20font-size%3A40px%3B%0A%20transition%3Aall%200.3s%3B%0A-webkit-transition%3Aall%200.3s%3B%0A%20%7D%0A%20%0A%20%20%23rev_slider_1_1%20.uranus.tparrows%3Ahover%3Abefore%20%7B%0A%20%20%20%20opacity%3A0.75%3B%0A%20%20%7D%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%7B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20box-shadow%3A%200%200%200%202px%20rgba%28255%2C%20255%2C%20255%2C%200%29%3B%0A%20%20-webkit-transition%3A%20box-shadow%200.3s%20ease%3B%0A%20%20transition%3A%20box-shadow%200.3s%20ease%3B%0A%20%20background%3Atransparent%3B%0A%20%20width%3A15px%3B%0A%20%20height%3A15px%3B%0A%7D%0A%23rev_slider_1_1%20.uranus%20.tp-bullet.selected%2C%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%3Ahover%20%7B%0A%20%20box-shadow%3A%200%200%200%202px%20rgba%28255%2C%20255%2C%20255%2C1%29%3B%0A%20%20border%3Anone%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background%3Atransparent%3B%0A%7D%0A%0A%23rev_slider_1_1%20.uranus%20.tp-bullet-inner%20%7B%0A%20%20-webkit-transition%3A%20background-color%200.3s%20ease%2C%20-webkit-transform%200.3s%20ease%3B%0A%20%20transition%3A%20background-color%200.3s%20ease%2C%20transform%200.3s%20ease%3B%0A%20%20top%3A%200%3B%0A%20%20left%3A%200%3B%0A%20%20width%3A%20100%25%3B%0A%20%20height%3A%20100%25%3B%0A%20%20outline%3A%20none%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background-color%3A%20rgb%28255%2C%20255%2C%20255%29%3B%0A%20%20background-color%3A%20rgba%28255%2C%20255%2C%20255%2C%200.3%29%3B%0A%20%20text-indent%3A%20-999em%3B%0A%20%20cursor%3A%20pointer%3B%0A%20%20position%3A%20absolute%3B%0A%7D%0A%0A%23rev_slider_1_1%20.uranus%20.tp-bullet.selected%20.tp-bullet-inner%2C%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%3Ahover%20.tp-bullet-inner%7B%0A%20transform%3A%20scale%280.4%29%3B%0A%20-webkit-transform%3A%20scale%280.4%29%3B%0A%20background-color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%7D%0A");
+	    var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+	    if (htmlDiv) {
+	        htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+	    } else {
+	        var htmlDiv = document.createElement('div');
+	        htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+	        document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+	    } /*]]>*/
+	</script>
     <script src="jquery.counterup.min.js"></script>
     <script src="js/wow.min.js"></script>
-    <script async>(function(w, d) { w.CollectId = "5e96dab470351f466a582ffc"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
 </body>
 </html>
