@@ -176,7 +176,7 @@
                                         <li class="menu-item"><a href="course-list-2.html">Course List 2</a></li> -->
                                     </ul>
                                 </li>
-                                <li class="menu-item"><a href="#">Facuilty Corner/a></li>
+                                <li class="menu-item"><a href="#">Faculty Corner/a></li>
                                 <li class="menu-item"><a href="#">University Life</a></li>
                             </ul>
                         </div>
@@ -347,7 +347,7 @@
                                             <li class="menu-item" data-size="60"><a href="course-list-2.html">Course List 2</a></li> -->
                                         </ul>
                                     </li>
-                                    <li class="menu-item kingster-normal-menu"><a href="athletics.html">Facuilty Corner</a></li>
+                                    <li class="menu-item kingster-normal-menu"><a href="athletics.html">Faculty</a></li>
                                     <li class="menu-item kingster-normal-menu"><a href="university-life.html">Hackathons</a></li>
                                 </ul>
                                 <div class="kingster-navigation-slide-bar" id="kingster-navigation-slide-bar"></div>
@@ -1224,7 +1224,7 @@
                                                     <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-bottom: 29px;"><img src="upload/col-icon-4.png" alt="" width="47" height="47" title="col-icon-4" /></div>
                                                     <div class="gdlr-core-column-service-content-wrapper">
                                                         <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Hackathons</h3></div>
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 700 ;text-transform: none ;">Know More</h3></div>
                                                         <div class="gdlr-core-column-service-content" style="font-size: 16px ;text-transform: none ;">
                                                             <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p>
                                                         </div>
@@ -1533,9 +1533,9 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_84">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_28">Undergraduate</h3>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_28">Students Corner</h3>
                                                     </div>
-                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_5">VSM IS A GOOD COLLEGE</span>
+                                                 <a href="#"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_5">Know More Click Here</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -1548,9 +1548,9 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_87">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_29">Graduated & Professional</h3>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_29">Scholarships & Financial AID</h3>
                                                     </div>
-                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_6">VSM IS A GOOD COLLEGE</span>
+                                                 <a href="">  <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_6">Know More Click Here</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -1565,9 +1565,9 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_90">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_30">Scholarships & Financial AID</h3>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_30">Faculty</h3>
                                                     </div>
-                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_7">VSM IS A VERY GOOD COLLGE</span>
+                                               <a href=""><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_7">Know More Click Here </span>
                                                 </div>
                                             </div>
                                         </div>
@@ -1594,10 +1594,9 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_31">STUDENTS CORNER</h3>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_31">Hackathons</h3>
                                                     </div>
-                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_8">The Campaign for the VSM is the 
-                                                        <strong>largest fundraising campaign in history.</strong> With a historic the campaign is expanding U of T’s global leadership capacity.
+                                                    <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_8">A hackathon (also known as a hack day, hackfest or codefest; a portmanteau of hacking marathon) is a design sprint-like event; often, in which computer programmers and others involved in software development, including graphic designers, interface designers, project managers, domain experts, and others collaborate ...</strong> With a historic the campaign is expanding U of T’s global leadership capacity.
                                                     </span>
                                                 </div>
                                             </div>
@@ -1605,7 +1604,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                                 <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                                     <a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" id="a_1dd7_6">
                                                         <i class="gdlr-core-pos-left fa fa-heart"  ></i>
-                                                        <span class="gdlr-core-content" >STUDENTS CORNER</span>
+                                                        <span class="gdlr-core-content" >Hackathons</span>
                                                     </a>
                                                 </div>
                                             </div>
@@ -1621,7 +1620,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                                 <div class="gdlr-core-event-item gdlr-core-item-pdb" id="div_1dd7_94">
                                                     <div class="gdlr-core-block-item-title-wrap  gdlr-core-left-align gdlr-core-item-mglr" id="div_1dd7_95">
                                                         <div class="gdlr-core-block-item-title-inner clearfix">
-                                                            <h3 class="gdlr-core-block-item-title" id="h3_1dd7_32">Upcoming Events</h3>
+                                                            <h3 class="gdlr-core-block-item-title" id="h3_1dd7_32">Events</h3>
                                                             <div class="gdlr-core-block-item-title-divider" id="div_1dd7_96"></div>
                                                         </div>
                                                     </div>
