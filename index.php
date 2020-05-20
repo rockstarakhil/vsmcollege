@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en-US" class="no-js">
 <head>
@@ -30,7 +31,7 @@
                     </div>
                 </div>
                 <div class="kingster-mobile-menu-right">
-                    <div class="kingster-main-menu-search" id="kingster-mobile-top-search"><i class="fa fa-search"></i></div>
+                 <!--   <div class="kingster-main-menu-search" id="kingster-mobile-top-search"><i class="fa fa-search"></i></div> -->
                     <div class="kingster-top-search-wrap">
                         <div class="kingster-top-search-close"></div>
                         <div class="kingster-top-search-row">
@@ -44,147 +45,75 @@
                             </div>
                         </div>
                     </div>
+                    <!-- Routers -->
                     <div class="kingster-mobile-menu"><a class="kingster-mm-menu-button kingster-mobile-menu-button kingster-mobile-button-hamburger" href="#kingster-mobile-menu"><span></span></a>
                         <div class="kingster-mm-menu-wrap kingster-navigation-font" id="kingster-mobile-menu" data-slide="right">
                             <ul id="menu-main-navigation" class="m-menu">
-                                <li class="menu-item menu-item-home current-menu-item menu-item-has-children"><a href="index.php">Home</a>
-                                   <!-- <ul class="sub-menu">
-                                        <li class="menu-item menu-item-home"><a href="index.html">Homepage 1</a></li>
-                                        <li class="menu-item"><a href="homepage-2.html">Homepage 2</a></li>
-                                    </ul> -->
-                                </li>
-                                <li class="menu-item menu-item-has-children"><a href="#">About</a>
-                                    <ul class="sub-menu">
-                                       <!-- <li class="menu-item"><a href="about-us.html">About KU</a></li> -->
-                                     <!--   <li class="menu-item menu-item-has-children"><a href="blog-full-right-sidebar-with-frame.html">Blog</a>-->
-                                            <ul class="sub-menu"> 
-                                          <!--      <li class="menu-item menu-item-has-children"><a href="blog-full-right-sidebar-with-frame.html">Blog Full</a> -->
-                                                    <ul class="sub-menu">
-                                                        <li class="menu-item"><a href="blog-full-right-sidebar-with-frame.html">Blog Full Right Sidebar With Frame</a></li>
-                                                        <li class="menu-item"><a href="blog-full-left-sidebar-with-frame.html">Blog Full Left Sidebar With Frame</a></li>
-                                                        <li class="menu-item"><a href="blog-full-both-sidebar-with-frame.html">Blog Full Both Sidebar With Frame</a></li>
-                                                        <li class="menu-item"><a href="blog-full-right-sidebar.html">Blog Full Right Sidebar</a></li>
-                                                        <li class="menu-item"><a href="blog-full-left-sidebar.html">Blog Full Left Sidebar</a></li>
-                                                        <li class="menu-item"><a href="blog-full-both-sidebar.html">Blog Full Both Sidebar</a></li>
-                                                    </ul>
-                                                </li>
-                                           <!--     <li class="menu-item menu-item-has-children"><a href="blog-grid-3-columns-no-space.html">Blog Grid</a> -->
-                                                    <ul class="sub-menu">
-                                                        <li class="menu-item"><a href="blog-grid-2-columns.html">Blog Grid 2 Columns</a></li>
-                                                        <li class="menu-item"><a href="blog-grid-3-columns.html">Blog Grid 3 Columns</a></li>
-                                                        <li class="menu-item"><a href="blog-grid-4-columns.html">Blog Grid 4 Columns</a></li>
-                                                        <li class="menu-item"><a href="blog-grid-2-columns-no-space.html">Blog Grid 2 Columns No Space</a></li>
-                                                        <li class="menu-item"><a href="blog-grid-3-columns-no-space.html">Blog Grid 3 Columns No Space</a></li>
-                                                        <li class="menu-item"><a href="blog-grid-4-columns-no-space.html">Blog Grid 4 Columns No Space</a></li>
-                                                    </ul>
-                                                </li>
-
-                                            <!--    <li class="menu-item"><a href="standard-post-type.html">Single Post</a></li> -->
-                                            </ul>
-                                        </li>
-                                     <!--   <li class="menu-item menu-item-has-children"><a href="#">Contact</a> -->
-                                            <ul class="sub-menu">
-                                             <!--   <li class="menu-item"><a href="contact.html">Contact</a></li>
-                                                <li class="menu-item"><a href="contact-2.html">Contact 2</a></li>
-                                                <li class="menu-item"><a href="contact-3.html">Contact 3</a></li> -->
-                                            </ul>
-                                        </li>
-                                   <!--     <li class="menu-item menu-item-has-children"><a href="portfolio-3-columns.html">Portfolio</a> -->
-                                            <ul class="sub-menu">
-                                            <!--    <li class="menu-item menu-item-has-children"><a>Portfolio Grid</a> -->
-                                                    <ul class="sub-menu">
-                                                        <li class="menu-item"><a href="portfolio-2-columns.html">Portfolio 2 Columns</a></li>
-                                                        <li class="menu-item"><a href="portfolio-3-columns.html">Portfolio 3 Columns</a></li>
-                                                        <li class="menu-item"><a href="portfolio-4-columns.html">Portfolio 4 Columns</a></li>
-                                                        <li class="menu-item"><a href="portfolio-5-columns.html">Portfolio 5 Columns</a></li>
-                                                        <li class="menu-item"><a href="portfolio-2-columns-with-frame.html">Portfolio 2 Columns With Frame</a></li>
-                                                        <li class="menu-item"><a href="portfolio-3-columns-with-frame.html">Portfolio 3 Columns With Frame</a></li>
-                                                        <li class="menu-item"><a href="portfolio-4-columns-with-frame.html">Portfolio 4 Columns With Frame</a></li>
-                                                        <li class="menu-item"><a href="portfolio-2-columns-no-space.html">Portfolio 2 Columns No Space</a></li>
-                                                        <li class="menu-item"><a href="portfolio-3-columns-no-space.html">Portfolio 3 Columns No Space</a></li>
-                                                        <li class="menu-item"><a href="portfolio-4-columns-no-space.html">Portfolio 4 Columns No Space</a></li>
-                                                        <li class="menu-item"><a href="portfolio-5-columns-no-space.html">Portfolio 5 Columns No Space</a></li>
-                                                    </ul>
-                                                </li>
-                                           <!--     <li class="menu-item menu-item-has-children"><a>Portfolio Masonry</a> -->
-                                                    <ul class="sub-menu">
-                                                        <li class="menu-item"><a href="portfolio-masonry-4-columns.html">Masonry 4 Columns</a></li>
-                                                        <li class="menu-item"><a href="portfolio-masonry-3-columns.html">Masonry 3 Columns</a></li>
-                                                        <li class="menu-item"><a href="portfolio-masonry-2-columns.html">Masonry 2 Columns</a></li>
-                                                        <li class="menu-item"><a href="portfolio-masonry-4-columns-no-space.html">Masonry 4 Columns No Space</a></li>
-                                                        <li class="menu-item"><a href="portfolio-masonry-3-columns-no-space.html">Masonry 3 Columns No Space</a></li>
-                                                        <li class="menu-item"><a href="portfolio-masonry-2-columns-no-space.html">Masonry 2 Columns No Space</a></li>
-                                                    </ul>
-                                                </li>
-
-                                             <!--   <li class="menu-item menu-item-has-children"><a class="sf-with-ul-pre" href="singleportfolio.html">Single Portfolio</a></li> -->
-                                            </ul>
-                                        </li>
-                                     <!--   <li class="menu-item"><a href="gallery.html">Gallery</a></li>
-                                        <li class="menu-item"><a href="price-table.html">Price Table</a></li>
-                                        <li class="menu-item"><a href="maintenance.html">Maintenance</a></li>
-                                        <li class="menu-item"><a href="coming-soon.html">Coming Soon</a></li>
-                                        <li class="menu-item"><a href="404.html">404 Page</a></li> -->
-                                    </ul>
-                                </li>
-                                <li class="menu-item menu-item-has-children"><a href="#">Academics</a>
-                                    <ul class="sub-menu">
-                                      <!--  <li class="menu-item menu-item-has-children"><a>Undergraduate</a> -->
-                                            <ul class="sub-menu">
-                                              <!--  <li class="menu-item"><a href="bachelor-of-science-in-business-administration.html">Business Administration</a></li> 
-                                                <li class="menu-item"><a href="school-of-law.html">School Of Law</a></li>
-                                                <li class="menu-item"><a href="engineering.html">Engineering</a></li>
-                                                <li class="menu-item"><a href="medicine.html">Medicine</a></li>
-                                                <li class="menu-item"><a href="art-science.html">Art &#038; Science</a></li> -->
-                                            </ul>
-                                        </li>
-                                      <!--  <li class="menu-item menu-item-has-children"><a href="#">Graduate Program</a> -->
-                                            <ul class="sub-menu">
-                                             <!--   <li class="menu-item"><a href="hospitality-management.html">Hospitality Management</a></li>
-                                                <li class="menu-item"><a href="physics.html">Physics</a></li>
-                                                <li class="menu-item"><a href="#">Chemistry</a></li>
-                                                <li class="menu-item"><a href="#">Music</a></li>
-                                                <li class="menu-item"><a href="#">Computer Science</a></li> -->
-                                            </ul>
-                                        </li>
-                                    <!--    <li class="menu-item menu-item-has-children"><a href="#">Resources</a> -->
-                                            <ul class="sub-menu">
-                                           <!--     <li class="menu-item"><a href="bachelor-of-science-in-business-administration.html">Department Page</a></li>
-                                                <li class="menu-item"><a href="finance.html">Major Page</a></li>
-                                                <li class="menu-item"><a href="finance-faculty.html">Faculty Page</a></li>
-                                                <li class="menu-item"><a href="john-hagensy-phd.html">Single Instructor</a></li>
-                                                <li class="menu-item"><a href="introduction-to-financial-accounting.html">Single Course</a></li> -->
-                                            </ul>
-                                        </li>
-                                       <!-- <li class="menu-item"><a href="#">Logo</a></li> -->
-                                    </ul>
-                                </li>
-                                <li class="menu-item menu-item-has-children"><a href="#">Admissions</a>
-                                    <ul class="sub-menu">
-                                    <!--    <li class="menu-item"><a href="apply-to-kingster.html">Apply To Kingster</a></li>
-                                        <li class="menu-item"><a href="campus-tour.html">Campus Tour</a></li>
-                                        <li class="menu-item"><a href="scholarships.html">Scholarships</a></li>
-                                        <li class="menu-item"><a href="athletics.html">Athletics</a></li>
-                                        <li class="menu-item"><a href="give-to-kingster.html">Give To Kingster</a></li>
-                                        <li class="menu-item"><a href="alumni.html">Alumni</a></li>
-                                        <li class="menu-item"><a href="event-calendar.html">Event Calendar</a></li> -->
-                                    </ul>
-                                </li>
-                                <li class="menu-item menu-item-has-children"><a href="#">Students Corner</a>
-                                    <ul class="sub-menu">
-                                      <!--  <li class="menu-item"><a href="course-list-1.html">Course List 1</a></li>
-                                        <li class="menu-item"><a href="course-list-2.html">Course List 2</a></li> -->
-                                    </ul>
-                                </li>
-                                <li class="menu-item"><a href="#">Faculty Corner/a></li>
-                                <li class="menu-item"><a href="#">University Life</a></li>
-                            </ul>
+                               <li class="menu-item menu-item-home current-menu-item menu-item-has-children kingster-normal-menu"><a href="index.html" class="sf-with-ul-pre">Home</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item menu-item-home" data-size="60"><a href="#">Homepage 1</a></li>
+                                            <li class="menu-item" data-size="60"><a href="#">Homepage 2</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">About</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item" data-size="60"><a href="about-us.html">About Vsm</a></li>
+                                     
+                                            <li class="menu-item" data-size="60"><a href="gallery.html">About vsm</a></li>
+                                         
+                                        </ul>
+                                    </li>
+                                     <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Academics</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item" data-size="60"><a href="#">Acedamics</a></li>
+                                     
+                                            <li class="menu-item" data-size="60"><a href="#">Academics</a></li>
+                                         
+                                        </ul>
+                                    </li>
+                                     <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Admissions</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item" data-size="60"><a href="">Admissions-1</a></li>
+                                     
+                                            <li class="menu-item" data-size="60"><a href="3">Admissions-2</a></li>
+                                         
+                                        </ul>
+                                    </li>
+                                     <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Student Corner</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item" data-size="60"><a href="#">Students-1</a></li>
+                                     
+                                            <li class="menu-item" data-size="60"><a href="#">Students-2</a></li>
+                                         
+                                        </ul>
+                                    </li>
+                                     <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Faculty</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item" data-size="60"><a href="#">Faculty-1</a></li>
+                                     
+                                            <li class="menu-item" data-size="60"><a href="#">Faculty-2</a></li>
+                                         
+                                        </ul>
+                                    </li>
+                                     <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Hackathons</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item" data-size="60"><a href="#">Hackathons</a></li>
+                                     
+                                            <li class="menu-item" data-size="60"><a href="#">Hackathons</a></li>
+                                         
+                                        </ul>
+                                    </li>
+                                     
+                                        </ul>
+                                    </li>
+                                </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    <!-- Top of tje Site -->
     <div class="kingster-body-outer-wrapper ">
         <div class="kingster-body-wrapper clearfix  kingster-with-frame">
             <div class="kingster-top-bar">
@@ -193,15 +122,12 @@
                     <div class="kingster-top-bar-container-inner clearfix">
                         <div class="kingster-top-bar-left kingster-item-pdlr"><i class="fa fa-envelope-open-o" id="i_fd84_0"></i> contactVSM@test.com <i class="fa fa-phone" id="i_fd84_1"></i>9030607687</div>
                         <div class="kingster-top-bar-right kingster-item-pdlr">
-                            <ul id="kingster-top-bar-menu" class="sf-menu kingster-top-bar-menu kingster-top-bar-right-menu">
-                          <!--  <li class="menu-item kingster-normal-menu">Alumni</a></li>
-                                <li class="menu-item kingster-normal-menu">Calendar</a></li>
-                                <li class="menu-item kingster-normal-menu">Portal</a></li>  -->
-                            </ul>
+                            <ul id="kingster-top-bar-menu" class="sf-menu kingster-top-bar-menu kingster-top-bar-right-menu"></ul>
                             <div class="kingster-top-bar-right-social"></div>Welcome To VSM</a></div>
                     </div>
                 </div>
             </div>
+            <!-- Mobile View Menu -->
             <header class="kingster-header-wrap kingster-header-style-plain  kingster-style-menu-right kingster-sticky-navigation kingster-style-fixed" data-navigation-offset="75px">
                 <div class="kingster-header-background"></div>
                 <div class="kingster-header-container  kingster-container">
@@ -214,164 +140,72 @@
                         <div class="kingster-navigation kingster-item-pdlr clearfix ">
                             <div class="kingster-main-menu" id="kingster-main-menu">
                                 <ul id="menu-main-navigation-1" class="sf-menu">
-                                    <li class="menu-item menu-item-home current-menu-item menu-item-has-children kingster-normal-menu"><a href="index.php" class="sf-with-ul-pre">Home</a>
-                                      <!--  <ul class="sub-menu">
-                                         <li class="menu-item menu-item-home" data-size="60"><a href="index.html">Homepage 1</a></li>
+                                    <li class="menu-item menu-item-home current-menu-item menu-item-has-children kingster-normal-menu"><a href="index.html" class="sf-with-ul-pre">Home</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item menu-item-home" data-size="60"><a href="index.html">Homepage 1</a></li>
                                             <li class="menu-item" data-size="60"><a href="homepage-2.html">Homepage 2</a></li>
-                                        </ul> -->
+                                        </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">About</a>
                                         <ul class="sub-menu">
-                                           <!-- <li class="menu-item" data-size="60"><a href="about-us.html">About KU</a></li>
-                                            <li class="menu-item menu-item-has-children" data-size="60"><a href="blog-full-right-sidebar-with-frame.html" class="sf-with-ul-pre">Blog</a> -->
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item menu-item-has-children"><a href="blog-full-right-sidebar-with-frame.html" class="sf-with-ul-pre">Blog Full</a>
-                                                      <!--  <ul class="sub-menu">
-                                                            <li class="menu-item"><a href="blog-full-right-sidebar-with-frame.html">Blog Full Right Sidebar With Frame</a></li>
-                                                            <li class="menu-item"><a href="blog-full-left-sidebar-with-frame.html">Blog Full Left Sidebar With Frame</a></li>
-                                                            <li class="menu-item"><a href="blog-full-both-sidebar-with-frame.html">Blog Full Both Sidebar With Frame</a></li>
-                                                            <li class="menu-item"><a href="blog-full-right-sidebar.html">Blog Full Right Sidebar</a></li>
-                                                            <li class="menu-item"><a href="blog-full-left-sidebar.html">Blog Full Left Sidebar</a></li>
-                                                            <li class="menu-item"><a href="blog-full-both-sidebar.html">Blog Full Both Sidebar</a></li>
-                                                        </ul> -->
-                                                    </li>
-                                                    <li class="menu-item menu-item-has-children"><a href="blog-grid-3-columns-no-space.html" class="sf-with-ul-pre">Blog Grid</a>
-                                                        <ul class="sub-menu">
-                                                            <li class="menu-item"><a href="blog-grid-2-columns.html">Blog Grid 2 Columns</a></li>
-                                                            <li class="menu-item"><a href="blog-grid-3-columns.html">Blog Grid 3 Columns</a></li>
-                                                            <li class="menu-item"><a href="blog-grid-4-columns.html">Blog Grid 4 Columns</a></li>
-                                                            <li class="menu-item"><a href="blog-grid-2-columns-no-space.html">Blog Grid 2 Columns No Space</a></li>
-                                                            <li class="menu-item"><a href="blog-grid-3-columns-no-space.html">Blog Grid 3 Columns No Space</a></li>
-                                                            <li class="menu-item"><a href="blog-grid-4-columns-no-space.html">Blog Grid 4 Columns No Space</a></li>
-                                                        </ul>
-                                                    </li>
-
-                                                    <li class="menu-item"><a href="standard-post-type.html">Single Post</a></li>
-                                                </ul>
-                                            </li>
-                                        <!--    <li class="menu-item menu-item-has-children" data-size="60"><a href="#" class="sf-with-ul-pre">Contact</a>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item"><a href="contact.html">Contact</a></li>
-                                                    <li class="menu-item"><a href="contact-2.html">Contact 2</a></li>
-                                                    <li class="menu-item"><a href="contact-3.html">Contact 3</a></li>
-                                                </ul>
-                                            </li> -->
-                                       <!--    <li class="menu-item menu-item-has-children" data-size="60"><a href="portfolio-3-columns.html" class="sf-with-ul-pre">Portfolio</a> -->
-                                                <ul class="sub-menu">
-                                                 <!--   <li class="menu-item menu-item-has-children"><a class="sf-with-ul-pre">Portfolio Grid</a>
-                                                        <ul class="sub-menu">
-                                                            <li class="menu-item"><a href="portfolio-2-columns.html">Portfolio 2 Columns</a></li>
-                                                            <li class="menu-item"><a href="portfolio-3-columns.html">Portfolio 3 Columns</a></li>
-                                                            <li class="menu-item"><a href="portfolio-4-columns.html">Portfolio 4 Columns</a></li>
-                                                            <li class="menu-item"><a href="portfolio-5-columns.html">Portfolio 5 Columns</a></li>
-                                                            <li class="menu-item"><a href="portfolio-2-columns-with-frame.html">Portfolio 2 Columns With Frame</a></li>
-                                                            <li class="menu-item"><a href="portfolio-3-columns-with-frame.html">Portfolio 3 Columns With Frame</a></li>
-                                                            <li class="menu-item"><a href="portfolio-4-columns-with-frame.html">Portfolio 4 Columns With Frame</a></li>
-                                                            <li class="menu-item"><a href="portfolio-2-columns-no-space.html">Portfolio 2 Columns No Space</a></li>
-                                                            <li class="menu-item"><a href="portfolio-3-columns-no-space.html">Portfolio 3 Columns No Space</a></li>
-                                                            <li class="menu-item"><a href="portfolio-4-columns-no-space.html">Portfolio 4 Columns No Space</a></li>
-                                                            <li class="menu-item"><a href="portfolio-5-columns-no-space.html">Portfolio 5 Columns No Space</a></li>
-                                                        </ul> -->
-                                                    </li> 
-                                                  <!--  <li class="menu-item menu-item-has-children"><a class="sf-with-ul-pre">Portfolio Masonry</a>
-                                                        <ul class="sub-menu">
-                                                            <li class="menu-item"><a href="portfolio-masonry-4-columns.html">Masonry 4 Columns</a></li>
-                                                            <li class="menu-item"><a href="portfolio-masonry-3-columns.html">Masonry 3 Columns</a></li>
-                                                            <li class="menu-item"><a href="portfolio-masonry-2-columns.html">Masonry 2 Columns</a></li>
-                                                            <li class="menu-item"><a href="portfolio-masonry-4-columns-no-space.html">Masonry 4 Columns No Space</a></li>
-                                                            <li class="menu-item"><a href="portfolio-masonry-3-columns-no-space.html">Masonry 3 Columns No Space</a></li>
-                                                            <li class="menu-item"><a href="portfolio-masonry-2-columns-no-space.html">Masonry 2 Columns No Space</a></li>
-                                                        </ul>
-                                                    </li> -->
-
-                                                 <!--<li class="menu-item menu-item-has-children"><a class="sf-with-ul-pre" href="singleportfolio.html">Single Portfolio</a></li> -->
-                                                </ul>
-                                            </li>
-                                          <!--  <li class="menu-item" data-size="60"><a href="gallery.html">Gallery</a></li>
-                                            <li class="menu-item" data-size="60"><a href="price-table.html">Price Table</a></li>
-                                            <li class="menu-item" data-size="60"><a href="maintenance.html">Maintenance</a></li>
-                                            <li class="menu-item" data-size="60"><a href="coming-soon.html">Coming Soon</a></li>
-                                            <li class="menu-item" data-size="60"><a href="404.html">404 Page</a></li> -->
+                                            <li class="menu-item" data-size="60"><a href="#">About-1</a></li>
+                                     
+                                            <li class="menu-item" data-size="60"><a href="#">About-2</a></li>
+                                         
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-has-children kingster-mega-menu"><a href="#" class="sf-with-ul-pre">Academics</a>
-                                        <div class="sf-mega sf-mega-full megaimg">
-                                            <ul class="sub-menu">
-                                           <!--     <li class="menu-item menu-item-has-children" data-size="15"><a class="sf-with-ul-pre">Undergraduate</a>
-                                                    <ul class="sub-menu">
-                                                        <li class="menu-item"><a href="bachelor-of-science-in-business-administration.html">Business Administration</a></li>
-                                                        <li class="menu-item"><a href="school-of-law.html">School Of Law</a></li>
-                                                        <li class="menu-item"><a href="engineering.html">Engineering</a></li>
-                                                        <li class="menu-item"><a href="medicine.html">Medicine</a></li>
-                                                        <li class="menu-item"><a href="art-science.html">Art &#038; Science</a></li>
-                                                    </ul>
-                                                </li> -->
-                                             <!--   <li class="menu-item menu-item-has-children" data-size="15"><a href="#" class="sf-with-ul-pre">Graduate Program</a>
-                                                    <ul class="sub-menu">
-                                                        <li class="menu-item"><a href="hospitality-management.html">Hospitality Management</a></li>
-                                                        <li class="menu-item"><a href="physics.html">Physics</a></li>
-                                                        <li class="menu-item"><a href="#">Chemistry</a></li>
-                                                        <li class="menu-item"><a href="#">Music</a></li>
-                                                        <li class="menu-item"><a href="#">Computer Science</a></li>
-                                                    </ul>
-                                                </li> -->
-                                             <!--   <li class="menu-item menu-item-has-children" data-size="15"><a href="#" class="sf-with-ul-pre">Resources</a> -->
-                                                    <ul class="sub-menu">
-                                                        <li class="menu-item"><a href="#">Department Page</a></li>
-                                                        <li class="menu-item"><a href="finance.html">Major Page</a></li>
-                                                        <li class="menu-item"><a href="finance-faculty.html">Faculty Page</a></li>
-                                                        <li class="menu-item"><a href="john-hagensy-phd.html">Single Instructor</a></li>
-                                                        <li class="menu-item"><a href="introduction-to-financial-accounting.html">Single Course</a></li>
-                                                    </ul>
-                                                </li>
-                                              <!--  <li class="menu-item" data-size="15">
-                                               <!--     <div class="kingster-mega-menu-section-content"><img src="upload/mega-menu-logo.png" id="img_fd84_0" alt="" /> <span id="span_fd84_0">Academic offerings include 95 majors, 86 minors, and more than 100 in-major specializations</span></div> -->
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Admissions</a>
+                                     <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Academics</a>
                                         <ul class="sub-menu">
-                                       <!--     <li class="menu-item" data-size="60"><a href="apply-to-kingster.html">Apply To Kingster</a></li>
-                                            <li class="menu-item" data-size="60"><a href="campus-tour.html">Campus Tour</a></li>
-                                            <li class="menu-item" data-size="60"><a href="scholarships.html">Scholarships</a></li>
-                                            <li class="menu-item" data-size="60"><a href="athletics.html">Athletics</a></li>
-                                            <li class="menu-item" data-size="60"><a href="give-to-kingster.html">Give To Kingster</a></li>
-                                            <li class="menu-item" data-size="60"><a href="alumni.html">Alumni</a></li>
-                                            <li class="menu-item" data-size="60"><a href="event-calendar.html">Event Calendar</a></li> -->
+                                            <li class="menu-item" data-size="60"><a href="#">Academics-1</a></li>
+                                     
+                                            <li class="menu-item" data-size="60"><a href="#">Academics-2</a></li>
+                                         
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Student Corner</a>
+                                     <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Admissions</a>
                                         <ul class="sub-menu">
-                                         <!--   <li class="menu-item" data-size="60"><a href="course-list-1.html">Course List 1</a></li>
-                                            <li class="menu-item" data-size="60"><a href="course-list-2.html">Course List 2</a></li> -->
+                                            <li class="menu-item" data-size="60"><a href="#">Admissions-1</a></li>
+                                     
+                                            <li class="menu-item" data-size="60"><a href="#">Admissions-2</a></li>
+                                         
                                         </ul>
                                     </li>
-                                    <li class="menu-item kingster-normal-menu"><a href="athletics.html">Faculty</a></li>
-                                    <li class="menu-item kingster-normal-menu"><a href="university-life.html">Hackathons</a></li>
+                                     <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Students Corner</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item" data-size="60"><a href="#">Students Corner-1</a></li>
+                                     
+                                            <li class="menu-item" data-size="60"><a href="#">Students Corner-2</a></li>
+                                         
+                                        </ul>
+                                    </li>
+                                     <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Faculty</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item" data-size="60"><a href="#">Faculty-1</a></li>
+                                     
+                                            <li class="menu-item" data-size="60"><a href="#">Faculty-2</a></li>
+                                         
+                                        </ul>
+                                    </li>
+                                     <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Hackathons</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item" data-size="60"><a href="#">Hackathons-1</a></li>
+                                     
+                                            <li class="menu-item" data-size="60"><a href="#">Hackathons-2</a></li>
+                                         
+                                        </ul>
+                                    </li>
+                                    
+                                        </ul>
+                                    </li>
                                 </ul>
                                 <div class="kingster-navigation-slide-bar" id="kingster-navigation-slide-bar"></div>
                             </div>
-                            <div class="kingster-main-menu-right-wrap clearfix ">
-                                <div class="kingster-main-menu-search" id="kingster-top-search"><i class="icon_search"></i></div>
-                                <div class="kingster-top-search-wrap">
-                                    <div class="kingster-top-search-close"></div>
-                                    <div class="kingster-top-search-row">
-                                        <div class="kingster-top-search-cell">
-                                            <form role="search" method="get" class="search-form" action="#">
-                                                <input type="text" class="search-field kingster-title-font" placeholder="Search..." value="" name="s">
-                                                <div class="kingster-top-search-submit"><i class="fa fa-search"></i></div>
-                                                <input type="submit" class="search-submit" value="Search">
-                                                <div class="kingster-top-search-close"><i class="icon_close"></i></div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                      
                         </div>
                     </div>
                 </div>
             </header>
+            <!-- Sliders staring -->
             <div class="kingster-page-wrapper" id="kingster-page-wrapper">
                 <div class="gdlr-core-page-builder-body">
                     <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
@@ -421,6 +255,9 @@
                             </div>
                         </div>
                     </div>
+                    <!-- slider end -->
+
+                    <!--staring of Second block -->
                     <div class="gdlr-core-pbf-wrapper  hp1-col-services"  data-skin="Blue Title" id="gdlr-core-wrapper-1">
                         
                       
@@ -502,7 +339,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> 
+                    <!-- starting of third block -->
                     <div class="gdlr-core-pbf-wrapper "  id="gdlr-core-wrapper-2">
                         <div class="gdlr-core-pbf-background-wrap">
                             <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_13" data-parallax-speed="0.8"></div>
@@ -547,362 +385,7 @@
                     </div>
                     <br><br>
 
-<!--<center><h3>Our Campus Ife</h3></center>
-
-
-<div class="slide hi-slide">
-          <div class="hi-prev "></div>
-            <div class="hi-next "></div>
-            <ul>
-                <li>
-                <img src="https://images.pexels.com/photos/1826557/pexels-photo-1826557.jpeg?cs=srgb&dl=attractive-beautiful-beauty-1826557.jpg&fm=jpg" alt="Img 1" />
-        <p>Girl One</li></p>
-                <li><img src="https://images.pexels.com/photos/405240/pexels-photo-405240.jpeg?cs=srgb&dl=attractive-beautiful-curtain-405240.jpg&fm=jpg" alt="Img 2" /><p style="color: yellow">Girl Two</p></li>
-                <li><img src="https://images.pexels.com/photos/1784982/pexels-photo-1784982.jpeg?cs=srgb&dl=attractive-beautiful-beauty-1784982.jpg&fm=jpg" alt="Img 3" /></li>
-                <li><img src="https://images.pexels.com/photos/219582/pexels-photo-219582.jpeg?cs=srgb&dl=attractive-beautiful-beauty-219582.jpg&fm=jpg" alt="Img 4" /></li>
-                <li><img src="https://images.pexels.com/photos/247124/pexels-photo-247124.jpeg?cs=srgb&dl=attractive-beautiful-beauty-247124.jpg&fm=jpg" alt="Img 5" /></li>
-                <li><img src="https://images.pexels.com/photos/1808777/pexels-photo-1808777.png?cs=srgb&dl=attractive-beautiful-beautiful-girl-1808777.jpg&fm=jpg" alt="Img 6" /></li>
-                <li><img src="https://images.pexels.com/photos/754448/pexels-photo-754448.jpeg?cs=srgb&dl=attractive-beautiful-beauty-754448.jpg&fm=jpg" alt="Img 7" /></li>
-                <li><img src="https://images.pexels.com/photos/761536/pexels-photo-761536.jpeg?cs=srgb&dl=attractive-beautiful-beauty-761536.jpg&fm=jpg" alt="Img 7" /></li>
-            </ul>
-        </div>
-        
-        
-        
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-        <script type="text/javascript" src="js/jquery.hislide.js" ></script>
-        <script>
-            $('.slide').hiSlide();
-        </script> -->
-
-
-
-                <!--    <div class="gdlr-core-pbf-wrapper " id="div_1dd7_21">
-                        <div class="gdlr-core-pbf-background-wrap">
-                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_22" data-parallax-speed="0.2"></div>
-                        </div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-left-align" id="div_1dd7_23">
-                                                    <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_24"><img src="upload/logo-white.png" alt="" width="262" height="35" title="logo-white" /></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_25">
-                                                    <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_5">About Our University</h3></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-40">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" id="div_1dd7_26">
-                                                    <div class="gdlr-core-text-box-item-content" id="div_1dd7_27">
-                                                        <p>We are one of the largest, most diverse universities in the USA with over 90,000 students in USA, and a further 30,000 studying across 180 countries for Kingster University.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" id="div_1dd7_28">
-                                                    <div class="gdlr-core-text-box-item-content" id="div_1dd7_29">
-                                                        <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized globally. Throughout our great history, Kingster has offered access to a wide range of academic opportunities. As a world leader in higher education, the University has pioneered change in the sector.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-no-border" href="#" id="gdlr-core-button-id-66813"><span class="gdlr-core-content" >Read More</span><i class="gdlr-core-pos-right fa fa-long-arrow-right" id="i_1dd7_0"  ></i></a></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-wrapper " id="div_1dd7_30" data-skin="Column Service">
-                        <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_31"></div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class="gdlr-core-pbf-column gdlr-core-column-15 gdlr-core-column-first">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_32">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_33"><img src="upload/col-icon-1.png" alt="" width="41" height="41" title="col-icon-1" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_6">Education Services</h3></div>
-                                                        <div class="gdlr-core-column-service-content" id="div_1dd7_34">
-                                                            <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p> <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="#" id="a_1dd7_1">Learn More</a></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-15" id="gdlr-core-column-5">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_35">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_36"><img src="upload/col-icon-2.png" alt="" width="43" height="45" title="col-icon-2" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_7">International Hubs</h3></div>
-                                                        <div class="gdlr-core-column-service-content" id="div_1dd7_37">
-                                                            <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p> <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="#" id="a_1dd7_2">Learn More</a></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-15" id="gdlr-core-column-6">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_38">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_39"><img src="upload/col-icon-3.png" alt="" width="40" height="43" title="col-icon-3" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_8">Bachelor’s and Master’s</h3></div>
-                                                        <div class="gdlr-core-column-service-content" id="div_1dd7_40">
-                                                            <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p> <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="#" id="a_1dd7_3">Learn More</a></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-15" id="gdlr-core-column-7">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_41">
-                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_42"><img src="upload/col-icon-4.png" alt="" width="47" height="47" title="col-icon-4" /></div>
-                                                    <div class="gdlr-core-column-service-content-wrapper">
-                                                        <div class="gdlr-core-column-service-title-wrap">
-                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_9">University Life</h3></div>
-                                                        <div class="gdlr-core-column-service-content" id="div_1dd7_43">
-                                                            <p>Kingster University was established by John Smith in 1920 for the public benefit and it is recognized.</p> <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="#" id="a_1dd7_4">Learn More</a></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-               <!--     <div class="gdlr-core-pbf-wrapper " id="div_1dd7_44">
-                        <div class="gdlr-core-pbf-background-wrap"></div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                
-                                <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-column-first">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " id="div_1dd7_45" data-sync-height="height-2">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-blog-item gdlr-core-item-pdb clearfix  gdlr-core-style-blog-widget">
-                                                    <div class="gdlr-core-block-item-title-wrap  gdlr-core-left-align gdlr-core-item-mglr" id="div_1dd7_46">
-                                                        <div class="gdlr-core-block-item-title-inner clearfix">
-                                                            <h3 class="gdlr-core-block-item-title" id="h3_1dd7_10">Students Corner</h3>
-                                                            <div class="gdlr-core-block-item-title-divider" id="div_1dd7_47"></div>
-                                                        </div>
-                                                        <a class="gdlr-core-block-item-read-more" href="#" target="_self" id="a_1dd7_5">Want To Know More</a>
-                                                    </div>
-                                                    <div class="gdlr-core-blog-item-holder gdlr-core-js-2 clearfix" data-layout="fitrows">
-                                                        <div class="gdlr-core-item-list-wrap gdlr-core-column-30">
-                                                            <div class="gdlr-core-item-list-inner gdlr-core-item-mglr">
-                                                                <div class="gdlr-core-blog-grid ">
-                                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                                        <a href="#">
-                                                                            <img src="upload/shutterstock_135948689-400x245.jpg" width="700" height="430" alt="" />
-                                                                        </a>
-                                                                    </div>
-                                                                    <div class="gdlr-core-blog-grid-content-wrap">
-                                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
-                                                                            <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                                <a href="#">Akhil</a>
-                                                                            </span>
-                                                                            <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                                <a href="#" rel="tag">Admission</a>
-                                                                                <span class="gdlr-core-sep">,</span>
-                                                                                <a href="#" rel="tag">Student</a>
-                                                                            </span>
-                                                                        </div>
-                                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_11">
-                                                                            <a href="#" >Ashva is doing this</a>
-                                                                        </h3>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="gdlr-core-item-list-wrap gdlr-core-column-30">
-                                                            <div class="gdlr-core-item-list gdlr-core-blog-widget gdlr-core-item-mglr clearfix gdlr-core-style-small">
-                                                                <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                                    <a href="#">
-                                                                        <img src="upload/shutterstock_218235004-150x150.jpg" alt="" width="150" height="150" title="Student" />
-                                                                    </a>
-                                                                </div>
-                                                                <div class="gdlr-core-blog-widget-content">
-                                                                    <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
-                                                                        <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                            <a href="#">VSM</a>
-                                                                        </span>
-                                                                        <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                            <a href="#" rel="tag">Hot</a>
-                                                                            <span class="gdlr-core-sep">,</span>
-                                                                            <a href="#" rel="tag">Updates</a>
-                                                                        </span>
-                                                                    </div>
-                                                                    <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_12">
-                                                                        <a href="#" >A Global MBA for the next generation of business leaders</a>
-                                                                    </h3>
-                                                                </div>
-                                                            </div>
-                                                            <div class="gdlr-core-item-list gdlr-core-blog-widget gdlr-core-item-mglr clearfix gdlr-core-style-small">
-                                                                <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                                    <a href="#">
-                                                                        <img src="upload/shutterstock_481869205-150x150.jpg" alt="" width="150" height="150" title="shutterstock_481869205" />
-                                                                    </a>
-                                                                </div>
-                                                                <div class="gdlr-core-blog-widget-content">
-                                                                    <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
-                                                                        <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                            <a href="#">Sai</a>
-                                                                        </span>
-                                                                        <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                            <a href="#" rel="tag">Admission</a>
-                                                                            <span class="gdlr-core-sep">,</span>
-                                                                            <a href="#" rel="tag">Event</a>
-                                                                        </span>
-                                                                    </div>
-                                                                    <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_13">
-                                                                        <a href="#" >We are here on a Mission</a>
-                                                                    </h3>
-                                                                </div>
-                                                            </div>
-                                                            <div class="gdlr-core-item-list gdlr-core-blog-widget gdlr-core-item-mglr clearfix gdlr-core-style-small">
-                                                                <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                                    <a href="#">
-                                                                        <img src="upload/shutterstock_361397258-150x150.jpg" alt="" width="150" height="150" title="shutterstock_361397258" />
-                                                                    </a>
-                                                                </div>
-                                                                <div class="gdlr-core-blog-widget-content">
-                                                                    <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
-                                                                        <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                            <a href="#">Kishore</a>
-                                                                        </span>
-                                                                        <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                            <a href="#" rel="tag">Article</a>
-                                                                            <span class="gdlr-core-sep">,</span>
-                                                                            <a href="#" rel="tag">Research</a>
-                                                                        </span>
-                                                                    </div>
-                                                                    <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_1dd7_14">
-                                                                        <a href="#" >Artificial inteligence Is rapidly Growing </a>
-                                                                    </h3>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-20" id="gdlr-core-column-8">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-right" id="div_1dd7_48" data-sync-height="height-2">
-                                        <div class="gdlr-core-pbf-background-wrap">
-                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_49" data-parallax-speed="0"></div>
-                                        </div>
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" id="div_1dd7_50">
-                                                    <div class="gdlr-core-title-item-left-icon" id="div_1dd7_51"><i class="icon_link_alt" id="i_1dd7_1"></i></div>
-                                                    <div class="gdlr-core-title-item-left-icon-wrap">
-                                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_15">Quick Links</h3></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"  id="gdlr-core-title-item-id-66469">
-                                                    <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_16"><a href="#" target="_self" >Alumni & Donors</a></h3></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align" id="div_1dd7_52">
-                                                    <div class="gdlr-core-divider-line gdlr-core-skin-divider" id="div_1dd7_53"></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"  id="gdlr-core-title-item-id-42777">
-                                                    <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_17"><a href="#" target="_self" >Athletic Calendar</a></h3></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align" id="div_1dd7_54">
-                                                    <div class="gdlr-core-divider-line gdlr-core-skin-divider" id="div_1dd7_55"></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"  id="gdlr-core-title-item-id-51281">
-                                                    <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_18"><a href="#" target="_self" >All Kingster’s Events</a></h3></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align" id="div_1dd7_56">
-                                                    <div class="gdlr-core-divider-line gdlr-core-skin-divider" id="div_1dd7_57"></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"  id="gdlr-core-title-item-id-78243">
-                                                    <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_19"><a href="#" target="_self" >Partnership & Out Reach</a></h3></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align" id="div_1dd7_58">
-                                                    <div class="gdlr-core-divider-line gdlr-core-skin-divider" id="div_1dd7_59"></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"  id="gdlr-core-title-item-id-14842">
-                                                    <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_20"><a href="#" target="_self" >Academic Programs</a></h3></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align" id="div_1dd7_60">
-                                                    <div class="gdlr-core-divider-line gdlr-core-skin-divider" id="div_1dd7_61"></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"  id="gdlr-core-title-item-id-33183">
-                                                    <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_21"><a href="#" target="_self" >Tution And Fees</a></h3></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align" id="div_1dd7_62">
-                                                    <div class="gdlr-core-divider-line gdlr-core-skin-divider" id="div_1dd7_63"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> -->
+<!-- Team , features,Accreditations,Placements Block -->
                                
                      <div class="gdlr-core-pbf-wrapper " id="div_1dd7_79">
                         <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_80"></div>
@@ -948,6 +431,7 @@
                                             <div class="gdlr-core-tab-item-content-wrap clearfix">
                                                 <div class="gdlr-core-tab-item-content  gdlr-core-active" data-tab-id="1" >
                                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
+
                                                         <div class="gdlr-core-title-item-title-wrap ">
                                                             <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_24">Executive Team<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                                     </div>
@@ -1004,21 +488,7 @@
                                                   <p><img src="placement/hgs.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src = "placement/zenus.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src="placement/aliens.png"> &emsp; &emsp; &emsp; &emsp;&emsp;<img src = "placement/krify.png"></p>
                                                   <p><img src="placement/Indianhealth.png"> &emsp; &emsp; &emsp; &emsp;&emsp; <img src = "placement/wipro.png"> 
                                                   
-<!--<p>TECH MAHINDHRA-46 , TCS-02</p>
-<p>PRIMESOFT-7, COSTAL AQUA-11</p>
-<p>GLENWOOD SYSTEMS-20,  GENPACT-04</p>
-<p>HGS-80, ZENUS-11</p>
-<p>ALIENS GROUP-51,  KRIFY-1</p>
-<p>INDIAN HEALTHCARE-34</p>
-<!--<p>GENPACT-4</p>
-<p>TECH TAMMINA-0</p>
-<p>INFOSYS-25</p>
-<p>COASTAL AQUA-11</p>
-<p>DIVIS LABORATORIES-48</p>
-<p>NICE-59</p>
-<p>INDIAN HEALTHCARE-34</p>
-</p> -->
-                                                </div>
+                                     </div>
                                             </div>
                                         </div>
                                     </div>
@@ -1156,6 +626,7 @@
                         </div>
                     </div>
                     <br>
+                    <!--Why Choose Vsm Block starting -->
                 <center><h3>Why Choose VSM</h3></center>
 
                   <div class="gdlr-core-pbf-wrapper " style="padding: 80px 0px 40px 0px;" data-skin="Column Service">
@@ -1237,7 +708,8 @@
                             </div>
                         </div>
                     </div>
-                    
+                 
+  <!-- Our Cultre Sliding Code Css-->                  
 
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
    <style>
@@ -1330,6 +802,7 @@ html,body {
 }
         
     </style>
+    <!-- Slider of Our Cultre HTML CODE -->
          <div class="container">
             <br>
 
@@ -1378,6 +851,8 @@ html,body {
                                                             <div class="gdlr-core-block-item-title-nav ">
                                                                 <div class="gdlr-core-flexslider-nav gdlr-core-plain-style gdlr-core-block-center"></div>
                                                             </div>
+
+                                                            <!--Testinomials Of Students  -->
                                                             
                                                             <div class="gdlr-core-twitter-content">
                                                                 <div class="gdlr-core-flexslider flexslider gdlr-core-js-2 " data-type="carousel" data-column="1" data-nav="navigation" data-nav-parent="gdlr-core-twitter-item">
@@ -1520,6 +995,8 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                         </div>
                     </div>
 
+                    <!--Students Block -->
+
                     <div class="gdlr-core-pbf-wrapper "  id="gdlr-core-wrapper-3">
                         <div class="gdlr-core-pbf-background-wrap"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
@@ -1591,6 +1068,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                                     </div>
                                                 </div>
                                             </div>
+                                            <!--Hackathons -->
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
                                                     <div class="gdlr-core-title-item-title-wrap clearfix">
@@ -1611,6 +1089,8 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                         </div>
                                     </div>
                                 </div>
+
+                                <!-- About events -->
 
                                 <div class="gdlr-core-pbf-column gdlr-core-column-20">
                                     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " id="div_1dd7_93">
@@ -1657,7 +1137,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                                             </span>
                                                             <div class="gdlr-core-event-item-content-wrap">
                                                                 <h3 class="gdlr-core-event-item-title">
-                                                                    <a href="#" >VSM Alumni Hot Air Ballon Trip in Turkey</a>
+                                                                    <a href="#" >VSM Alumni </a>
                                                                 </h3>
                                                                 <div class="gdlr-core-event-item-info-wrap">
                                                                     <span class="gdlr-core-event-item-info gdlr-core-type-time">
@@ -1709,6 +1189,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                         </div>
                                     </div>
                                 </div>
+                                <!-- News Letter Block -->
                                 <div class="gdlr-core-pbf-column gdlr-core-column-20" data-skin="Newsletter">
                                     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " id="div_1dd7_100">
                                         <div class="gdlr-core-pbf-background-wrap">
@@ -1748,154 +1229,8 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                     </div>
 
 
-                    
-             <!--       <div class="gdlr-core-pbf-wrapper " id="div_1dd7_72">
-                        <div class="gdlr-core-pbf-background-wrap">
-                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_73" data-parallax-speed="0.2"></div>
-                        </div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container-custom" id="div_1dd7_74">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" id="div_1dd7_75">
-                                       <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_76">
-                                            <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=w8efl4rqAz8"><img src="upload/icon-play.png" alt="" width="82" height="82" title="icon-play" /></a>
-                                        </div> 
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_23" style = "color: black;">Video Tour in VSM</h3></div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" id="div_1dd7_77">
-                                        <div class="gdlr-core-text-box-item-content" id="div_1dd7_78">
-                                            <p>Take a tour in VSM and you will find the best university in the state. The video will take you to every places in this university.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-
-
-                    
-              <!--      <div class="gdlr-core-pbf-wrapper " id="div_1dd7_105">
-                        <div class="gdlr-core-pbf-background-wrap">
-                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_106" data-parallax-speed="0"></div>
-                        </div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js "></div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-column gdlr-core-column-30">
-                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                                                    <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_34">Search For Courses</h3></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-course-search-item gdlr-core-item-pdb gdlr-core-item-pdlr">
-                                                    <form class="gdlr-core-course-form clearfix" action="#" method="GET">
-                                                        <div class=" gdlr-core-course-column gdlr-core-column-30 gdlr-core-column-first">
-                                                            <div class="gdlr-core-course-search-field gdlr-core-course-field-keywords">
-                                                                <input type="text" placeholder="Keywords" name="course-keywords" value="" />
-                                                            </div>
-                                                        </div>
-                                                        <div class=" gdlr-core-course-column gdlr-core-column-30">
-                                                            <div class="gdlr-core-course-search-field gdlr-core-course-field-course-id">
-                                                                <input type="text" placeholder="Course ID" name="course-id" value="" />
-                                                            </div>
-                                                        </div>
-                                                        <div class=" gdlr-core-course-column gdlr-core-column-30 gdlr-core-column-first">
-                                                            <div class="gdlr-core-course-search-field gdlr-core-course-field-department">
-                                                                <div class="gdlr-core-course-form-combobox gdlr-core-skin-e-background">
-                                                                    <select class="gdlr-core-skin-e-content" name="department">
-                                                                        <option value="">Department</option>
-                                                                        <option value="business-adminstration">Business Adminstration</option>
-                                                                    </select>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class=" gdlr-core-course-column gdlr-core-column-30">
-                                                            <div class="gdlr-core-course-search-field gdlr-core-course-field-campus">
-                                                                <div class="gdlr-core-course-form-combobox gdlr-core-skin-e-background">
-                                                                    <select class="gdlr-core-skin-e-content" name="campus">
-                                                                        <option value="">Campus</option>
-                                                                        <option value="admans-hall">Adman's Hall</option>
-                                                                        <option value="kingsters-80">Kingster's 80</option>
-                                                                        <option value="ku2-hill">KU2 Hill</option>
-                                                                    </select>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class=" gdlr-core-course-column gdlr-core-column-30 gdlr-core-column-first">
-                                                            <div class="gdlr-core-course-search-field gdlr-core-course-field-level">
-                                                                <div class="gdlr-core-course-form-combobox gdlr-core-skin-e-background">
-                                                                    <select class="gdlr-core-skin-e-content" name="level">
-                                                                        <option value="">Level</option>
-                                                                        <option value="graduate">Graduate</option>
-                                                                        <option value="undergraduate">Undergraduate</option>
-                                                                    </select>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class=" gdlr-core-course-column gdlr-core-column-30">
-                                                            <div class="gdlr-core-course-search-field gdlr-core-course-field-instructor">
-                                                                <div class="gdlr-core-course-form-combobox gdlr-core-skin-e-background">
-                                                                    <select class="gdlr-core-skin-e-content" name="instructor">
-                                                                        <option value="">Instructor</option>
-                                                                        <option value="albert-coman-phd">Albert Coman (PhD)</option>
-                                                                        <option value="angelina-jones-phd">Angelina Jones (PhD)</option>
-                                                                        <option value="bruce-willis-phd">Bruce Willis (PhD)</option>
-                                                                        <option value="carol-dawson-phd">Carol Dawson (PhD)</option>
-                                                                        <option value="john-hagensy">John Hagensy (PhD)</option>
-                                                                    </select>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class=" gdlr-core-course-column gdlr-core-column-30 gdlr-core-column-first">
-                                                            <div class="gdlr-core-course-search-field gdlr-core-course-field-semester">
-                                                                <div class="gdlr-core-course-form-combobox gdlr-core-skin-e-background">
-                                                                    <select class="gdlr-core-skin-e-content" name="semester">
-                                                                        <option value="">Semester</option>
-                                                                        <option value="fall-2018">Fall 2018</option>
-                                                                        <option value="spring-2019">Spring 2019</option>
-                                                                    </select>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class=" gdlr-core-course-column gdlr-core-column-30">
-                                                            <div class="gdlr-core-course-search-field gdlr-core-course-field-credit">
-                                                                <div class="gdlr-core-course-form-combobox gdlr-core-skin-e-background">
-                                                                    <select class="gdlr-core-skin-e-content" name="credit">
-                                                                        <option value="">Credit</option>
-                                                                        <option value="2-000">2.000</option>
-                                                                        <option value="3-000">3.000</option>
-                                                                        <option value="4-000">4.000</option>
-                                                                    </select>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="gdlr-core-course-form-submit gdlr-core-course-column gdlr-core-column-first gdlr-core-center-align">
-                                                            <input class="gdlr-core-full-size" type="submit" value="Search Courses" />
-                                                        </div>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
+                    <!-- Clients List Block -->
+            
                     <div class="gdlr-core-pbf-wrapper " id="div_1dd7_107">
                         <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_108"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
@@ -1926,6 +1261,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                     </div>
                 </div>
             </div>
+            <!-- Fotter Block -->
             <footer>
                 <div class="kingster-footer-wrapper ">
                     <div class="kingster-footer-container kingster-container clearfix">
@@ -1939,7 +1275,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
                                         <br />Pincode - 533255</p>
                                     <p><span id="span_1dd7_11">Phone : 9030607687,7729972288,7729972289,7729972290</span>
                                         <br /> <span class="gdlr-core-space-shortcode" id="span_1dd7_12"></span>
-                                        <br /> <a id="a_1dd7_8" href="mailto:admin@kingsteruni.edu">admin@kvsm.in</a></p>
+                                        <br /> <a id="a_1dd7_8" href="admin@vsm.in">admin@vsm.in</a></p>
                                     <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-left-align">
                                         <div class="gdlr-core-divider-line gdlr-core-skin-divider" id="div_1dd7_111"></div>
                                     </div>
@@ -2026,7 +1362,7 @@ I am very grateful to VSM for providing me such a great platform to not only enh
     </div>
 
 
-	<script type='text/javascript' src='js/jquery/jquery.js'></script>
+    <script type='text/javascript' src='js/jquery/jquery.js'></script>
     <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
     <script type='text/javascript' src='plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
     <script type='text/javascript' src='plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
@@ -2163,137 +1499,137 @@ I am very grateful to VSM for providing me such a great platform to not only enh
     </script>
     <script type='text/javascript' src='js/plugins.min.js'></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-	<script>
-	    /*<![CDATA[*/
-	    var htmlDiv = document.getElementById("rs-plugin-settings-inline-css");
-	    var htmlDivCss = "";
-	    if (htmlDiv) {
-	        htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-	    } else {
-	        var htmlDiv = document.createElement("div");
-	        htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
-	        document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
-	    } /*]]>*/
-	</script>
-	<script type="text/javascript">
-	    /*<![CDATA[*/
-	    if (setREVStartSize !== undefined) setREVStartSize({
-	        c: '#rev_slider_1_1',
-	        gridwidth: [1380],
-	        gridheight: [713],
-	        sliderLayout: 'auto'
-	    });
-	    var revapi1, tpj;
-	    (function() {
-	        if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded", onLoad);
-	        else onLoad();
+    <script>
+        /*<![CDATA[*/
+        var htmlDiv = document.getElementById("rs-plugin-settings-inline-css");
+        var htmlDivCss = "";
+        if (htmlDiv) {
+            htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+        } else {
+            var htmlDiv = document.createElement("div");
+            htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+            document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+        } /*]]>*/
+    </script>
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        if (setREVStartSize !== undefined) setREVStartSize({
+            c: '#rev_slider_1_1',
+            gridwidth: [1380],
+            gridheight: [713],
+            sliderLayout: 'auto'
+        });
+        var revapi1, tpj;
+        (function() {
+            if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded", onLoad);
+            else onLoad();
 
-	        function onLoad() {
-	            if (tpj === undefined) {
-	                tpj = jQuery;
-	                if ("off" == "on") tpj.noConflict();
-	            }
-	            if (tpj("#rev_slider_1_1").revolution == undefined) {
-	                revslider_showDoubleJqueryError("#rev_slider_1_1");
-	            } else {
-	                revapi1 = tpj("#rev_slider_1_1").show().revolution({
-	                    sliderType: "standard",
-	                    jsFileLocation: "//demo.goodlayers.com/kingster/wp-content/plugins/revslider/public/assets/js/",
-	                    sliderLayout: "auto",
-	                    dottedOverlay: "none",
-	                    delay: 9000,
-	                    navigation: {
-	                        keyboardNavigation: "off",
-	                        keyboard_direction: "horizontal",
-	                        mouseScrollNavigation: "off",
-	                        mouseScrollReverse: "default",
-	                        onHoverStop: "off",
-	                        touch: {
-	                            touchenabled: "on",
-	                            touchOnDesktop: "off",
-	                            swipe_threshold: 75,
-	                            swipe_min_touches: 1,
-	                            swipe_direction: "horizontal",
-	                            drag_block_vertical: false
-	                        },
-	                        arrows: {
-	                            style: "uranus",
-	                            enable: true,
-	                            hide_onmobile: true,
-	                            hide_under: 1500,
-	                            hide_onleave: true,
-	                            hide_delay: 200,
-	                            hide_delay_mobile: 1200,
-	                            tmp: '',
-	                            left: {
-	                                h_align: "left",
-	                                v_align: "center",
-	                                h_offset: 20,
-	                                v_offset: 0
-	                            },
-	                            right: {
-	                                h_align: "right",
-	                                v_align: "center",
-	                                h_offset: 20,
-	                                v_offset: 0
-	                            }
-	                        },
-	                        bullets: {
-	                            enable: true,
-	                            hide_onmobile: false,
-	                            hide_over: 1499,
-	                            style: "uranus",
-	                            hide_onleave: true,
-	                            hide_delay: 200,
-	                            hide_delay_mobile: 1200,
-	                            direction: "horizontal",
-	                            h_align: "center",
-	                            v_align: "bottom",
-	                            h_offset: 0,
-	                            v_offset: 30,
-	                            space: 7,
-	                            tmp: '<span class="tp-bullet-inner"></span>'
-	                        }
-	                    },
-	                    visibilityLevels: [1240, 1024, 778, 480],
-	                    gridwidth: 1380,
-	                    gridheight: 713,
-	                    lazyType: "none",
-	                    shadow: 0,
-	                    spinner: "off",
-	                    stopLoop: "off",
-	                    stopAfterLoops: -1,
-	                    stopAtSlide: -1,
-	                    shuffle: "off",
-	                    autoHeight: "off",
-	                    disableProgressBar: "on",
-	                    hideThumbsOnMobile: "off",
-	                    hideSliderAtLimit: 0,
-	                    hideCaptionAtLimit: 0,
-	                    hideAllCaptionAtLilmit: 0,
-	                    debugMode: false,
-	                    fallbacks: {
-	                        simplifyAll: "off",
-	                        nextSlideOnWindowFocus: "off",
-	                        disableFocusListener: false,
-	                    }
-	                });
-	            };
-	        };
-	    }()); /*]]>*/
-	</script>
-	<script>
-	    /*<![CDATA[*/
-	    var htmlDivCss = unescape("%23rev_slider_1_1%20.uranus.tparrows%20%7B%0A%20%20width%3A50px%3B%0A%20%20height%3A50px%3B%0A%20%20background%3Argba%28255%2C255%2C255%2C0%29%3B%0A%20%7D%0A%20%23rev_slider_1_1%20.uranus.tparrows%3Abefore%20%7B%0A%20width%3A50px%3B%0A%20height%3A50px%3B%0A%20line-height%3A50px%3B%0A%20font-size%3A40px%3B%0A%20transition%3Aall%200.3s%3B%0A-webkit-transition%3Aall%200.3s%3B%0A%20%7D%0A%20%0A%20%20%23rev_slider_1_1%20.uranus.tparrows%3Ahover%3Abefore%20%7B%0A%20%20%20%20opacity%3A0.75%3B%0A%20%20%7D%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%7B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20box-shadow%3A%200%200%200%202px%20rgba%28255%2C%20255%2C%20255%2C%200%29%3B%0A%20%20-webkit-transition%3A%20box-shadow%200.3s%20ease%3B%0A%20%20transition%3A%20box-shadow%200.3s%20ease%3B%0A%20%20background%3Atransparent%3B%0A%20%20width%3A15px%3B%0A%20%20height%3A15px%3B%0A%7D%0A%23rev_slider_1_1%20.uranus%20.tp-bullet.selected%2C%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%3Ahover%20%7B%0A%20%20box-shadow%3A%200%200%200%202px%20rgba%28255%2C%20255%2C%20255%2C1%29%3B%0A%20%20border%3Anone%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background%3Atransparent%3B%0A%7D%0A%0A%23rev_slider_1_1%20.uranus%20.tp-bullet-inner%20%7B%0A%20%20-webkit-transition%3A%20background-color%200.3s%20ease%2C%20-webkit-transform%200.3s%20ease%3B%0A%20%20transition%3A%20background-color%200.3s%20ease%2C%20transform%200.3s%20ease%3B%0A%20%20top%3A%200%3B%0A%20%20left%3A%200%3B%0A%20%20width%3A%20100%25%3B%0A%20%20height%3A%20100%25%3B%0A%20%20outline%3A%20none%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background-color%3A%20rgb%28255%2C%20255%2C%20255%29%3B%0A%20%20background-color%3A%20rgba%28255%2C%20255%2C%20255%2C%200.3%29%3B%0A%20%20text-indent%3A%20-999em%3B%0A%20%20cursor%3A%20pointer%3B%0A%20%20position%3A%20absolute%3B%0A%7D%0A%0A%23rev_slider_1_1%20.uranus%20.tp-bullet.selected%20.tp-bullet-inner%2C%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%3Ahover%20.tp-bullet-inner%7B%0A%20transform%3A%20scale%280.4%29%3B%0A%20-webkit-transform%3A%20scale%280.4%29%3B%0A%20background-color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%7D%0A");
-	    var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
-	    if (htmlDiv) {
-	        htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-	    } else {
-	        var htmlDiv = document.createElement('div');
-	        htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
-	        document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
-	    } /*]]>*/
-	</script>
+            function onLoad() {
+                if (tpj === undefined) {
+                    tpj = jQuery;
+                    if ("off" == "on") tpj.noConflict();
+                }
+                if (tpj("#rev_slider_1_1").revolution == undefined) {
+                    revslider_showDoubleJqueryError("#rev_slider_1_1");
+                } else {
+                    revapi1 = tpj("#rev_slider_1_1").show().revolution({
+                        sliderType: "standard",
+                        jsFileLocation: "//demo.goodlayers.com/kingster/wp-content/plugins/revslider/public/assets/js/",
+                        sliderLayout: "auto",
+                        dottedOverlay: "none",
+                        delay: 9000,
+                        navigation: {
+                            keyboardNavigation: "off",
+                            keyboard_direction: "horizontal",
+                            mouseScrollNavigation: "off",
+                            mouseScrollReverse: "default",
+                            onHoverStop: "off",
+                            touch: {
+                                touchenabled: "on",
+                                touchOnDesktop: "off",
+                                swipe_threshold: 75,
+                                swipe_min_touches: 1,
+                                swipe_direction: "horizontal",
+                                drag_block_vertical: false
+                            },
+                            arrows: {
+                                style: "uranus",
+                                enable: true,
+                                hide_onmobile: true,
+                                hide_under: 1500,
+                                hide_onleave: true,
+                                hide_delay: 200,
+                                hide_delay_mobile: 1200,
+                                tmp: '',
+                                left: {
+                                    h_align: "left",
+                                    v_align: "center",
+                                    h_offset: 20,
+                                    v_offset: 0
+                                },
+                                right: {
+                                    h_align: "right",
+                                    v_align: "center",
+                                    h_offset: 20,
+                                    v_offset: 0
+                                }
+                            },
+                            bullets: {
+                                enable: true,
+                                hide_onmobile: false,
+                                hide_over: 1499,
+                                style: "uranus",
+                                hide_onleave: true,
+                                hide_delay: 200,
+                                hide_delay_mobile: 1200,
+                                direction: "horizontal",
+                                h_align: "center",
+                                v_align: "bottom",
+                                h_offset: 0,
+                                v_offset: 30,
+                                space: 7,
+                                tmp: '<span class="tp-bullet-inner"></span>'
+                            }
+                        },
+                        visibilityLevels: [1240, 1024, 778, 480],
+                        gridwidth: 1380,
+                        gridheight: 713,
+                        lazyType: "none",
+                        shadow: 0,
+                        spinner: "off",
+                        stopLoop: "off",
+                        stopAfterLoops: -1,
+                        stopAtSlide: -1,
+                        shuffle: "off",
+                        autoHeight: "off",
+                        disableProgressBar: "on",
+                        hideThumbsOnMobile: "off",
+                        hideSliderAtLimit: 0,
+                        hideCaptionAtLimit: 0,
+                        hideAllCaptionAtLilmit: 0,
+                        debugMode: false,
+                        fallbacks: {
+                            simplifyAll: "off",
+                            nextSlideOnWindowFocus: "off",
+                            disableFocusListener: false,
+                        }
+                    });
+                };
+            };
+        }()); /*]]>*/
+    </script>
+    <script>
+        /*<![CDATA[*/
+        var htmlDivCss = unescape("%23rev_slider_1_1%20.uranus.tparrows%20%7B%0A%20%20width%3A50px%3B%0A%20%20height%3A50px%3B%0A%20%20background%3Argba%28255%2C255%2C255%2C0%29%3B%0A%20%7D%0A%20%23rev_slider_1_1%20.uranus.tparrows%3Abefore%20%7B%0A%20width%3A50px%3B%0A%20height%3A50px%3B%0A%20line-height%3A50px%3B%0A%20font-size%3A40px%3B%0A%20transition%3Aall%200.3s%3B%0A-webkit-transition%3Aall%200.3s%3B%0A%20%7D%0A%20%0A%20%20%23rev_slider_1_1%20.uranus.tparrows%3Ahover%3Abefore%20%7B%0A%20%20%20%20opacity%3A0.75%3B%0A%20%20%7D%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%7B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20box-shadow%3A%200%200%200%202px%20rgba%28255%2C%20255%2C%20255%2C%200%29%3B%0A%20%20-webkit-transition%3A%20box-shadow%200.3s%20ease%3B%0A%20%20transition%3A%20box-shadow%200.3s%20ease%3B%0A%20%20background%3Atransparent%3B%0A%20%20width%3A15px%3B%0A%20%20height%3A15px%3B%0A%7D%0A%23rev_slider_1_1%20.uranus%20.tp-bullet.selected%2C%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%3Ahover%20%7B%0A%20%20box-shadow%3A%200%200%200%202px%20rgba%28255%2C%20255%2C%20255%2C1%29%3B%0A%20%20border%3Anone%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background%3Atransparent%3B%0A%7D%0A%0A%23rev_slider_1_1%20.uranus%20.tp-bullet-inner%20%7B%0A%20%20-webkit-transition%3A%20background-color%200.3s%20ease%2C%20-webkit-transform%200.3s%20ease%3B%0A%20%20transition%3A%20background-color%200.3s%20ease%2C%20transform%200.3s%20ease%3B%0A%20%20top%3A%200%3B%0A%20%20left%3A%200%3B%0A%20%20width%3A%20100%25%3B%0A%20%20height%3A%20100%25%3B%0A%20%20outline%3A%20none%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background-color%3A%20rgb%28255%2C%20255%2C%20255%29%3B%0A%20%20background-color%3A%20rgba%28255%2C%20255%2C%20255%2C%200.3%29%3B%0A%20%20text-indent%3A%20-999em%3B%0A%20%20cursor%3A%20pointer%3B%0A%20%20position%3A%20absolute%3B%0A%7D%0A%0A%23rev_slider_1_1%20.uranus%20.tp-bullet.selected%20.tp-bullet-inner%2C%0A%23rev_slider_1_1%20.uranus%20.tp-bullet%3Ahover%20.tp-bullet-inner%7B%0A%20transform%3A%20scale%280.4%29%3B%0A%20-webkit-transform%3A%20scale%280.4%29%3B%0A%20background-color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%7D%0A");
+        var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+        if (htmlDiv) {
+            htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+        } else {
+            var htmlDiv = document.createElement('div');
+            htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+            document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+        } /*]]>*/
+    </script>
     <script src="jquery.counterup.min.js"></script>
     <script src="js/wow.min.js"></script>
 </body>
